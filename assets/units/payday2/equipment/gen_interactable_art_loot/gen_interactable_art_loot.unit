@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<unit type="gen" slot="1">
+	<object file="units/payday2/equipment/gen_interactable_art_loot/gen_interactable_art_loot" />
+	<network sync="spawn"/>
+	<extensions>
+		<extension name="unit_data"	class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction" 	class="CarryInteractionExt">
+			<var name="tweak_data" 				value="hold_take_painting" />
+			<!-- <var name="_interact_object" 		value="int_location"/> -->
+			<var name="_remove_on_interact" 	value="true" />
+			<var name="_global_event" value="pku_painting" />
+			<var name="_ray_object_names" type="table" >
+				<var value="rp_gen_interactable_art_loot"/>
+			</var>
+		</extension>
+		<extension name="carry_data" class="CarryData">
+			<var name="_carry_id" value="painting" />
+		</extension>
+	</extensions>
+</unit>

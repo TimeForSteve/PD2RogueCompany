@@ -1,0 +1,6 @@
+<materials version="3">
+	<material name="mtr_sheet_metal" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2" >
+		<diffuse_texture file="units/world/architecture/train/tra_int_floor_metal/tra_int_metal_floor_df"/>
+		<bump_normal_texture file="units/world/architecture/train/tra_int_floor_metal/tra_int_metal_floor_nm"/>
+	</material>
+</materials>

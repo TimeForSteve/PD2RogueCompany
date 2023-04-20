@@ -1,0 +1,6 @@
+<materials version="3">
+    <material name="des_prop_roof" render_template="generic:DIFFUSE_TEXTURE" version="2">
+        <diffuse_texture file="units/world/props/desert/des_prop_roof/des_prop_roof_satelite_dish_pole_df"/>
+    </material>
+	<material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
+</materials>

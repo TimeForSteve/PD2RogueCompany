@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<dynamic_object>
+	<diesel materials="units/world/architecture/bridge/bridge_construction_tower" orientation_object="rp_bridge_construction_tower_01" />
+	<bodies>
+		<body name="static_body" enabled="true" template="static">
+			<object name="rp_bridge_construction_tower_01"/>
+			<object name="c_bridge_construction_tower_01" collision_type="mesh_mopp" />
+		</body>
+		<body name="static_body" enabled="true" template="nav_walk">
+			<object name="c_nav_walk" collision_type="mesh_mopp" />
+		</body>
+	</bodies>
+	<decal_surfaces default_material="metal" static="true">
+		<decal_mesh name="dm_bridge_construction_tower_01_metal_catwalk" material="metal_catwalk" enabled="true" />
+		<decal_mesh name="dm_bridge_construction_tower_01_hardwood" material="wood" enabled="true" />
+		<decal_mesh name="dm_bridge_construction_tower_01_cloth" material="thin_layer" enabled="true" />
+		<decal_mesh name="dm_bridge_construction_tower_01_metal" material="metal_hollow" enabled="true" />
+	</decal_surfaces>
+	<graphics>
+		<lod_object name="tower">
+			<object name="g_bridge_construction_tower_01" enabled="true" max_distance="3000" lod="0"/>
+			<object name="g_bridge_construction_tower_01_lod" enabled="true" lod="1"/>
+		</lod_object>
+		<lod_object name="tower_transp">
+			<object name="g_bridge_construction_tower_transp_01" enabled="true" max_distance="5000" lod="0"/>
+			<object name="g_bridge_construction_tower_transp_01_lod" enabled="true" lod="1"/>
+		</lod_object>
+	</graphics>
+	
+	<occluders>
+		<occluder name="oc_plane_01" />
+		<occluder name="oc_plane_02" />
+		<occluder name="oc_plane_03" />
+		<occluder name="oc_plane_04" />
+		<occluder name="oc_plane_05" />
+		<occluder name="oc_plane_06" />
+		<occluder name="oc_plane_07" />
+		<occluder name="oc_plane_08" />
+		<occluder name="oc_plane_09" />
+		<occluder name="oc_plane_10" />
+		<occluder name="oc_plane_11" />
+		<occluder name="oc_plane_12" />
+		<occluder name="oc_plane_13" />
+		<occluder name="oc_plane_14" />
+		<occluder name="oc_plane_15" />
+		<occluder name="oc_plane_16" />
+		<occluder name="oc_plane_17" />
+		<occluder name="oc_plane_18" />
+		<occluder name="oc_plane_19" />
+		<occluder name="oc_plane_20" />
+		<occluder name="oc_plane_21" />
+		<occluder name="oc_plane_22" />
+		<occluder name="oc_plane_23" />
+		<occluder name="oc_plane_24" />
+		<occluder name="oc_plane_25" />
+		<occluder name="oc_plane_26" />
+	</occluders>
+</dynamic_object> 

@@ -1,0 +1,17 @@
+<materials version="3">
+	<material name="mat_bry_box" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_berry/props/bry_prop_mechanical_powerbox/bry_prop_mechanical_powerbox_df" />
+		<bump_normal_texture file="units/pd2_dlc_berry/props/bry_prop_mechanical_powerbox/bry_prop_mechanical_powerbox_nm" />
+	</material>
+	<material name="mat_bry_box_lod" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_berry/props/bry_prop_mechanical_powerbox/bry_prop_mechanical_powerbox_df" mip="4" />
+		<bump_normal_texture file="units/pd2_dlc_berry/props/bry_prop_mechanical_powerbox/bry_prop_mechanical_powerbox_nm" mip="4" />
+	</material>
+	<material name="mat_bry_panel" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION" version="2">
+		<diffuse_texture file="units/pd2_dlc_berry/props/bry_prop_mechanical_powerbox/bry_prop_mechanical_powerbox_panel_df" />
+		<bump_normal_texture file="units/pd2_dlc_berry/props/bry_prop_mechanical_powerbox/bry_prop_mechanical_powerbox_panel_nm" />
+		<self_illumination_texture file="units/pd2_dlc_berry/props/bry_prop_mechanical_powerbox/bry_prop_mechanical_powerbox_panel_il" />
+		<variable name="il_multiplier" type="scalar" value="identity" />
+	</material>
+	<material name="shadow_caster" render_template="shadow_caster_only" version="2" />
+</materials>

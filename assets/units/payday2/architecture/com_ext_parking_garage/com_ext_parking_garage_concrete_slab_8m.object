@@ -1,0 +1,19 @@
+<dynamic_object>
+    <diesel orientation_object="rp_com_ext_parking_garage_concrete_slab_8m" materials="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_concrete" />
+	
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+			<object name="rp_com_ext_parking_garage_concrete_slab_8m"/>
+			<object name="c_box_000" collision_type="box" padding="-2.5"/>
+		
+        </body>
+    </bodies>
+	
+	<decal_surfaces default_material="concrete">
+        <decal_mesh enabled="true" name="dm_concrete" material="concrete" />
+    </decal_surfaces>
+	
+    <graphics>
+        <object enabled="true" name="g_g" shadow_caster="true"/>
+    </graphics>
+</dynamic_object>

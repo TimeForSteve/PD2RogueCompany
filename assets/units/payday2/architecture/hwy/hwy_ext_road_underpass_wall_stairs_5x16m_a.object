@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<dynamic_object>
+	<diesel materials="units/payday2/architecture/hwy/hwy_v2" orientation_object="rp_hwy_ext_road_underpass_wall_stairs_5x16m_a" />
+    <bodies>
+        <body name="static_body" template="static" enabled="true" >
+            <object name="rp_hwy_ext_road_underpass_wall_stairs_5x16m_a"/>
+			<object name="c_box_01" collision_type="box" padding="-2.5"/>
+			<object name="c_box_02" collision_type="box" padding="-2.5"/>
+			<object name="c_box_03" collision_type="box" padding="-2.5"/>
+			<object name="c_box_04" collision_type="box" padding="-2.5"/>
+			<object name="c_box_05" collision_type="box" padding="-2.5"/>
+			<object name="c_box_06" collision_type="box" padding="-2.5"/>
+			<object name="c_box_07" collision_type="box" padding="-2.5"/>
+			<object name="c_box_08" collision_type="box" padding="-2.5"/>
+			<object name="c_box_09" collision_type="box" padding="-2.5"/>
+			<object name="c_convex_01" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_02" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_03" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_04" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_05" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_06" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_07" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_08" collision_type="convex" padding="-2.5"/>
+			<object name="c_convex_09" collision_type="convex" padding="-2.5"/>
+			
+			<object name="c_capsule_01" collision_type="capsule" padding="-2.5"/>
+			<object name="c_capsule_02" collision_type="capsule" padding="-2.5"/>
+			<object name="c_capsule_03" collision_type="capsule" padding="-2.5"/>
+			<object name="c_capsule_04" collision_type="capsule" padding="-2.5"/>
+			<object name="c_capsule_05" collision_type="capsule" padding="-2.5"/>
+			<object name="c_capsule_06" collision_type="capsule" padding="-2.5"/>
+			<object name="c_capsule_07" collision_type="capsule" padding="-2.5"/>
+			<object name="c_capsule_08" collision_type="capsule" padding="-2.5"/>
+			<object name="c_capsule_09" collision_type="capsule" padding="-2.5"/>
+			<object name="c_capsule_10" collision_type="capsule" padding="-2.5"/>
+			<object name="c_capsule_11" collision_type="capsule" padding="-2.5"/>
+			<object name="c_capsule_12" collision_type="capsule" padding="-2.5"/>
+        </body>
+    </bodies>
+	
+	<decal_surfaces default_material="stone" static="true">
+		<decal_mesh name="g_hwy_ext_road_underpass_wall_stairs_5x16m_a" material="stone" enabled="true"/>
+	</decal_surfaces> 
+	
+    <graphics>
+        <object enabled="true" name="g_hwy_ext_road_underpass_wall_stairs_5x16m_a" shadow_caster="false" />
+		<object name="s_s" enabled="true" shadow_caster="true"/>
+    </graphics>
+</dynamic_object> 

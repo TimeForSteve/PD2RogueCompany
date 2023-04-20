@@ -1,0 +1,17 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_berry/props/bry_prop_barbed_wire/bry_prop_barbed_wire" orientation_object="rp_bry_prop_barbed_wire" />
+	<bodies>
+		<body name="body_static" enabled="true" template="editor">
+			<object name="rp_bry_prop_barbed_wire" />
+			<object name="c_box_01" collision_type="box" padding="-2.5" />
+			<object name="c_box_02" collision_type="box" padding="-2.5" />
+			<object name="c_box_03" collision_type="box" padding="-2.5" />
+			<object name="c_box_04" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+	<graphics>
+		<object name="g_wire_01" enabled="true" />
+		<object name="g_wire_02" enabled="true" />
+		<object name="g_wire_03" enabled="true" />
+	</graphics>
+</dynamic_object>

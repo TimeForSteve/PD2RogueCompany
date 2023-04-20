@@ -1,0 +1,5 @@
+<materials version="3">
+	<material name="mtr_vault_blueprint" render_template="generic:DIFFUSE_TEXTURE" version="2">
+		<diffuse_texture file="units/pd2_dlc_mex/props/mex_prop_vault_blueprint/mex_prop_vault_blueprint_df" />
+	</material>
+</materials>

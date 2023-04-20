@@ -1,0 +1,12 @@
+<unit type="brb" slot="1">
+	<network sync="spawn"/>
+	<object file="units/pd2_dlc_brb/props/brb_prop_torn_tarp/brb_prop_torn_tarp" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction" class="UseInteractionExt">
+			<var name="tweak_data" value="hold_cut_tarp" />
+			<var name="_interact_object" value="interact"/>
+		</extension>
+	</extensions>
+</unit>

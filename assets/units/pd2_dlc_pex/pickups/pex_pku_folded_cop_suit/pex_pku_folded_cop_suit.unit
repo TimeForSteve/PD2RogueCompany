@@ -1,0 +1,15 @@
+<unit type="pex" slot="1">
+	<network sync="spawn"/>
+	<object file="units/pd2_dlc_pex/pickups/pex_pku_folded_cop_suit/pex_pku_folded_cop_suit" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction" class="SpecialEquipmentInteractionExt" >
+			<var name="_interact_object" value="interact" />
+			<var name="_special_equipment" value="police_uniform" />
+			<var name="_remove_on_interact" value="true" />
+			<var name="tweak_data" value="pickup_police_uniform" />
+			<var name="_global_event" value="pku_police_uniform" />
+		</extension>
+	</extensions>
+</unit>

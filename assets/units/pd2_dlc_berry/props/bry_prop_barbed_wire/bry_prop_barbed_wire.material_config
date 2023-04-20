@@ -1,0 +1,7 @@
+<materials version="3">
+    <material name="mat_bry_razorwire" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:DOUBLE_SIDED:EXTERNAL_ALPHA_REF:NORMALMAP" version="2">
+        <diffuse_texture file="units/pd2_dlc_berry/props/bry_prop_barbed_wire/bry_prop_barbed_wire_df"/>
+        <bump_normal_texture file="units/payday2/props/air_prop_runway_fence/air_texture_razorwire_nm"/>
+        <variable value="0.74699997901917" type="scalar" name="alpha_ref"/>
+    </material>
+</materials>

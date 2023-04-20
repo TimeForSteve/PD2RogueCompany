@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/world/props/yacht/bath/soap" orientation_object="rp_lxy_prop_bath_toothbrush" />
+	<bodies>
+		<body name="default_body" enabled="true" template="editor">
+			<object name="rp_lxy_prop_bath_toothbrush" />
+			<object name="g_lxy_prop_bath_toothbrush" enabled="true" collision_type="box" />
+		</body>
+	</bodies>
+  <graphics>
+    <object name="g_lxy_prop_bath_toothbrush" enabled="true" instance_struct="world_tm" />
+  </graphics>
+</dynamic_object> 

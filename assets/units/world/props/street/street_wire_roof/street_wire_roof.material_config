@@ -1,0 +1,5 @@
+<materials version="3">
+    <material name="street_wires_roof" render_template="generic:DIFFUSE_TEXTURE:INSTANCED" version="2">
+        <diffuse_texture file="units/world/props/street/street_wire_roof/street_wire_roof_df"/>
+    </material>
+</materials>

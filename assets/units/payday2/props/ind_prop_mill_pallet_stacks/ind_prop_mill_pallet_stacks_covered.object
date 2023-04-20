@@ -1,0 +1,12 @@
+<dynamic_object>
+    <diesel orientation_object="rp_pallet_pile_covered" materials="units/payday2/props/ind_prop_mill_pallet_stacks/ind_prop_mill_pallet_stacks_covered" />
+    <bodies>
+        <body enabled="true" template="static" name="body0" >
+            <object name="rp_pallet_pile_covered" />
+            <object collision_type="box" name="c_box_01" />
+        </body>
+    </bodies>
+    <graphics>
+        <object enabled="true" name="g_mesh"  instance_struct="world_tm" shadow_caster="true"/>
+    </graphics>
+</dynamic_object>

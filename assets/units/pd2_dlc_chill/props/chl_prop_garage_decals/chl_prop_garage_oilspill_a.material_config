@@ -1,0 +1,5 @@
+<materials version="3">
+    <material name="mat_oil" render_template="decal:DIFFUSE_TEXTURE" version="2">
+        <diffuse_texture file="units/pd2_dlc_chill/props/chl_prop_garage_decals/chl_prop_garage_oilspill_df"/>
+    </material>
+</materials>

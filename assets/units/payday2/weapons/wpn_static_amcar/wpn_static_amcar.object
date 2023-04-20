@@ -1,0 +1,11 @@
+<dynamic_object>
+    <diesel orientation_object="rp_wpn_static_amcar" materials="units/payday2/weapons/wpn_static_amcar/wpn_static_amcar" />
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+            <object collision_type="box" name="c_box" />
+        </body>
+    </bodies>
+    <graphics>
+        <object enabled="true" name="g_amcar_third_static" />
+    </graphics>
+</dynamic_object>

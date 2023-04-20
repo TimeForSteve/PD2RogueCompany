@@ -1,0 +1,14 @@
+<unit type="mad" slot="1">
+	<object file="units/pd2_dlc_mad/props/mad_interactable_weapon_case/mad_interactable_weapon_case_1x1_closed" />
+	<network sync="spawn"/>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction"		 class="SpecialEquipmentInteractionExt">
+			<var name="tweak_data"			 value="hold_pku_briefcase" />
+			<var name="interact_object"	 value="interact_locator"/>
+		    <var name="_special_equipment" value="briefcase" />
+			<var name="_remove_on_interact" value="true" />
+	</extension>
+	</extensions>
+</unit>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<unit type="bri" slot="1">
+  <object file="units/world/architecture/bridge/bridge_construction_tower_01/bridge_construction_tower_01" />
+  <extensions>
+    <extension name="unit_data" class="ScriptUnitData" />
+  </extensions>
+</unit>

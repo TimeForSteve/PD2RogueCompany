@@ -1,0 +1,6 @@
+<unit type="ind" slot="1" >
+    <object file="units/pd2_dlc_cro/ind_container_inside_a/ind_container_inside_a" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>

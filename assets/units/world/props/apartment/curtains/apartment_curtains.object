@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/world/props/apartment/curtains/apartment_curtains" orientation_object="rp_apartment_curtain" />
+  <bodies>
+    <body name="new_body" enabled="true" template="static">
+      <object name="rp_apartment_curtain" />
+      <object name="g_curtain" collision_type="mesh_mopp" />
+    </body>
+  </bodies>
+  <decal_surfaces default_material="thin_layer">
+    <decal_mesh name="dm_cloth" enabled="true" material="thin_layer"/>
+    <decal_mesh name="dm_wood" enabled="true" material="wood"/>
+  </decal_surfaces>
+  <graphics>
+    <object name="g_curtain" enabled="true" instance_struct="world_tm" />
+  </graphics>
+</dynamic_object> 

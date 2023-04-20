@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/world/props/street/street_wire_roof/street_wire_roof" orientation_object="rp_street_wire_roof_medium" />
+<bodies>
+    <body name="static_body" enabled="true" template="editor">
+      <object name="g_street_wire_roof_medium" collision_type="box" />
+    </body>
+  </bodies> 
+  <graphics>
+    <object name="g_street_wire_roof_medium" enabled="true" instance_struct="world_tm"/>
+  </graphics>
+</dynamic_object>

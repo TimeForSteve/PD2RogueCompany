@@ -1,0 +1,25 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_chico/weapons/gen_prop_contraband/gen_prop_contraband" orientation_object="rp_gen_prop_contraband" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="rp_gen_prop_contraband" />
+			<object name="c_box" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+	<graphics>
+		<object name="g_standard" enabled="true" />
+		<object name="g_barrel" enabled="true" />
+		<object name="g_gas" enabled="true" />
+		<object name="g_nozzle" enabled="true" />
+		<object name="g_sight" enabled="true" />
+		<object name="g_draghandle" enabled="true" />
+		<object name="g_m" enabled="true" />
+		<object name="g_stock" enabled="true" />
+		<object name="g_fg" enabled="true" />
+		<object name="g_base" enabled="true" />
+		<object name="g_b" enabled="true" />
+		<object name="g_lower" enabled="true" />
+		<object name="g_upper" enabled="true" />
+		<object name="g_bolt" enabled="true" />
+	</graphics>
+</dynamic_object>

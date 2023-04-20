@@ -1,0 +1,14 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_holly/river/architecture/lxa_backdrop/lxa_bdrop_industrial" orientation_object="rp_lxa_bdrop_mid_industrial_c" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="rp_lxa_bdrop_mid_industrial_c" />
+			<object name="c_box_01" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+	<graphics>
+		<object name="g_g" enabled="true" />
+		<object name="g_il" enabled="true" />
+		<object name="s_s" enabled="true" shadow_caster="true" />
+	</graphics>
+</dynamic_object>

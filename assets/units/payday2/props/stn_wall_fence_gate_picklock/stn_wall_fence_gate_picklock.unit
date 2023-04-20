@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<unit type="stn" slot="1">
+	<object file="units/payday2/props/stn_wall_fence_gate_picklock/stn_wall_fence_gate_picklock" />
+	<network sync="spawn"/>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction" class="UseInteractionExt">
+			<var name="tweak_data" value="pick_lock_easy_no_skill" />
+			<var name="_interact_object" value="int_location"/>
+		</extension>
+	</extensions>
+</unit>

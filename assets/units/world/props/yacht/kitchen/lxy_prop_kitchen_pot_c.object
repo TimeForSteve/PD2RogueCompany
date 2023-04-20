@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/world/props/yacht/kitchen/kitchen" orientation_object="rp_lxy_prop_kitchen_pot_c" />
+  <bodies>
+    <body name="static_body" enabled="true" template="raycoll_static">
+      <object name="c_01_convex" collision_type="convex" padding="-3"/>
+    </body>
+  </bodies>
+  <decal_surfaces default_material="metal">
+    <decal_mesh name="dm_lxy_prop_kitchen_pot_c" enabled="true" material="metal" />
+  </decal_surfaces>
+  <graphics>
+    <object name="g_lxy_prop_kitchen_pot_c" enabled="true"  />
+  </graphics>
+</dynamic_object>

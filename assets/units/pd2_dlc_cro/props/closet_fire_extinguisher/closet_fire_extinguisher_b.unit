@@ -1,0 +1,6 @@
+<unit type="str" slot="1">
+    <object file="units/pd2_dlc_cro/props/closet_fire_extinguisher/closet_fire_extinguisher_b" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>

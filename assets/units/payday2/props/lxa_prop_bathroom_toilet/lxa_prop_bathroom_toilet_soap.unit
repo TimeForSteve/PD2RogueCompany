@@ -1,0 +1,7 @@
+<unit type="lxa" slot="1" >
+    <object file="units/payday2/props/lxa_prop_bathroom_toilet/lxa_prop_bathroom_toilet_soap" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+		<extension name="damage" class="UnitDamage" />
+    </extensions>
+</unit>

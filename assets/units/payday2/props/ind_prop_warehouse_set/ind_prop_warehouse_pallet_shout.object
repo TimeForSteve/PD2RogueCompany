@@ -1,0 +1,76 @@
+<dynamic_object>
+	<diesel materials="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_pallet_shout" orientation_object="rp_ind_prop_warehouse_pallet_shout" />
+	<sequence_manager file="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_pallet_shout" />
+	<bodies>
+		<body name="body_fence" enabled="true" template="fence">
+			<object name="rp_ind_prop_warehouse_pallet_shout" />
+			<object name="c_box_01" collision_type="box" padding="-2.5" />
+			<object name="c_box_07" collision_type="box" padding="-2.5" />
+			<object name="c_box_13" collision_type="box" padding="-2.5" />
+			<object name="c_box_19" collision_type="box" padding="-2.5" />
+		</body>	
+		<body name="body_static" enabled="true" template="static">
+			<object name="rp_ind_prop_warehouse_pallet_shout" />
+			<object name="c_box_02" collision_type="box" padding="-2.5" />
+			<object name="c_box_03" collision_type="box" padding="-2.5" />
+			<object name="c_box_04" collision_type="box" padding="-2.5" />
+			<object name="c_box_05" collision_type="box" padding="-2.5" />
+			<object name="c_box_06" collision_type="box" padding="-2.5" />
+			<object name="c_box_08" collision_type="box" padding="-2.5" />
+			<object name="c_box_09" collision_type="box" padding="-2.5" />
+			<object name="c_box_10" collision_type="box" padding="-2.5" />
+			<object name="c_box_11" collision_type="box" padding="-2.5" />
+			<object name="c_box_12" collision_type="box" padding="-2.5" />
+			<object name="c_box_14" collision_type="box" padding="-2.5" />
+			<object name="c_box_15" collision_type="box" padding="-2.5" />
+			<object name="c_box_16" collision_type="box" padding="-2.5" />
+			<object name="c_box_17" collision_type="box" padding="-2.5" />
+			<object name="c_box_18" collision_type="box" padding="-2.5" />
+			<object name="c_box_20" collision_type="box" padding="-2.5" />
+			<object name="c_box_21" collision_type="box" padding="-2.5" />
+			<object name="c_box_22" collision_type="box" padding="-2.5" />
+			<object name="c_box_23" collision_type="box" padding="-2.5" />
+			<object name="c_box_24" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+
+    <decal_surfaces>
+        <decal_mesh enabled="true" name="g_g" material="wood" />
+    </decal_surfaces>
+	
+    <graphics>
+        <object enabled="true"	 name="g_g"		 />
+        <object enabled="false"	 name="g_explosivebag_01"	 />
+        <object enabled="false"	 name="g_explosivebag_02"	 />
+        <object enabled="false"	 name="g_explosivebag_03"	 />
+        <object enabled="false"	 name="g_explosivebag_04"	 />
+        <object enabled="false"	 name="g_explosivebag_05"	 />
+        <object enabled="false"	 name="g_explosivebag_06"	 />
+        <object enabled="false"	 name="g_explosivebag_07"	 />
+        <object enabled="false"	 name="g_explosivebag_08"	 />
+        <object enabled="false"	 name="g_explosivebag_09"	 />
+        <object enabled="false"	 name="g_explosivebag_10"	 />
+        <object enabled="false"	 name="g_explosivebag_11"	 />
+        <object enabled="false"	 name="g_explosivebag_12"	 />
+        <object enabled="false"	 name="g_explosivebag_13"	 />
+        <object enabled="false"	 name="g_explosivebag_14"	 />
+        <object enabled="false"	 name="g_explosivebag_15"	 />
+        <object enabled="false"	 name="g_explosivebag_16"	 />
+        <object enabled="false"	 name="g_lootbag_01"		 />
+        <object enabled="false"	 name="g_lootbag_02"		 />
+        <object enabled="false"	 name="g_lootbag_03"		 />
+        <object enabled="false"	 name="g_lootbag_04"		 />
+        <object enabled="false"	 name="g_lootbag_05"		 />
+        <object enabled="false"	 name="g_lootbag_06"		 />
+        <object enabled="false"	 name="g_lootbag_07"		 />
+        <object enabled="false"	 name="g_lootbag_08"		 />
+        <object enabled="false"	 name="g_lootbag_09"		 />
+        <object enabled="false"	 name="g_lootbag_10"		 />
+        <object enabled="false"	 name="g_lootbag_11"		 />
+        <object enabled="false"	 name="g_lootbag_12"		 />
+        <object enabled="false"	 name="g_lootbag_13"		 />
+        <object enabled="false"	 name="g_lootbag_14"		 />
+        <object enabled="false"	 name="g_lootbag_15"		 />
+        <object enabled="false"	 name="g_lootbag_16"		 />
+    </graphics>
+</dynamic_object>

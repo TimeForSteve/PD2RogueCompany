@@ -1,0 +1,13 @@
+<dynamic_object>
+    <diesel orientation_object="rp_cargoship" materials="units/payday2/vehicles/tst_cargoship/tst_cargoship" />
+    <bodies>
+        <body enabled="true" template="static" name="body0" >
+            <object collision_type="mesh_mopp" name="c_boat" />
+        </body>
+    </bodies>
+    <graphics>
+        <object enabled="true" name="g_boat" />
+        <object enabled="true" name="g_reeling" />
+        <object enabled="true" name="g_decals" />
+    </graphics>
+</dynamic_object>

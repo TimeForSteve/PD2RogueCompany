@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/payday2/vehicles/str_vehicle_truck_tanker/str_vehicle_truck_tanker" orientation_object="rp_tanker" />
+  <bodies>
+    <body name="c_tanker" enabled="true" template="static">
+      <object name="rp_tanker" />
+      <object name="dm_sheet_metal" enabled="true" collision_type="mesh_mopp" />
+      <object name="dm_metal" enabled="true" collision_type="mesh_mopp" />
+      <object name="dm_tire_left_01" enabled="true" collision_type="mesh_mopp" />
+      <object name="dm_tire_left_02" enabled="true" collision_type="mesh_mopp" />
+      <object name="dm_tire_left_03" enabled="true" collision_type="mesh_mopp" />
+      <object name="dm_tire_right_01" enabled="true" collision_type="mesh_mopp" />
+      <object name="dm_tire_right_02" enabled="true" collision_type="mesh_mopp" />
+      <object name="dm_tire_right_03" enabled="true" collision_type="mesh_mopp" />
+      <object name="dm_glas" enabled="true" collision_type="mesh_mopp" />
+    </body>
+    <body name="bag_blocker" enabled="true" template="fence" collision_class="bag_blocker">
+			<object name="c_box_bag_blocker" collision_type="box" />
+		</body>
+  </bodies>
+  <decal_surfaces>
+    <decal_mesh name="dm_sheet_metal" enabled="true" material="sheet_metal" />
+    <decal_mesh name="dm_metal" enabled="true" material="metal" />
+    <decal_mesh name="dm_glas" enabled="true" material="glass_unbreakable" />
+    <decal_mesh name="dm_tire_right_03" enabled="true" material="rubber" />
+    <decal_mesh name="dm_tire_right_02" enabled="true" material="rubber" />
+    <decal_mesh name="dm_tire_right_01" enabled="true" material="rubber" />
+    <decal_mesh name="dm_tire_left_03" enabled="true" material="rubber" />
+    <decal_mesh name="dm_tire_left_02" enabled="true" material="rubber" />
+    <decal_mesh name="dm_tire_left_01" enabled="true" material="rubber" />
+  </decal_surfaces>
+  <graphics>
+    <lod_object name="tanker">
+        <object name="g_tanker" max_distance="5000" lod="0" enabled="true" />
+        <object name="g_tanker_lod" lod="1" enabled="true" />
+    </lod_object>
+	    <lod_object name="foot">
+        <object name="g_tanker_foot" max_distance="5000" lod="0" enabled="true" />
+		<object name="g_tanker_foot_lod" lod="1" enabled="true" />
+    </lod_object> 
+	<lod_object name="tire_right">
+        <object name="g_tire_right" max_distance="5000" lod="0" enabled="true" />
+		<object name="g_tire_right_lod" lod="1"  enabled="true" />
+    </lod_object> 
+	 <lod_object name="tire_left">
+        <object name="g_tire_left" max_distance="5000" lod="0" enabled="true" />
+		<object name="g_tire_left_lod" lod="1" enabled="true" />
+    </lod_object> 
+    <object name="s_tanker" enabled="true" shadow_caster="true" />
+  </graphics>
+</dynamic_object>

@@ -1,0 +1,12 @@
+<materials version="3">
+    <material render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:DOUBLE_SIDED:EXTERNAL_ALPHA_REF:NORMALMAP:OPACITY_TEXTURE:VEGETATION_BENDING" name="mat_chains" version="2">
+        <diffuse_texture file="units/world/props/playground/chain_df"/>
+        <opacity_texture file="units/world/props/playground/chain_op"/>
+        <variable type="scalar" name="alpha_ref" value="0.25800001225434"/>
+        <bump_normal_texture file="units/world/props/playground/chain_nm"/>
+        <variable type="vector3" name="branch_settings" value="0 0.099000006914139 0"/>
+        <variable type="scalar" name="alpha_ref" value="0.5"/>
+        <variable type="scalar" name="speed" value="0.15200000721961"/>
+        <variable type="vector3" name="detail_settings" value="0.7600000500679 1.1410000324249 0"/>
+    </material>
+</materials>

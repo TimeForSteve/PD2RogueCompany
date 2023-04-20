@@ -1,0 +1,51 @@
+<materials version="3">
+    <material version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" name="lxy_prop_kitchen_blender_mat">
+        <variable value="0" type="scalar" name="specular_power"/>
+        <diffuse_texture file="units/world/props/yacht/kitchen/lxy_prop_kitchen_blender_texture_df"/>
+        <bump_normal_texture file="units/world/props/yacht/kitchen/lxy_prop_kitchen_blender_texture_nm"/>
+    </material>
+    <material version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" name="lxy_prop_kitchen_cuttingboard_mat">
+        <variable value="0" type="scalar" name="specular_power"/>
+        <diffuse_texture file="units/world/props/yacht/kitchen/lxy_prop_kitchen_cuttingboard_texture_df"/>
+        <bump_normal_texture file="units/world/props/yacht/kitchen/lxy_prop_kitchen_cuttingboard_texture_nm"/>
+    </material>
+    <material version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" name="lxy_prop_kitchen_groceries_mat">
+        <variable value="0" type="scalar" name="specular_power"/>
+        <diffuse_texture file="units/world/props/yacht/kitchen/lxy_prop_kitchen_groceries_texture_df"/>
+        <bump_normal_texture file="units/world/props/yacht/kitchen/lxy_prop_kitchen_groceries_texture_nm"/>
+    </material>
+    <material version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" name="lxy_prop_kitchen_kniferack_mat">
+        <variable value="0" type="scalar" name="specular_power"/>
+        <diffuse_texture file="units/world/props/yacht/kitchen/lxy_prop_kitchen_kniferack_textures_df"/>
+        <bump_normal_texture file="units/world/props/yacht/kitchen/lxy_prop_kitchen_kniferack_textures_nm"/>
+    </material>
+    <material version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" name="lxy_prop_kitchen_mixer_mat">
+        <variable value="0" type="scalar" name="specular_power"/>
+        <diffuse_texture file="units/world/props/yacht/kitchen/lxy_prop_kitchen_mixer_texture_df"/>
+        <bump_normal_texture file="units/world/props/yacht/kitchen/lxy_prop_kitchen_mixer_texture_nm"/>
+    </material>
+    <material version="2" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP" name="lxy_prop_kitchen_pot">
+        <bump_normal_texture file="units/world/props/yacht/kitchen/lxy_prop_kitchen_pot_textures_nm"/>
+        <diffuse_texture file="units/world/props/yacht/kitchen/lxy_prop_kitchen_pot_textures_df"/>
+        <reflection_texture type="cubemap" file="environments/cubemaps/cubemap_steel"/>
+        <variable value="1 0 2" type="vector3" name="environment_settings"/>
+    </material>
+    <material version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" name="mat_lxy_prop_kitchen_sauce">
+        <variable value="0" type="scalar" name="specular_power"/>
+        <diffuse_texture file="units/world/props/yacht/kitchen/lxy_prop_kitchen_sauce_df"/>
+        <bump_normal_texture file="units/world/props/yacht/kitchen/lxy_prop_kitchen_sauce_nm"/>
+    </material>
+    <material version="2" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:EXTERNAL_ALPHA_REF:NORMALMAP:OPACITY_TEXTURE" name="mat_kitchen_ustensils">
+        <variable value="0" type="scalar" name="specular_power"/>
+        <diffuse_texture file="units/world/props/yacht/kitchen/texture_kitchen_ustensils_df"/>
+        <bump_normal_texture file="units/world/props/yacht/kitchen/texture_kitchen_ustensils_nm"/>
+        <opacity_texture file="units/world/props/yacht/kitchen/texture_kitchen_ustensils_op"/>
+        <variable value="0.5" type="scalar" name="alpha_ref"/>
+    </material>
+	<material version="2" render_template="opacity:CUBE_ENVIRONMENT_MAPPING:CUBE_FRESNEL:DIFFUSE_TEXTURE" name="lxy_prop_kitchen_glass_mat">
+        <variable value="2 0 0" type="vector3" name="fresnel_settings"/>
+        <opacity_texture file="units/payday2/glass/glass_clear_small_op"/>
+        <diffuse_texture file="units/payday2/glass/glass_clear_small_df"/>
+        <reflection_texture file="units/payday2/cubemaps/cubemap_steel" type="cubemap"/>
+    </material>
+</materials>
