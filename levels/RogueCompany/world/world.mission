@@ -86,7 +86,7 @@
 							<entry key="id" type="number" value="100015"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="-2107.19 -8889.34 209.018"/>
+					<entry key="position" type="vector3" value="-1973.19 -8889.34 209.018"/>
 					<entry key="radius" type="number" value="250"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="shape_type" type="string" value="box"/>
@@ -192,7 +192,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="only_in_civilian" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="-2100 -8946.87 211.234"/>
+					<entry key="position" type="vector3" value="-1966 -8946.87 211.234"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="text_id" type="string" value="debug_none"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -523,7 +523,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="only_in_civilian" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="-396.913 -1999.14 200"/>
+					<entry key="position" type="vector3" value="-154.913 -1999.14 200"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="text_id" type="string" value="debug_none"/>
 					<entry key="trigger_times" type="number" value="0"/>
