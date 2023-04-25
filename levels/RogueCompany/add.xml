@@ -2988,4 +2988,9 @@
 		<object path="units/payday2/architecture/str/str_ext_asphalt_8x8m_a"/>
 		<unit path="units/payday2/architecture/str/str_ext_asphalt_8x8m_a"/>
 	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_2x3m" type="unit">
+		<unit path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_2x3m"/>
+		<object path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_2x3m"/>
+		<material_config path="core/material_configs/hub_elements"/>
+	</add>
 </table>
