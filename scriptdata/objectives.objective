@@ -6,9 +6,6 @@
 	<objective description="RC_obj_4b_desc" id="RC_obj_4B" text="RC_obj_4B"/>
 	<objective description="RC_obj__5A_desc" id="RC_obj_5A" text="RC_obj_5A"/>
 	<objective description="RC_obj_5B_desc" id="RC_obj_5B" text="RC_obj_5B"/>
-	<objective description="RC_obj_6A_desc" id="RC_obj_6A" text="RC_obj_6A"/>
-	<objective description="RC_obj_6B_desc" id="RC_obj_6B" text="RC_obj_6B"/>
-	<objective description="RC_obj_7A_desc" id="RC_obj_7A" text="RC_obj_7A"/>
-	<objective description="RC_obj_7B_desc" id="RC_obj_7B" text="RC_obj_7B"/>
-	<objective description="RC_obj_8B_desc" id="RC_obj_8B" text="RC_obj_8B"/>
+	<objective description="RC_obj6_desc" id="RC_obj6" text="RC_obj6"/>
+	<objective description="RC_obj7_desc" id="RC_obj7" text="RC_obj7"/>
 </table>

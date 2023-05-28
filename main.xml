@@ -1,4 +1,4 @@
-<table name="gangwar1">
+<table name="Rogue Company">
 	<Achievements icon="guis/achievements/rc_pack" id="Rogue_Company">
 		<achievement desc_id="RC_Achieve_DiffN_desc" icon="guis/achievements/rc_diff_0" id="RC_Achieve_DiffN" name_id="RC_Achieve_DiffN_name" rank="1"/>
 		<achievement desc_id="RC_Achieve_DiffH_desc" icon="guis/achievements/rc_diff_1" id="RC_Achieve_DiffH" name_id="RC_Achieve_DiffH_name" rank="1"/>
@@ -86,26 +86,25 @@
 		<outro_event>
 			<value_node value=""/>
 		</outro_event>
-		<packages>
-		</packages>
+		<packages/>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
 				<options merge_mode="add" mode="add"/>
 			</mod>
 		</script_data_mods>
 	</level>
-	<narrative briefing_event="RC_BriefingEvent" contact="yaeger" icon="icons/rc_broker" id="RogueCompanyNarr" jc="30">
+	<narrative briefing_event="RC_BriefingEvent" contact="yaeger" id="RogueCompanyNarr" jc="30">
 		<chain>
 			<table level_id="RogueCompany" type="d" type_id="heist_type_assault"/>
 		</chain>
 		<contract_cost>
-			<value_node value="18750"/>
-			<value_node value="37500"/>
-			<value_node value="112500"/>
-			<value_node value="162500"/>
-			<value_node value="206250"/>
-			<value_node value="241250"/>
-			<value_node value="262500"/>
+			<value_node value="10000"/>
+			<value_node value="20000"/>
+			<value_node value="40000"/>
+			<value_node value="80000"/>
+			<value_node value="160000"/>
+			<value_node value="160000"/>
+			<value_node value="160000"/>
 		</contract_cost>
 		<crimenet_callouts>
 			<value_node value=""/>
@@ -144,13 +143,13 @@
 			<value_node value="15000"/>
 		</min_mission_xp>
 		<payout>
-			<value_node value="37500"/>
-			<value_node value="75000"/>
-			<value_node value="225000"/>
-			<value_node value="325000"/>
-			<value_node value="412500"/>
-			<value_node value="482500"/>
-			<value_node value="525000"/>
+			<value_node value="20000"/>
+			<value_node value="40000"/>
+			<value_node value="80000"/>
+			<value_node value="160000"/>
+			<value_node value="320000"/>
+			<value_node value="320000"/>
+			<value_node value="320000"/>
 		</payout>
 	</narrative>
 </table>

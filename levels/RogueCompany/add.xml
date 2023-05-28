@@ -3092,8 +3092,13 @@
 		<unit path="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_concrete_rubble_a"/>
 	</add>
 	<add from_db="true" path="units/pd2_dlc_holly/river/props/lxa_prop_traintrack_fence/lxa_prop_traintrack_fence_rubble" type="unit">
-		<unit path="units/pd2_dlc_holly/river/props/lxa_prop_traintrack_fence/lxa_prop_traintrack_fence_rubble"/>
-		<object path="units/pd2_dlc_holly/river/props/lxa_prop_traintrack_fence/lxa_prop_traintrack_fence_rubble"/>
 		<material_config path="units/pd2_dlc_holly/river/props/lxa_prop_traintrack_fence/lxa_prop_traintrack_fence"/>
+		<object path="units/pd2_dlc_holly/river/props/lxa_prop_traintrack_fence/lxa_prop_traintrack_fence_rubble"/>
+		<unit path="units/pd2_dlc_holly/river/props/lxa_prop_traintrack_fence/lxa_prop_traintrack_fence_rubble"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props_urban/curb_straight001_256" type="unit">
+		<unit path="units/pd2_dlc2/csgo_models/props_urban/curb_straight001_256"/>
+		<object path="units/pd2_dlc2/csgo_models/props_urban/curb_straight001_256"/>
+		<material_config path="units/pd2_dlc2/csgo_models/props_urban/curb_straight001_256"/>
 	</add>
 </table>
