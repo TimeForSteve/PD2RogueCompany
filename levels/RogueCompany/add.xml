@@ -3097,8 +3097,42 @@
 		<unit path="units/pd2_dlc_holly/river/props/lxa_prop_traintrack_fence/lxa_prop_traintrack_fence_rubble"/>
 	</add>
 	<add from_db="true" path="units/pd2_dlc2/csgo_models/props_urban/curb_straight001_256" type="unit">
-		<unit path="units/pd2_dlc2/csgo_models/props_urban/curb_straight001_256"/>
-		<object path="units/pd2_dlc2/csgo_models/props_urban/curb_straight001_256"/>
 		<material_config path="units/pd2_dlc2/csgo_models/props_urban/curb_straight001_256"/>
+		<object path="units/pd2_dlc2/csgo_models/props_urban/curb_straight001_256"/>
+		<unit path="units/pd2_dlc2/csgo_models/props_urban/curb_straight001_256"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/ene_gang_mexican_1/ene_gang_mexican_1" type="unit">
+		<unit load="true" path="units/payday2/characters/ene_gang_mexican_1/ene_gang_mexican_1"/>
+		<unit load="true" path="units/payday2/characters/ene_gang_mexican_1/ene_gang_mexican_1_husk"/>
+		<object path="units/payday2/characters/ene_gang_mexican_1/ene_gang_mexican_1"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/ene_gang_mexican_2/ene_gang_mexican_2" type="unit">
+		<unit load="true" path="units/payday2/characters/ene_gang_mexican_2/ene_gang_mexican_2"/>
+		<unit load="true" path="units/payday2/characters/ene_gang_mexican_2/ene_gang_mexican_2_husk"/>
+		<object path="units/payday2/characters/ene_gang_mexican_2/ene_gang_mexican_2"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/ene_gang_mexican_4/ene_gang_mexican_4" type="unit">
+		<unit load="true" path="units/payday2/characters/ene_gang_mexican_4/ene_gang_mexican_4"/>
+		<unit load="true" path="units/payday2/characters/ene_gang_mexican_4/ene_gang_mexican_4_husk"/>
+		<object path="units/payday2/characters/ene_gang_mexican_4/ene_gang_mexican_4"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/ene_gang_mexican_3/ene_gang_mexican_3" type="unit">
+		<unit load="true" path="units/payday2/characters/ene_gang_mexican_3/ene_gang_mexican_3"/>
+		<unit load="true" path="units/payday2/characters/ene_gang_mexican_3/ene_gang_mexican_3_husk"/>
+		<object path="units/payday2/characters/ene_gang_mexican_3/ene_gang_mexican_3"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x4x3" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x4x3"/>
+		<unit path="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x4x3"/>
+	</add>
+	<add from_db="true" path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1" type="unit">
+		<unit path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1"/>
+		<unit load="true" path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1_husk"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m"/>
+		<unit path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m"/>
 	</add>
 </table>
