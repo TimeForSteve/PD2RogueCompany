@@ -128,13 +128,7 @@
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_126" position="-825 1970 0" rotation="0 0 -0 -1" unit_id="200372"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" name_id="dev_nav_splitter_4x3m_267" position="-2625 950 -7.193" rotation="0 0 0.199368 -0.979925" unit_id="200376"/>
-		</table>
-		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" name_id="dev_nav_splitter_4x3m_268" position="-2438 1343 -0" rotation="0 0 0.190809 -0.981627" unit_id="200377"/>
-		</table>
-		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" name_id="dev_nav_splitter_4x3m_269" position="-2220.66 1827.89 0" rotation="0 0 0.309017 -0.951056" unit_id="200378"/>
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" name_id="dev_nav_splitter_4x3m_271" position="-4000 0 -20" rotation="0 0 -0 -1" unit_id="200382"/>
@@ -2912,22 +2906,22 @@
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_244" position="-4050 6350 4.61936e-005" rotation="0 0 0 -1" unit_id="200559"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_860" position="-2471 1148 -0.000191687" rotation="0 0 -0.707107 -0.707107" unit_id="200560"/>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_860" position="-2574 1045 -0.000420998" rotation="0 0 -0.707107 -0.707107" unit_id="200560"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_893" position="-2417 1243 -0.000185425" rotation="0 0 -0.707107 -0.707107" unit_id="200561"/>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_893" position="-2520 1140 -0.000414736" rotation="0 0 -0.707107 -0.707107" unit_id="200561"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_894" position="-2365 1339 4.61936e-005" rotation="0 0 -0.707107 -0.707107" unit_id="200562"/>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_894" position="-2468 1236 -0.000183117" rotation="0 0 -0.707107 -0.707107" unit_id="200562"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_895" position="-2214 1787 4.61936e-005" rotation="0 0 -0.707107 -0.707107" unit_id="200563"/>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_895" position="-2116 1879 4.61936e-005" rotation="0 0 -0.707107 -0.707107" unit_id="200563"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_896" position="-2207 1691 -0.000185425" rotation="0 0 -0.707107 -0.707107" unit_id="200564"/>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_896" position="-2154 1775 5.24556e-005" rotation="0 0 -0.707107 -0.707107" unit_id="200564"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_897" position="-2261 1596 -0.000191687" rotation="0 0 -0.707107 -0.707107" unit_id="200655"/>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_897" position="-2208 1680 4.61936e-005" rotation="0 0 -0.707107 -0.707107" unit_id="200655"/>
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_898" position="-2775 75 -19.9991" rotation="0 0 -0.707107 -0.707107" unit_id="200374"/>
@@ -4329,6 +4323,12 @@
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_204" position="3210 -9100 380" rotation="0 0 0 -1" unit_id="200256"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_972" position="-2075 1975 6.10352e-005" rotation="0 0 -0.707107 -0.707107" unit_id="200013"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_889" position="-2607 961 -8.11101" rotation="0 0 -0.707107 -0.707107" unit_id="200310"/>
 		</table>
 	</statics>
 	<values>

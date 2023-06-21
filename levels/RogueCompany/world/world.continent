@@ -22315,7 +22315,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="" name="units/world/street/road_block/street_police_road_block" name_id="street_police_road_block_016" position="-2490 1319 -0.00016612" rotation="0 0 -0.544639 -0.838671" unit_id="100438">
+			<unit_data continent="world" mesh_variation="" name="units/world/street/road_block/street_police_road_block" name_id="street_police_road_block_016" position="-2548.98 1186.54 -0.00016612" rotation="0 0 -0.544639 -0.838671" unit_id="100438">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 0.768628 0.47451" enabled="true" falloff_exponent="1" far_range="118" multiplier="@ID90cc6917c5799ad8@" name="li_light1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
 					<table clipping_values="10000 -10000 0" color="1 0.772549 0.478431" enabled="true" falloff_exponent="1" far_range="118.11" multiplier="@IDccbbe27c7fdc0fd9@" name="li_light2" near_range="0" spot_angle_end="-1" spot_angle_start="-1"/>
@@ -22323,7 +22323,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="" name="units/world/street/road_block/street_police_road_block" name_id="street_police_road_block_017" position="-2273 1743 4.61936e-005" rotation="0 0 -0.5 -0.866025" unit_id="100439">
+			<unit_data continent="world" mesh_variation="" name="units/world/street/road_block/street_police_road_block" name_id="street_police_road_block_017" position="-2225 1826.14 4.61936e-005" rotation="0 0 -0.5 -0.866025" unit_id="100439">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 0.768628 0.47451" enabled="true" falloff_exponent="1" far_range="118" multiplier="@IDccbbe27c7fdc0fd9@" name="li_light1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
 					<table clipping_values="10000 -10000 0" color="1 0.772549 0.478431" enabled="true" falloff_exponent="1" far_range="118.11" multiplier="@ID3385027996510d31@" name="li_light2" near_range="0" spot_angle_end="-1" spot_angle_start="-1"/>
@@ -23830,6 +23830,25 @@
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_279" position="1027 1976.96 -0.87159" rotation="0.0436203 0 0 -0.999048" unit_id="101003"/>
+		</table>
+		<table>
+			<unit_data continent="world" disable_on_ai_graph="true" mesh_variation="" name="units/world/street/road_block/street_police_road_block" name_id="street_police_road_block_018" position="-2405 1514.37 0" rotation="0 0 -0.507538 -0.861629" unit_id="101013">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.768628 0.47451" enabled="true" falloff_exponent="1" far_range="118" multiplier="@ID90cc6917c5799ad8@" name="li_light1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 0.772549 0.478431" enabled="true" falloff_exponent="1" far_range="118.11" multiplier="@ID18ceffa252d5a43d@" name="li_light2" near_range="0" spot_angle_end="-1" spot_angle_start="-1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="" name="units/world/street/road_block/street_police_road_block" name_id="street_police_road_block_019" position="-2606.36 1234.06 -0.000161144" rotation="0 0 -0.507538 -0.861629" unit_id="101014">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.768628 0.47451" enabled="true" falloff_exponent="1" far_range="118" multiplier="@IDccbbe27c7fdc0fd9@" name="li_light1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 0.772549 0.478431" enabled="true" falloff_exponent="1" far_range="118.11" multiplier="@ID90cc6917c5799ad8@" name="li_light2" near_range="0" spot_angle_end="-1" spot_angle_start="-1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x4x3" name_id="dev_door_blocker_1x4x3_003" position="-2276.95 1672.53 0" rotation="0 0 0.97437 0.224951" unit_id="101015"/>
 		</table>
 	</statics>
 	<values>
