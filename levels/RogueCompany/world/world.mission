@@ -1450,7 +1450,6 @@
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="unit_ids" type="table">
-						<entry index="1" type="number" value="106976"/>
 					</entry>
 				</entry>
 			</entry>
@@ -1749,7 +1748,6 @@
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="unit_ids" type="table">
-						<entry index="1" type="number" value="105983"/>
 					</entry>
 				</entry>
 			</entry>
@@ -1772,7 +1770,6 @@
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="unit_ids" type="table">
-						<entry index="1" type="number" value="106001"/>
 					</entry>
 				</entry>
 			</entry>
@@ -3079,7 +3076,6 @@
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="unit_ids" type="table">
-						<entry index="1" type="number" value="106976"/>
 					</entry>
 				</entry>
 			</entry>
@@ -3326,7 +3322,6 @@
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="unit_ids" type="table">
-						<entry index="1" type="number" value="105983"/>
 					</entry>
 				</entry>
 			</entry>
@@ -3345,7 +3340,6 @@
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="unit_ids" type="table">
-						<entry index="1" type="number" value="106001"/>
 					</entry>
 				</entry>
 			</entry>
@@ -4827,395 +4821,377 @@
 						</entry>
 						<entry index="9" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="106976"/>
+							<entry key="notify_unit_id" type="number" value="107591"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="10" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="107591"/>
+							<entry key="notify_unit_id" type="number" value="107640"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="11" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="107640"/>
+							<entry key="notify_unit_id" type="number" value="107605"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="12" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="107605"/>
+							<entry key="notify_unit_id" type="number" value="106081"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="13" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="106081"/>
+							<entry key="notify_unit_id" type="number" value="102719"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="14" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="102719"/>
+							<entry key="notify_unit_id" type="number" value="106093"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="15" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="106093"/>
+							<entry key="notify_unit_id" type="number" value="106010"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="16" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="106010"/>
+							<entry key="notify_unit_id" type="number" value="105661"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="17" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="105661"/>
+							<entry key="notify_unit_id" type="number" value="102531"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="18" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="102531"/>
+							<entry key="notify_unit_id" type="number" value="102530"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="19" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="102530"/>
+							<entry key="notify_unit_id" type="number" value="105649"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="20" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="105649"/>
+							<entry key="notify_unit_id" type="number" value="105656"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="21" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="105656"/>
+							<entry key="notify_unit_id" type="number" value="101084"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="22" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="101084"/>
+							<entry key="notify_unit_id" type="number" value="101082"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="23" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="101082"/>
+							<entry key="notify_unit_id" type="number" value="105981"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="24" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="105981"/>
+							<entry key="notify_unit_id" type="number" value="101577"/>
 							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="25" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="101577"/>
-							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="26" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="107424"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="27" type="table">
+						<entry index="26" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="107527"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="28" type="table">
+						<entry index="27" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="108376"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="29" type="table">
+						<entry index="28" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="108401"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="30" type="table">
+						<entry index="29" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="107671"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="31" type="table">
+						<entry index="30" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="102682"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="32" type="table">
+						<entry index="31" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="102756"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="33" type="table">
+						<entry index="32" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="107125"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="34" type="table">
+						<entry index="33" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="107009"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="35" type="table">
+						<entry index="34" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="102642"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="36" type="table">
+						<entry index="35" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="102755"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="37" type="table">
+						<entry index="36" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="106092"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="38" type="table">
+						<entry index="37" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="106067"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="39" type="table">
+						<entry index="38" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="101995"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="40" type="table">
+						<entry index="39" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="106064"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="41" type="table">
+						<entry index="40" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="105528"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="42" type="table">
+						<entry index="41" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="102816"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="43" type="table">
+						<entry index="42" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="105941"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="44" type="table">
+						<entry index="43" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="102592"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="45" type="table">
+						<entry index="44" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="105639"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="46" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="106001"/>
-							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="47" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="105983"/>
-							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="48" type="table">
+						<entry index="45" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="107588"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="49" type="table">
+						<entry index="46" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="108421"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="50" type="table">
+						<entry index="47" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="101996"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="51" type="table">
+						<entry index="48" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="108466"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="52" type="table">
+						<entry index="49" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="108453"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="53" type="table">
+						<entry index="50" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="107428"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="54" type="table">
+						<entry index="51" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="102215"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="55" type="table">
+						<entry index="52" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="108377"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="56" type="table">
+						<entry index="53" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="102017"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="57" type="table">
+						<entry index="54" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="107138"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="58" type="table">
+						<entry index="55" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="106110"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="59" type="table">
+						<entry index="56" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="102657"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="60" type="table">
+						<entry index="57" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="106063"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="61" type="table">
+						<entry index="58" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="106091"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="62" type="table">
+						<entry index="59" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="106095"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="63" type="table">
+						<entry index="60" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="107587"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="64" type="table">
+						<entry index="61" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="105518"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="65" type="table">
+						<entry index="62" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="105520"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="66" type="table">
+						<entry index="63" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="105517"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="67" type="table">
+						<entry index="64" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="105948"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="68" type="table">
+						<entry index="65" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="105943"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="69" type="table">
+						<entry index="66" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="102658"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="70" type="table">
+						<entry index="67" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="105650"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="71" type="table">
+						<entry index="68" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="106002"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="72" type="table">
+						<entry index="69" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="105984"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="73" type="table">
+						<entry index="70" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="102674"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="74" type="table">
+						<entry index="71" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="106009"/>
 							<entry key="notify_unit_sequence" type="string" value="disable_interaction"/>
@@ -6007,12 +5983,6 @@
 					<entry key="position" type="vector3" value="2038.62 -1275.97 4002.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_list" type="table">
-						<entry index="1" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="106976"/>
-							<entry key="notify_unit_sequence" type="string" value="state_show"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -6436,12 +6406,6 @@
 					<entry key="position" type="vector3" value="2438.62 -1075.97 4002.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_list" type="table">
-						<entry index="1" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="105983"/>
-							<entry key="notify_unit_sequence" type="string" value="enable_interaction"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -6469,12 +6433,6 @@
 					<entry key="position" type="vector3" value="2438.62 -1175.97 4002.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_list" type="table">
-						<entry index="1" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="106001"/>
-							<entry key="notify_unit_sequence" type="string" value="enable_interaction"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -8602,8 +8560,8 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="1719 -7843 -19.85"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.85264 -0.522499"/>
+					<entry key="position" type="vector3" value="1959 -4729 -19.8136"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.999657 -0.0261768"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -8629,7 +8587,7 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="2588 -8232 0"/>
+					<entry key="position" type="vector3" value="-250 -7225 3.72529e-007"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.165048 -0.986286"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -8656,7 +8614,7 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="5320.71 -5427.29 0"/>
+					<entry key="position" type="vector3" value="-700 -4700 404.006"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.994522 -0.104529"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -8683,7 +8641,7 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="4410.4 -8494.8 -6.10352e-005"/>
+					<entry key="position" type="vector3" value="-3625 -8425 3.72529e-007"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.104529 -0.994522"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -8710,8 +8668,8 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="3026.56 -8352.46 400"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.913546 0.406736"/>
+					<entry key="position" type="vector3" value="-1900 -5450 414.006"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0.62932 -0.777146"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -8737,7 +8695,7 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="5101.77 -7016.95 0"/>
+					<entry key="position" type="vector3" value="25 -4850 1"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.551937 -0.833886"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -8764,8 +8722,8 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="4900.71 -8083.93 63"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.981627 -0.19081"/>
+					<entry key="position" type="vector3" value="-2625 -7525 410.726"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.998135 0.0610488"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -8791,7 +8749,7 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="4309.18 -5890.08 0.000183105"/>
+					<entry key="position" type="vector3" value="550 -4875 1"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.777146 -0.62932"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -8818,8 +8776,8 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="3375 -5600 2.5"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.981627 -0.19081"/>
+					<entry key="position" type="vector3" value="-2575 -7725 0"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0.601815 -0.798636"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -8845,8 +8803,8 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="3019.85 -8636.39 400"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.317305 -0.948323"/>
+					<entry key="position" type="vector3" value="-2600 -4500 3.72529e-007"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.317305 -0.948324"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -8980,7 +8938,7 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="4375 -7175 2.5"/>
+					<entry key="position" type="vector3" value="-1600 -7875 3.72529e-007"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.913545 0.406737"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -9142,7 +9100,7 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="2543.61 -7020.94 0"/>
+					<entry key="position" type="vector3" value="-400 -7775 3.72529e-007"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.190809 -0.981627"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -12186,8 +12144,8 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="4995 -7181 36.146"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.833886 -0.551937"/>
+					<entry key="position" type="vector3" value="-3517.82 -9083.22 39.6461"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.0523353 -0.99863"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
@@ -12220,8 +12178,8 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="4518.06 -5325.82 80.2339"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.866025 0.5"/>
+					<entry key="position" type="vector3" value="19 -5498 40.646"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0.00872654 -0.999962"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
@@ -12254,8 +12212,8 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="5024.96 -7135.66 36.1459"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.843391 -0.5373"/>
+					<entry key="position" type="vector3" value="-3572 -9079 39.646"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0.0348995 -0.999391"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
@@ -12288,8 +12246,8 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="3281.64 -7727.81 91.934"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.991445 -0.130526"/>
+					<entry key="position" type="vector3" value="111.978 -5486.58 40.646"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0.0523359 -0.99863"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
@@ -12322,8 +12280,8 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="5053.07 -7095.57 40.1459"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.902585 -0.430511"/>
+					<entry key="position" type="vector3" value="-3620.69 -9073.85 43.646"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.0871562 -0.996195"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
@@ -12356,8 +12314,8 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="4576.8 -8091.37 100"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
+					<entry key="position" type="vector3" value="63.131 -5492.25 40.646"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0.0784591 -0.996917"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
@@ -14756,7 +14714,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="dialogue" type="string" value="RC_GenSec1"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_executed_when_done" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
@@ -15119,7 +15077,7 @@
 							<entry key="id" type="number" value="100815"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="-1042.33 -1159.49 4002.5"/>
+					<entry key="position" type="vector3" value="-3325 -7700 3.72529e-007"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -15561,7 +15519,7 @@
 							<entry key="id" type="number" value="100571"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="3887.13 -5979.2 243.853"/>
+					<entry key="position" type="vector3" value="-6.38157 -5045.52 245.758"/>
 					<entry key="radius" type="number" value="250"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.573577 -0.819152"/>
 					<entry key="shape_type" type="string" value="box"/>
@@ -15582,7 +15540,7 @@
 				<entry key="values" type="table">
 					<entry key="amount" type="string" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="depth" type="number" value="1550"/>
+					<entry key="depth" type="number" value="1069"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="height" type="number" value="500"/>
@@ -15594,7 +15552,7 @@
 							<entry key="id" type="number" value="100573"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="4400 -8400 200"/>
+					<entry key="position" type="vector3" value="-3250 -7790 150"/>
 					<entry key="radius" type="number" value="250"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
 					<entry key="shape_type" type="string" value="box"/>
@@ -15603,7 +15561,7 @@
 					<entry key="trigger_on" type="string" value="on_enter"/>
 					<entry key="trigger_times" type="number" value="1"/>
 					<entry key="use_disabled_shapes" type="boolean" value="false"/>
-					<entry key="width" type="number" value="2350"/>
+					<entry key="width" type="number" value="1562"/>
 				</entry>
 			</entry>
 			<entry index="568" type="table">
@@ -17670,7 +17628,7 @@
 					<entry key="base_chance" type="number" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="chance_inc" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="followup_elements" type="table">
 					</entry>
@@ -17718,7 +17676,7 @@
 					<entry key="base_chance" type="number" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="chance_inc" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="followup_elements" type="table">
 					</entry>
@@ -17766,7 +17724,7 @@
 					<entry key="base_chance" type="number" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="chance_inc" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="followup_elements" type="table">
 					</entry>
@@ -17814,7 +17772,7 @@
 					<entry key="base_chance" type="number" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="chance_inc" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="followup_elements" type="table">
 					</entry>
@@ -17862,7 +17820,7 @@
 					<entry key="base_chance" type="number" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="chance_inc" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="true"/>
 					<entry key="followup_elements" type="table">
 					</entry>
@@ -17910,7 +17868,7 @@
 					<entry key="base_chance" type="number" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="chance_inc" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="true"/>
 					<entry key="followup_elements" type="table">
 					</entry>
@@ -19833,9 +19791,9 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="4750 -8875 797"/>
-					<entry key="rotation" type="quaternion" value="0 0 1.49012e-007 -1"/>
-					<entry key="spawn_action" type="string" value="none"/>
+					<entry key="position" type="vector3" value="2819.3 -5498.66 806"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0.688355 -0.725374"/>
+					<entry key="spawn_action" type="string" value="e_sp_dah_up_climb_one_window"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -19860,7 +19818,7 @@
 							<entry key="id" type="number" value="100857"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="5140.31 -8907.57 797"/>
+					<entry key="position" type="vector3" value="3050 -5500 797"/>
 					<entry key="rotation" type="quaternion" value="0 0 1.49012e-007 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -19880,7 +19838,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="5222.51 -8908.61 797"/>
+					<entry key="position" type="vector3" value="3050 -5600 797"/>
 					<entry key="rotation" type="quaternion" value="0 0 1.49012e-007 -1"/>
 					<entry key="set_trigger_times" type="number" value="1"/>
 					<entry key="toggle" type="string" value="on"/>
@@ -19902,7 +19860,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="5340.31 -8907.57 797"/>
+					<entry key="position" type="vector3" value="2975 -5600 797"/>
 					<entry key="rotation" type="quaternion" value="0 0 1.49012e-007 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -19939,8 +19897,8 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="crouch"/>
-					<entry key="position" type="vector3" value="3534 -7696 1197.5"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.0174524 -0.999848"/>
+					<entry key="position" type="vector3" value="2530 -5732 797"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.809017 -0.587785"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
 					<entry key="search_position" type="vector3" value="7250 -7200 1999.9"/>
@@ -20204,7 +20162,7 @@
 							<entry key="id" type="number" value="100855"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="5400 -8900 797"/>
+					<entry key="position" type="vector3" value="3050 -5400 797"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -25219,7 +25177,7 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="5475 -8475 401.506"/>
+					<entry key="position" type="vector3" value="-2575 -8900 408.98"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.317305 -0.948324"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -25246,7 +25204,7 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="4114 -8267 401.506"/>
+					<entry key="position" type="vector3" value="-1725 -5275 3.72529e-007"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.913546 0.406736"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -25631,9 +25589,9 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="4275 -4675 -19.85"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.814115 -0.580703"/>
-					<entry key="spawn_action" type="string" value="none"/>
+					<entry key="position" type="vector3" value="2350 -6125 -9.53675e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="spawn_action" type="string" value="e_sp_over_3m"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -25656,9 +25614,9 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="4126.9 -4834.58 -19.85"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.814115 -0.580703"/>
-					<entry key="spawn_action" type="string" value="none"/>
+					<entry key="position" type="vector3" value="2354 -6275 -2.38419e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="spawn_action" type="string" value="e_sp_over_3m"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -25681,9 +25639,9 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="3597 -4911 -4.76837e-005"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.814115 -0.580703"/>
-					<entry key="spawn_action" type="string" value="none"/>
+					<entry key="position" type="vector3" value="2350 -6675 -4.76837e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="spawn_action" type="string" value="e_sp_over_3m"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -25706,9 +25664,9 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="3745.1 -4751.42 -5.72205e-006"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.814115 -0.580703"/>
-					<entry key="spawn_action" type="string" value="none"/>
+					<entry key="position" type="vector3" value="2350 -6500 -9.53675e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="spawn_action" type="string" value="e_sp_over_3m"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -25731,7 +25689,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="5759 -7724 -0"/>
+					<entry key="position" type="vector3" value="1610.9 -8158.58 -19.85"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.438371 -0.898794"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -25756,7 +25714,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="5775 -7250 -4.76837e-005"/>
+					<entry key="position" type="vector3" value="1575 -7325 -19.85"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.814115 -0.580703"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -25781,8 +25739,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="5923.1 -7090.42 -5.72206e-006"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.814115 -0.580703"/>
+					<entry key="position" type="vector3" value="1900 -4675 -19.814"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.601815 -0.798635"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -25975,8 +25933,8 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="3575 -5725 2.5"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="position" type="vector3" value="2900 -5525 3.72529e-007"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_list" type="table">
 						<entry index="1" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
@@ -26209,29 +26167,11 @@
 						</entry>
 						<entry index="2" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="100125"/>
-							<entry key="notify_unit_sequence" type="string" value="state_door_close"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="3" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="100125"/>
-							<entry key="notify_unit_sequence" type="string" value="activate_door"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="4" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="101000"/>
-							<entry key="notify_unit_sequence" type="string" value="door_open"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="5" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="105439"/>
 							<entry key="notify_unit_sequence" type="string" value="hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="6" type="table">
+						<entry index="3" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="101012"/>
 							<entry key="notify_unit_sequence" type="string" value="hide"/>
@@ -26295,29 +26235,23 @@
 						</entry>
 						<entry index="2" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="101010"/>
-							<entry key="notify_unit_sequence" type="string" value="door_open"/>
+							<entry key="notify_unit_id" type="number" value="100703"/>
+							<entry key="notify_unit_sequence" type="string" value="state_door_close"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="3" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="100703"/>
-							<entry key="notify_unit_sequence" type="string" value="state_door_close"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="4" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="100703"/>
 							<entry key="notify_unit_sequence" type="string" value="activate_door"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="5" type="table">
+						<entry index="4" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="105439"/>
 							<entry key="notify_unit_sequence" type="string" value="hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="6" type="table">
+						<entry index="5" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="101011"/>
 							<entry key="notify_unit_sequence" type="string" value="hide"/>
@@ -26393,17 +26327,11 @@
 						</entry>
 						<entry index="4" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="101000"/>
-							<entry key="notify_unit_sequence" type="string" value="door_open"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="5" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="101011"/>
 							<entry key="notify_unit_sequence" type="string" value="hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="6" type="table">
+						<entry index="5" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="101012"/>
 							<entry key="notify_unit_sequence" type="string" value="hide"/>
@@ -26582,14 +26510,6 @@
 					<entry key="position" type="vector3" value="2725 -7750 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="sequence" type="string" value="done_exploded"/>
-							<entry key="unit_id" type="number" value="100125"/>
-						</entry>
-						<entry index="2" type="table">
-							<entry key="sequence" type="string" value="done_opened"/>
-							<entry key="unit_id" type="number" value="100125"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>

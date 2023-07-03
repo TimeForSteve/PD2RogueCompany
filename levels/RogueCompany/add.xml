@@ -3135,4 +3135,29 @@
 		<object path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m"/>
 		<unit path="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m"/>
 	</add>
+	<add from_db="true" path="units/world/architecture/street/decals/ground/decal_ground_big_puddle" type="unit">
+		<material_config path="units/world/architecture/street/decals/ground/decal_ground_lines_drain_puddles_io"/>
+		<object path="units/world/architecture/street/decals/ground/decal_ground_big_puddle"/>
+		<unit path="units/world/architecture/street/decals/ground/decal_ground_big_puddle"/>
+	</add>
+	<add from_db="true" path="units/world/brushes/puddle_oil/puddle_oil_2" type="unit">
+		<material_config path="units/world/brushes/puddle_oil/puddles_oil"/>
+		<object path="units/world/brushes/puddle_oil/puddle_oil_2"/>
+		<unit path="units/world/brushes/puddle_oil/puddle_oil_2"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_outdoor_stairs/ind_ext_outdoor_beam_ceiling_4m" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_instanced"/>
+		<object path="units/payday2/architecture/ind/ind_ext_outdoor_stairs/ind_ext_outdoor_beam_ceiling_4m"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_outdoor_stairs/ind_ext_outdoor_beam_ceiling_4m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_outdoor_stairs/ind_ext_outdoor_beam_ceiling_2m" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind"/>
+		<object path="units/payday2/architecture/ind/ind_ext_outdoor_stairs/ind_ext_outdoor_beam_ceiling_2m"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_outdoor_stairs/ind_ext_outdoor_beam_ceiling_2m"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m" type="unit">
+		<unit path="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m"/>
+		<object path="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m"/>
+		<material_config path="core/material_configs/hub_elements"/>
+	</add>
 </table>
