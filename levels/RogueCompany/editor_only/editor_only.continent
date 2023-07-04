@@ -3617,7 +3617,7 @@
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_324" position="-2001 -6200 2.5" rotation="0 0 0 -1" unit_id="200234"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_325" position="-1999 -5985 8.61315" rotation="0 0 0 -1" unit_id="200152"/>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_325" position="-1999 -5985 8.613" rotation="-0 0 -0.333807 -0.942642" unit_id="200152"/>
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_957" position="-3172 -5973 2.5" rotation="-0 0 -0.0174526 -0.999848" unit_id="200153"/>
@@ -4572,6 +4572,15 @@
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_1023" position="-1361 -8825 3.72529e-007" rotation="0 0 0.707107 -0.707107" unit_id="201523"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" name_id="dev_nav_splitter_4x3m_258" position="1133 2010 206.361" rotation="0 0 0 -1" unit_id="201524"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_1024" position="-299.909 -5780.23 800" rotation="0 0 -0.0174526 -0.999848" unit_id="201525"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_1025" position="-403.845 -5783.86 800" rotation="0 0 -0.0174526 -0.999848" unit_id="201526"/>
 		</table>
 	</statics>
 	<values>

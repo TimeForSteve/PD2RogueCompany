@@ -1137,7 +1137,7 @@
 				<entry key="continent" type="string" value="world"/>
 				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
 				<entry key="name_id" type="string" value="nav_surface_153"/>
-				<entry key="position" type="vector3" value="952.544 2101.95 206.369"/>
+				<entry key="position" type="vector3" value="1075 2084 206.361"/>
 				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 				<entry key="unit_id" type="number" value="153"/>
 			</entry>
@@ -2795,7 +2795,6 @@
 					<entry index="102687" type="boolean" value="true"/>
 					<entry index="102816" type="boolean" value="true"/>
 					<entry index="105436" type="boolean" value="true"/>
-					<entry index="105439" type="boolean" value="true"/>
 					<entry index="105517" type="boolean" value="true"/>
 					<entry index="105656" type="boolean" value="true"/>
 					<entry index="105943" type="boolean" value="true"/>
@@ -3620,7 +3619,6 @@
 					<entry index="100799" type="boolean" value="true"/>
 					<entry index="100824" type="boolean" value="true"/>
 					<entry index="100825" type="boolean" value="true"/>
-					<entry index="100826" type="boolean" value="true"/>
 					<entry index="100827" type="boolean" value="true"/>
 					<entry index="100828" type="boolean" value="true"/>
 					<entry index="100870" type="boolean" value="true"/>

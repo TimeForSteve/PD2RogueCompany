@@ -3156,8 +3156,39 @@
 		<unit path="units/payday2/architecture/ind/ind_ext_outdoor_stairs/ind_ext_outdoor_beam_ceiling_2m"/>
 	</add>
 	<add from_db="true" path="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m" type="unit">
-		<unit path="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m"/>
-		<object path="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m"/>
 		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m"/>
+		<unit path="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_arena/equipment/gen_prop_door_metal_v2/gen_prop_door_metal_v2" type="unit">
+		<material_config path="units/pd2_dlc_arena/equipment/gen_prop_door_metal_v2/gen_prop_door_metal_v2"/>
+		<object path="units/pd2_dlc_arena/equipment/gen_prop_door_metal_v2/gen_prop_door_metal_v2"/>
+		<unit path="units/pd2_dlc_arena/equipment/gen_prop_door_metal_v2/gen_prop_door_metal_v2"/>
+	</add>
+	<add from_db="true" path="units/equipment/c4_charge/c4_plantable" type="unit">
+		<material_config path="units/equipment/c4_charge/c4_plantable"/>
+		<object path="units/equipment/c4_charge/c4_plantable"/>
+		<sequence_manager path="units/equipment/c4_charge/c4_plantable"/>
+		<unit path="units/equipment/c4_charge/c4_plantable"/>
+	</add>
+	<add from_db="true" path="effects/particles/equipment/c4_bank/c4_explosion" type="effect">
+		<effect load="true" path="effects/particles/equipment/c4_bank/c4_explosion"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v3" type="unit">
+		<material_config path="units/payday2/props/gen_prop_plywood/gen_prop_plywood"/>
+		<object path="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v3"/>
+		<unit path="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v3"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" type="unit">
+		<material_config path="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter"/>
+		<object path="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b"/>
+		<sequence_manager path="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b"/>
+		<unit path="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_private_sign/gen_prop_private_sign" type="unit">
+		<unit path="units/payday2/props/gen_prop_private_sign/gen_prop_private_sign"/>
+		<object path="units/payday2/props/gen_prop_private_sign/gen_prop_private_sign"/>
+		<material_config path="units/payday2/props/gen_prop_private_sign/gen_prop_private_sign"/>
+		<effect load="true" path="effects/payday2/particles/flares/indoor_sign"/>
 	</add>
 </table>
