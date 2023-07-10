@@ -17498,14 +17498,6 @@
 					<entry key="position" type="vector3" value="7396.79 2596.38 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="sequence" type="string" value="done_opened"/>
-							<entry key="unit_id" type="number" value="110139"/>
-						</entry>
-						<entry index="2" type="table">
-							<entry key="sequence" type="string" value="done_exploded"/>
-							<entry key="unit_id" type="number" value="110139"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -19689,7 +19681,7 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="2819.3 -5498.66 806"/>
+					<entry key="position" type="vector3" value="2900 -5875 800"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0.688355 -0.725374"/>
 					<entry key="spawn_action" type="string" value="e_sp_dah_up_climb_one_window"/>
 					<entry key="team" type="string" value="default"/>
@@ -19795,7 +19787,7 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="crouch"/>
-					<entry key="position" type="vector3" value="2530 -5732 797"/>
+					<entry key="position" type="vector3" value="2303 -6203 800"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.809017 -0.587785"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
@@ -23989,6 +23981,12 @@
 							<entry key="notify_unit_sequence" type="string" value="material_black"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
+						<entry index="13" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="200654"/>
+							<entry key="notify_unit_sequence" type="string" value="material_black"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -25285,8 +25283,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="2274 -8734 -4.76837e-005"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.0174524 -0.999848"/>
+					<entry key="position" type="vector3" value="885 -7539 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.317305 -0.948324"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -25310,7 +25308,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="1798 -8905 -19.9991"/>
+					<entry key="position" type="vector3" value="1600 -9300 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.0174524 -0.999848"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -25385,7 +25383,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="875 -4975 2.7622e-005"/>
+					<entry key="position" type="vector3" value="882 -5022 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.995396 0.0958456"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -25410,7 +25408,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="900 -4725 0"/>
+					<entry key="position" type="vector3" value="921 -4759 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.258819 -0.965926"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -26139,14 +26137,6 @@
 					<entry key="position" type="vector3" value="3100 -8900 397"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="sequence" type="string" value="done_exploded"/>
-							<entry key="unit_id" type="number" value="100703"/>
-						</entry>
-						<entry index="2" type="table">
-							<entry key="sequence" type="string" value="done_opened"/>
-							<entry key="unit_id" type="number" value="100703"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>

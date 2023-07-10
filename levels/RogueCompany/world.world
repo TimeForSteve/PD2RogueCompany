@@ -130,7 +130,7 @@
 				<entry key="continent" type="string" value="world"/>
 				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
 				<entry key="name_id" type="string" value="nav_surface_013"/>
-				<entry key="position" type="vector3" value="1599.13 -4325.1 -14.8136"/>
+				<entry key="position" type="vector3" value="1462 -4335 4.61936e-005"/>
 				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 				<entry key="unit_id" type="number" value="15"/>
 			</entry>
@@ -206,7 +206,7 @@
 				<entry key="continent" type="string" value="world"/>
 				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
 				<entry key="name_id" type="string" value="nav_surface_020"/>
-				<entry key="position" type="vector3" value="1900 -7425 -19.85"/>
+				<entry key="position" type="vector3" value="1075 -7600 4.61936e-005"/>
 				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 				<entry key="unit_id" type="number" value="22"/>
 			</entry>
@@ -263,7 +263,7 @@
 				<entry key="continent" type="string" value="world"/>
 				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
 				<entry key="name_id" type="string" value="nav_surface_028"/>
-				<entry key="position" type="vector3" value="1601.95 -8799.44 -19.9991"/>
+				<entry key="position" type="vector3" value="1283 -9133 4.61936e-005"/>
 				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 				<entry key="unit_id" type="number" value="30"/>
 			</entry>
@@ -1954,7 +1954,7 @@
 				<entry key="continent" type="string" value="world"/>
 				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
 				<entry key="name_id" type="string" value="nav_surface_096"/>
-				<entry key="position" type="vector3" value="2675 -5500 797"/>
+				<entry key="position" type="vector3" value="2425 -5850 800"/>
 				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 				<entry key="unit_id" type="number" value="96"/>
 			</entry>
@@ -2030,7 +2030,7 @@
 				<entry key="continent" type="string" value="world"/>
 				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
 				<entry key="name_id" type="string" value="nav_surface_105"/>
-				<entry key="position" type="vector3" value="1775 -7050 381.893"/>
+				<entry key="position" type="vector3" value="1036 -7096 400.893"/>
 				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 				<entry key="unit_id" type="number" value="105"/>
 			</entry>
