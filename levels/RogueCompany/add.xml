@@ -3357,8 +3357,18 @@
 		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_locker_v3"/>
 	</add>
 	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_bench" type="unit">
-		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_bench"/>
-		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_bench"/>
 		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_locker"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_bench"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_bench"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_street_concrete_barrier/str_prop_street_concrete_barrier_1m_a" type="unit">
+		<material_config path="units/payday2/props/str_prop_street_concrete_barrier/str_prop_street_concrete_barrier"/>
+		<object path="units/payday2/props/str_prop_street_concrete_barrier/str_prop_street_concrete_barrier_1m_a"/>
+		<unit path="units/payday2/props/str_prop_street_concrete_barrier/str_prop_street_concrete_barrier_1m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_street_planter_c/str_prop_street_planter_c_1x1m_end_a" type="unit">
+		<unit path="units/payday2/props/str_prop_street_planter_c/str_prop_street_planter_c_1x1m_end_a"/>
+		<object path="units/payday2/props/str_prop_street_planter_c/str_prop_street_planter_c_1x1m_end_a"/>
+		<material_config path="units/payday2/props/str_prop_street_planter_c/str_prop_street_planter_c"/>
 	</add>
 </table>

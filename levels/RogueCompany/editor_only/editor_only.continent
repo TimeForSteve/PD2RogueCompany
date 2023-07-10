@@ -3608,12 +3608,6 @@
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_320" position="-1800 -7125 -20" rotation="0 0 0 -1" unit_id="200231"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_322" position="-1830 -6410 14.752" rotation="-0 0 -0.165048 -0.986286" unit_id="200233"/>
-		</table>
-		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_323" position="-2369 -6615 6.21102" rotation="0 0 -0.165048 -0.986286" unit_id="200151"/>
-		</table>
-		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_324" position="-2001 -6200 2.5" rotation="0 0 0 -1" unit_id="200234"/>
 		</table>
 		<table>
@@ -4442,7 +4436,7 @@
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_349" position="216 -5736 30.1352" rotation="0 0 0 -1" unit_id="200984"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_350" position="-2636 -4731 16.5489" rotation="0 0 0.707107 -0.707107" unit_id="200985"/>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_350" position="-2644 -4731 16.5489" rotation="0 0 0.707107 -0.707107" unit_id="200985"/>
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_351" position="-2400 -4437 3.72529e-007" rotation="0 0 0.707107 -0.707107" unit_id="200986"/>
@@ -4466,10 +4460,10 @@
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_356" position="-518 -5263 1" rotation="0 0 -0.793353 -0.608761" unit_id="201018"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_357" position="-2030 -4984 0" rotation="0 0 0.777146 -0.62932" unit_id="201019"/>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_357" position="-1939 -5226 9.181" rotation="0 0 0.829038 -0.559193" unit_id="201019"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_358" position="-2421 -4982 3.72529e-007" rotation="0 0 0.694658 -0.71934" unit_id="201020"/>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_358" position="-2418.62 -4993.82 7.077" rotation="0 0 0.760406 -0.649448" unit_id="201020"/>
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_359" position="-1800 -8975 401.506" rotation="0 0 0 -1" unit_id="201021"/>
@@ -4581,6 +4575,171 @@
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_1025" position="-403.845 -5783.86 800" rotation="0 0 -0.0174526 -0.999848" unit_id="201526"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" name_id="dev_nav_splitter_4x3m_017" position="-3100 -3648 3.72529e-007" rotation="0 0 -0.707107 -0.707107" unit_id="201527"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_365" position="-2728.26 -4436.26 0" rotation="0 0 0.707107 -0.707107" unit_id="201528"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_366" position="-2960 -4018 0" rotation="0 0 1 4.37114e-008" unit_id="201529"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_4x3m_367" position="-2957 -3699 3.72529e-007" rotation="0 0 1 4.37114e-008" unit_id="201530"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_1026" position="-2925 -4215 3.72529e-007" rotation="0 0 1 -2.98023e-008" unit_id="201531"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_1027" position="-2925 -3914 3.72529e-007" rotation="0 0 1 -2.98023e-008" unit_id="201532"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_1028" position="-2925 -3614 3.72529e-007" rotation="0 0 1 -2.98023e-008" unit_id="201533"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_1029" position="-1670 -5270 3.72529e-007" rotation="0 0 1 -2.98023e-008" unit_id="201534"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_1030" position="-1934 -5143 3.72529e-007" rotation="0 0 1 -2.98023e-008" unit_id="201535"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_1032" position="-2378 -4971 3.72529e-007" rotation="0 0 1 -2.98023e-008" unit_id="201537"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_004" position="2019.31 -2205.28 4000" rotation="-0 0 -0 -1" unit_id="200151"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_003" position="3019.31 -2205.28 4000" rotation="0 0 -0 -1" unit_id="200233"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_001" position="2019.31 -1205.28 4000" rotation="0 0 -0 -1" unit_id="201536"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_002" position="3019.31 -1205.28 4000" rotation="0 0 -0 -1" unit_id="201538"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_004" position="2755.71 -873.442 4002.5" rotation="0 0 -0 -1" unit_id="201539">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="MONEY" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_003" position="2155.71 -873.442 4002.5" rotation="0 0 -0 -1" unit_id="201540">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="COKE" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_002" position="1555.7 -873.442 4002.5" rotation="0 0 -0 -1" unit_id="201541">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="WEAPONS" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_001" position="1555.7 -773.442 4002.5" rotation="0 0 -0 -1" unit_id="201542">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="RANDOM LOOT" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_008" position="819.311 -1205.28 4000" rotation="0 0 -0 -1" unit_id="201543"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_010" position="774.127 -1178.23 4002.5" rotation="0 0 -0 -1" unit_id="201544">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="COUNTERS" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_007" position="374.127 -1178.23 4002.5" rotation="0 0 -0 -1" unit_id="201545">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="ASSETS" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_006" position="374.127 -778.226 4002.5" rotation="0 0 -0 -1" unit_id="201546">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="ASSAULT" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_010" position="-280.689 -1205.28 4000" rotation="0 0 -0 -1" unit_id="201547"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_009" position="-725.873 -778.226 4002.5" rotation="0 0 -0 -1" unit_id="201548">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="ACHIEVEMENTS" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_009" position="-1380.69 -1205.28 4000" rotation="0 0 -0 -1" unit_id="201549"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_008" position="-1825.87 -778.226 4002.5" rotation="0 0 -0 -1" unit_id="201550">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="VOICELINES" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_006" position="892.446 -8795.6 4000" rotation="-0 0 -0 -1" unit_id="201551"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_005" position="-107.554 -8795.6 4000" rotation="0 0 -0 -1" unit_id="201552"/>
 		</table>
 	</statics>
 	<values>
