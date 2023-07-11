@@ -7693,15 +7693,12 @@
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="unit_ids" type="table">
-						<entry index="1" type="number" value="111207"/>
-						<entry index="2" type="number" value="111206"/>
-						<entry index="3" type="number" value="111205"/>
-						<entry index="4" type="number" value="111210"/>
-						<entry index="5" type="number" value="111209"/>
-						<entry index="6" type="number" value="111208"/>
-						<entry index="7" type="number" value="113163"/>
-						<entry index="8" type="number" value="113164"/>
-						<entry index="9" type="number" value="113165"/>
+						<entry index="1" type="number" value="111206"/>
+						<entry index="2" type="number" value="111205"/>
+						<entry index="3" type="number" value="111209"/>
+						<entry index="4" type="number" value="111208"/>
+						<entry index="5" type="number" value="113163"/>
+						<entry index="6" type="number" value="113164"/>
 					</entry>
 				</entry>
 			</entry>
@@ -7714,7 +7711,7 @@
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="icon" type="string" value="pd2_goto"/>
+					<entry key="icon" type="string" value="pd2_generic_interact"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
 							<entry key="delay" type="number" value="0"/>
@@ -7722,8 +7719,8 @@
 						</entry>
 					</entry>
 					<entry key="only_in_civilian" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="7698.7 -4595.99 500"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="position" type="vector3" value="1820.01 -4650.13 107.696"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
 					<entry key="text_id" type="string" value="debug_none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -7737,7 +7734,7 @@
 				<entry key="values" type="table">
 					<entry key="amount" type="number" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="depth" type="number" value="5500"/>
+					<entry key="depth" type="number" value="6000"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="height" type="number" value="900"/>
@@ -7749,7 +7746,7 @@
 							<entry key="id" type="number" value="100269"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="10394.4 -4600.87 400"/>
+					<entry key="position" type="vector3" value="5343.4 -5369.87 400"/>
 					<entry key="radius" type="number" value="250"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
 					<entry key="shape_type" type="string" value="box"/>
@@ -7758,7 +7755,7 @@
 					<entry key="trigger_on" type="string" value="on_enter"/>
 					<entry key="trigger_times" type="number" value="1"/>
 					<entry key="use_disabled_shapes" type="boolean" value="false"/>
-					<entry key="width" type="number" value="2400"/>
+					<entry key="width" type="number" value="3500"/>
 				</entry>
 			</entry>
 			<entry index="263" type="table">
@@ -7927,7 +7924,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="only_in_civilian" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="12393.8 -4371.6 307"/>
+					<entry key="position" type="vector3" value="5475 -7475 200"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.688355 -0.725374"/>
 					<entry key="text_id" type="string" value="debug_none"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -8001,9 +7998,9 @@
 							<entry key="id" type="number" value="100755"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="10178.5 -4004.27 200"/>
+					<entry key="position" type="vector3" value="4936.21 -4942.4 242.552"/>
 					<entry key="radius" type="number" value="250"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.694659 -0.719339"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.207912 -0.978148"/>
 					<entry key="shape_type" type="string" value="box"/>
 					<entry key="spawn_unit_elements" type="table">
 					</entry>
@@ -8301,8 +8298,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="only_in_civilian" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="10179.2 -3917.18 250"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.199368 -0.979925"/>
+					<entry key="position" type="vector3" value="4858.24 -4903.6 292.552"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.350208 -0.936672"/>
 					<entry key="text_id" type="string" value="debug_none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -8534,7 +8531,7 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="1611 -7859 -19.85"/>
+					<entry key="position" type="vector3" value="1075 -7550 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.788011 -0.615661"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -8561,8 +8558,8 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="1959 -4729 -19.8136"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.999657 -0.0261768"/>
+					<entry key="position" type="vector3" value="1725 -3275 -0.000120886"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.999657 -0.0261765"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -9181,7 +9178,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="13735.4 -6066.79 0"/>
+					<entry key="position" type="vector3" value="8575 -5725 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="-0 -0 4.37114e-008 -1"/>
 					<entry key="spawn_groups" type="table">
 						<entry index="1" type="number" value="100341"/>
@@ -9208,8 +9205,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="13691.6 -6166.87 2.38419e-005"/>
-					<entry key="rotation" type="quaternion" value="-0 -0 4.37114e-008 -1"/>
+					<entry key="position" type="vector3" value="8531.2 -5825.08 7.00355e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 4.37114e-008 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -9233,8 +9230,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="13780.6 -6254.72 0.00032708"/>
-					<entry key="rotation" type="quaternion" value="-0 -0 4.37114e-008 -1"/>
+					<entry key="position" type="vector3" value="8620.2 -5912.93 0.000373274"/>
+					<entry key="rotation" type="quaternion" value="0 0 4.37114e-008 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -9258,8 +9255,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="13792.1 -6160.35 2.38419e-005"/>
-					<entry key="rotation" type="quaternion" value="-0 -0 4.37114e-008 -1"/>
+					<entry key="position" type="vector3" value="8631.7 -5818.56 7.00355e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 4.37114e-008 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -9283,8 +9280,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="13690.1 -6255.25 0.00032708"/>
-					<entry key="rotation" type="quaternion" value="-0 -0 4.37114e-008 -1"/>
+					<entry key="position" type="vector3" value="8529.7 -5913.46 0.000373274"/>
+					<entry key="rotation" type="quaternion" value="0 0 4.37114e-008 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -9311,7 +9308,7 @@
 					<entry key="interval" type="number" value="5"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="13734 -6215.17 2.38419e-005"/>
+					<entry key="position" type="vector3" value="8573.6 -5873.38 7.00355e-005"/>
 					<entry key="preferred_spawn_groups" type="table">
 						<entry index="1" type="string" value="tac_shield_wall_charge"/>
 						<entry index="2" type="string" value="FBI_spoocs"/>
@@ -9323,7 +9320,7 @@
 						<entry index="8" type="string" value="tac_bull_rush"/>
 						<entry index="9" type="string" value="tac_swat_rifle_flank"/>
 					</entry>
-					<entry key="rotation" type="quaternion" value="-0 -0 4.37114e-008 -1"/>
+					<entry key="rotation" type="quaternion" value="0 0 4.37114e-008 -1"/>
 					<entry key="spawn_type" type="string" value="ordered"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -9340,7 +9337,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="13710.4 -1391.79 0"/>
+					<entry key="position" type="vector3" value="8750 -1925 0.000255555"/>
 					<entry key="rotation" type="quaternion" value="0 0 1 -0"/>
 					<entry key="spawn_groups" type="table">
 						<entry index="1" type="number" value="100373"/>
@@ -9367,7 +9364,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="13754.2 -1291.71 2.38419e-005"/>
+					<entry key="position" type="vector3" value="8793.8 -1824.92 0.000279397"/>
 					<entry key="rotation" type="quaternion" value="0 0 1 -0"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -9392,7 +9389,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="13665.2 -1203.86 0.00032708"/>
+					<entry key="position" type="vector3" value="8704.8 -1737.07 0.000582635"/>
 					<entry key="rotation" type="quaternion" value="0 0 1 -0"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -9417,7 +9414,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="13653.7 -1298.23 2.38419e-005"/>
+					<entry key="position" type="vector3" value="8693.3 -1831.44 0.000279397"/>
 					<entry key="rotation" type="quaternion" value="0 0 1 -0"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -9442,7 +9439,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="13755.7 -1203.33 0.00032708"/>
+					<entry key="position" type="vector3" value="8795.3 -1736.54 0.000582635"/>
 					<entry key="rotation" type="quaternion" value="0 0 1 -0"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -9470,7 +9467,7 @@
 					<entry key="interval" type="number" value="5"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="13711.8 -1243.41 2.38419e-005"/>
+					<entry key="position" type="vector3" value="8751.4 -1776.62 0.000279397"/>
 					<entry key="preferred_spawn_groups" type="table">
 						<entry index="1" type="string" value="tac_shield_wall_charge"/>
 						<entry index="2" type="string" value="FBI_spoocs"/>
@@ -14383,7 +14380,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="8346.81 -1856.16 0"/>
+					<entry key="position" type="vector3" value="5379.8 -1337.07 -7.15251e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 1.78814e-007 -1"/>
 					<entry key="spawn_groups" type="table">
 						<entry index="1" type="number" value="100676"/>
@@ -14410,7 +14407,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="8303 -1956.24 2.38419e-005"/>
+					<entry key="position" type="vector3" value="5335.99 -1437.15 -4.76832e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 2.08616e-007 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -14435,7 +14432,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="8392.01 -2044.09 0.00032708"/>
+					<entry key="position" type="vector3" value="5425 -1525 0.000255555"/>
 					<entry key="rotation" type="quaternion" value="0 0 2.08616e-007 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -14460,7 +14457,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="8403.54 -1949.73 2.38419e-005"/>
+					<entry key="position" type="vector3" value="5436.53 -1430.64 -4.76832e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 2.08616e-007 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -14485,7 +14482,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="8301.5 -2044.62 0.00032708"/>
+					<entry key="position" type="vector3" value="5334.49 -1525.53 0.000255555"/>
 					<entry key="rotation" type="quaternion" value="0 0 2.08616e-007 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -14513,7 +14510,7 @@
 					<entry key="interval" type="number" value="5"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="8345.42 -2004.55 2.38419e-005"/>
+					<entry key="position" type="vector3" value="5378.41 -1485.46 -4.76832e-005"/>
 					<entry key="preferred_spawn_groups" type="table">
 						<entry index="1" type="string" value="tac_shield_wall_charge"/>
 						<entry index="2" type="string" value="FBI_spoocs"/>
@@ -14548,7 +14545,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="8104.7 -2038.47 0.00032708"/>
+					<entry key="position" type="vector3" value="5137.69 -1519.38 0.000255555"/>
 					<entry key="rotation" type="quaternion" value="0 0 -5.96046e-008 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -14573,7 +14570,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="8195.21 -2037.92 0.00032708"/>
+					<entry key="position" type="vector3" value="5228.2 -1518.83 0.000255555"/>
 					<entry key="rotation" type="quaternion" value="0 0 -5.96046e-008 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -14598,7 +14595,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="8206.74 -1943.56 2.38419e-005"/>
+					<entry key="position" type="vector3" value="5239.73 -1424.47 -4.76832e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 -5.96046e-008 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -14623,7 +14620,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="8106.18 -1950.08 2.38419e-005"/>
+					<entry key="position" type="vector3" value="5139.17 -1430.99 -4.76832e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 -5.96046e-008 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -14651,7 +14648,7 @@
 					<entry key="interval" type="number" value="5"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="8148.61 -1998.39 2.38419e-005"/>
+					<entry key="position" type="vector3" value="5181.6 -1479.3 -4.76832e-005"/>
 					<entry key="preferred_spawn_groups" type="table">
 						<entry index="1" type="string" value="tac_shield_wall_charge"/>
 						<entry index="2" type="string" value="FBI_spoocs"/>
@@ -14680,7 +14677,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="8150 -1850 0"/>
+					<entry key="position" type="vector3" value="5182.99 -1330.91 -7.15251e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 -2.98023e-008 -1"/>
 					<entry key="spawn_groups" type="table">
 						<entry index="1" type="number" value="100681"/>
@@ -16155,7 +16152,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="10058.8 -8606.84 -20"/>
+					<entry key="position" type="vector3" value="7747.83 -8576.36 6.02007e-006"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="spawn_groups" type="table">
 						<entry index="1" type="number" value="100739"/>
@@ -16182,7 +16179,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="9965.21 -8663.58 -20"/>
+					<entry key="position" type="vector3" value="7654.24 -8633.1 6.02007e-006"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -16207,7 +16204,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="9958.69 -8563.02 -20"/>
+					<entry key="position" type="vector3" value="7647.72 -8532.54 6.02007e-006"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -16232,7 +16229,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="9870.3 -8561.54 -19.9997"/>
+					<entry key="position" type="vector3" value="7559.33 -8531.06 0.000305474"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -16260,7 +16257,7 @@
 					<entry key="interval" type="number" value="5"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="9910.38 -8605.45 -20"/>
+					<entry key="position" type="vector3" value="7599.41 -8574.97 6.02007e-006"/>
 					<entry key="preferred_spawn_groups" type="table">
 						<entry index="1" type="string" value="tac_shield_wall_charge"/>
 						<entry index="2" type="string" value="FBI_spoocs"/>
@@ -16295,7 +16292,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="9870.84 -8652.05 -19.9997"/>
+					<entry key="position" type="vector3" value="7559.87 -8621.57 0.000305474"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -16314,7 +16311,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="9824.43 -8625.79 -20"/>
+					<entry key="position" type="vector3" value="7513.46 -8595.31 6.02007e-006"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="spawn_groups" type="table">
 						<entry index="1" type="number" value="100745"/>
@@ -16341,7 +16338,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="9730.87 -8682.52 -20"/>
+					<entry key="position" type="vector3" value="7419.9 -8652.04 6.02007e-006"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -16366,7 +16363,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="9724.35 -8581.97 -20"/>
+					<entry key="position" type="vector3" value="7413.38 -8551.49 6.02007e-006"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -16391,7 +16388,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="9635.97 -8580.48 -19.9997"/>
+					<entry key="position" type="vector3" value="7325 -8550 0.000305474"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -16419,7 +16416,7 @@
 					<entry key="interval" type="number" value="5"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="9676.04 -8624.4 -20"/>
+					<entry key="position" type="vector3" value="7365.07 -8593.92 6.02007e-006"/>
 					<entry key="preferred_spawn_groups" type="table">
 						<entry index="1" type="string" value="tac_shield_wall_charge"/>
 						<entry index="2" type="string" value="FBI_spoocs"/>
@@ -16454,7 +16451,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="9636.51 -8670.99 -19.9997"/>
+					<entry key="position" type="vector3" value="7325.54 -8640.51 0.000305474"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -16473,7 +16470,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="11651.9 -8520.93 0"/>
+					<entry key="position" type="vector3" value="4274.9 -8556.22 0.000305474"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="spawn_groups" type="table">
 						<entry index="1" type="number" value="100751"/>
@@ -16500,7 +16497,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="11745.5 -8464.19 0"/>
+					<entry key="position" type="vector3" value="4325 -8450 0.000305474"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -16525,7 +16522,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="11752 -8564.71 0"/>
+					<entry key="position" type="vector3" value="4375 -8500 0.000305474"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -16550,7 +16547,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="11840.4 -8566.23 0.000299454"/>
+					<entry key="position" type="vector3" value="4463.4 -8501.52 0.000604928"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -16578,7 +16575,7 @@
 					<entry key="interval" type="number" value="5"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="11800.3 -8522.29 0"/>
+					<entry key="position" type="vector3" value="4423.3 -8557.58 0.000305474"/>
 					<entry key="preferred_spawn_groups" type="table">
 						<entry index="1" type="string" value="tac_shield_wall_charge"/>
 						<entry index="2" type="string" value="FBI_spoocs"/>
@@ -16613,7 +16610,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="11839.9 -8475.71 0.000299454"/>
+					<entry key="position" type="vector3" value="4419.4 -8461.52 0.000604928"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -17727,7 +17724,7 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="5000 -5100 0"/>
+					<entry key="position" type="vector3" value="5000 -5100 -175"/>
 					<entry key="repeatable" type="boolean" value="true"/>
 					<entry key="rotation" type="quaternion" value="0 0 1 -0"/>
 					<entry key="scan" type="boolean" value="true"/>
@@ -17775,7 +17772,7 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="5000 -5300 0"/>
+					<entry key="position" type="vector3" value="5000 -5300 -175"/>
 					<entry key="repeatable" type="boolean" value="true"/>
 					<entry key="rotation" type="quaternion" value="0 0 -4.37114e-008 -1"/>
 					<entry key="scan" type="boolean" value="true"/>
@@ -20257,7 +20254,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="only_in_civilian" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="10394.4 -4600.87 450"/>
+					<entry key="position" type="vector3" value="5125 -5175 500"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
 					<entry key="text_id" type="string" value="debug_none"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -20284,7 +20281,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="12275 -4600 0"/>
+					<entry key="position" type="vector3" value="6150 -4100 0.000255555"/>
 					<entry key="rotation" type="quaternion" value="0 0 1 4.37114e-008"/>
 					<entry key="spawn_action" type="string" value="e_sp_down_16m"/>
 					<entry key="team" type="string" value="default"/>
@@ -20325,7 +20322,7 @@
 					<entry key="path_style" type="string" value="none"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="12200 -4400 0"/>
+					<entry key="position" type="vector3" value="6075 -3700 3.48023"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
@@ -25433,7 +25430,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="2350 -6125 -9.53675e-005"/>
+					<entry key="position" type="vector3" value="1321 -7750 -2.5332e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="e_sp_over_3m"/>
 					<entry key="team" type="string" value="default"/>
@@ -25458,7 +25455,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="2354 -6275 -2.38419e-005"/>
+					<entry key="position" type="vector3" value="1325 -7900 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="e_sp_over_3m"/>
 					<entry key="team" type="string" value="default"/>
@@ -25483,7 +25480,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="2350 -6675 -4.76837e-005"/>
+					<entry key="position" type="vector3" value="1350 -6725 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="e_sp_over_3m"/>
 					<entry key="team" type="string" value="default"/>
@@ -25508,7 +25505,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="2350 -6500 -9.53675e-005"/>
+					<entry key="position" type="vector3" value="1350 -6550 -1.4902e-006"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="e_sp_over_3m"/>
 					<entry key="team" type="string" value="default"/>
@@ -25533,7 +25530,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="1610.9 -8158.58 -19.85"/>
+					<entry key="position" type="vector3" value="1250 -7325 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.438371 -0.898794"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -25558,7 +25555,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="1575 -7325 -19.85"/>
+					<entry key="position" type="vector3" value="1575 -4700 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.814115 -0.580703"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -25583,8 +25580,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="1900 -4675 -19.814"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.601815 -0.798635"/>
+					<entry key="position" type="vector3" value="866 -6421 -0"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.173648 -0.984808"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -26182,6 +26179,12 @@
 						<entry index="1" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="101014"/>
+							<entry key="notify_unit_sequence" type="string" value="hide"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="103985"/>
 							<entry key="notify_unit_sequence" type="string" value="hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
@@ -29392,6 +29395,56 @@
 						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="1013" type="table">
+				<entry key="class" type="string" value="ElementInteraction"/>
+				<entry key="editor_name" type="string" value="interaction_remove_barrier_bis"/>
+				<entry key="id" type="number" value="100802"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="debug_mode" type="boolean" value="false"/>
+					<entry key="enabled" type="boolean" value="false"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="host_only" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="alternative" type="string" value="interacted"/>
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100415"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="alternative" type="string" value="interacted"/>
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100390"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="alternative" type="string" value="interacted"/>
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100921"/>
+						</entry>
+						<entry index="4" type="table">
+							<entry key="alternative" type="string" value="interacted"/>
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100922"/>
+						</entry>
+						<entry index="5" type="table">
+							<entry key="alternative" type="string" value="interacted"/>
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100259"/>
+						</entry>
+						<entry index="6" type="table">
+							<entry key="alternative" type="string" value="interacted"/>
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100737"/>
+						</entry>
+					</entry>
+					<entry key="override_timer" type="number" value="-1"/>
+					<entry key="position" type="vector3" value="1770.01 -4650.13 107.696"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0.700909 -0.713251"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="tweak_data_id" type="string" value="hold_remove_tarp"/>
 				</entry>
 			</entry>
 		</entry>
