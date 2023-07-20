@@ -15,6 +15,23 @@
 		<texture path="units/graff/katlogistics"/>
 		<unit path="units/graff/katlogistics"/>
 	</add>
+	<add unload_on_restart="true">
+		<unit load="true" path="units/payday2/characters/ene_gangster_armored/ene_gangster_armored"/>
+		<unit load="true" path="units/payday2/characters/ene_gangster_armored/ene_gangster_armored_husk"/>
+		<material_config path="units/payday2/characters/ene_gangster_armored/ene_gangster_armored"/>
+		<material_config path="units/payday2/characters/ene_gangster_armored/ene_gangster_armored_contour"/>
+		<texture path="units/payday2/characters/ene_gangster_armored/gangster_glass_op"/>
+		<texture path="units/payday2/characters/ene_gangster_armored/gangster_glass_df"/>
+		<model path="units/payday2/characters/ene_gangster_armored/ene_gangster_armored"/>
+		<object path="units/payday2/characters/ene_gangster_armored/ene_gangster_armored"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_kitteh/props/billboard_sign_katoil/billboard_sign_katoil"/>
+		<model path="units/pd2_mod_kitteh/props/billboard_sign_katoil/billboard_sign_katoil"/>
+		<object path="units/pd2_mod_kitteh/props/billboard_sign_katoil/billboard_sign_katoil"/>
+		<texture path="units/pd2_mod_kitteh/props/billboard_sign_katoil/billboard_sign_katoil_df"/>
+		<unit path="units/pd2_mod_kitteh/props/billboard_sign_katoil/billboard_sign_katoil"/>
+	</add>
 	<add from_db="true" path="units/world/brushes/water_damage/water_damage_1" type="unit">
 		<material_config path="units/world/brushes/water_damage/water_damage"/>
 		<object path="units/world/brushes/water_damage/water_damage_1"/>
@@ -3367,8 +3384,50 @@
 		<unit path="units/payday2/props/str_prop_street_concrete_barrier/str_prop_street_concrete_barrier_1m_a"/>
 	</add>
 	<add from_db="true" path="units/payday2/props/str_prop_street_planter_c/str_prop_street_planter_c_1x1m_end_a" type="unit">
-		<unit path="units/payday2/props/str_prop_street_planter_c/str_prop_street_planter_c_1x1m_end_a"/>
-		<object path="units/payday2/props/str_prop_street_planter_c/str_prop_street_planter_c_1x1m_end_a"/>
 		<material_config path="units/payday2/props/str_prop_street_planter_c/str_prop_street_planter_c"/>
+		<object path="units/payday2/props/str_prop_street_planter_c/str_prop_street_planter_c_1x1m_end_a"/>
+		<unit path="units/payday2/props/str_prop_street_planter_c/str_prop_street_planter_c_1x1m_end_a"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet" type="unit">
+		<material_config path="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet"/>
+		<object path="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet"/>
+		<unit path="units/pd2_dlc_chew/props/chw_prop_shipping_box_pallet/chw_prop_shipping_box_pallet"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box" type="unit">
+		<material_config path="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box"/>
+		<object path="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box"/>
+		<unit path="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box_open" type="unit">
+		<material_config path="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box_open"/>
+		<object path="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box_open"/>
+		<unit path="units/pd2_dlc_casino/props/cas_prop_wine_cardboard_box_open/cas_prop_wine_cardboard_box_open"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_fex/props/fex_prop_wooden_barrel/fex_prop_wooden_barrel" type="unit">
+		<material_config path="units/pd2_dlc_fex/props/fex_prop_wooden_barrel/fex_prop_wooden_barrel"/>
+		<object path="units/pd2_dlc_fex/props/fex_prop_wooden_barrel/fex_prop_wooden_barrel"/>
+		<unit path="units/pd2_dlc_fex/props/fex_prop_wooden_barrel/fex_prop_wooden_barrel"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_fish/lxy_prop_pallet_wine_01/lxy_prop_pallet_wine_01_low" type="unit">
+		<material_config path="units/pd2_dlc_fish/lxy_prop_pallet_wine_01/lxy_prop_pallet_wine_01"/>
+		<object path="units/pd2_dlc_fish/lxy_prop_pallet_wine_01/lxy_prop_pallet_wine_01_low"/>
+		<unit path="units/pd2_dlc_fish/lxy_prop_pallet_wine_01/lxy_prop_pallet_wine_01_low"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_fish/lxy_prop_pallet_wine_01/lxy_prop_pallet_wine_01" type="unit">
+		<material_config path="units/pd2_dlc_fish/lxy_prop_pallet_wine_01/lxy_prop_pallet_wine_01"/>
+		<object path="units/pd2_dlc_fish/lxy_prop_pallet_wine_01/lxy_prop_pallet_wine_01"/>
+		<unit path="units/pd2_dlc_fish/lxy_prop_pallet_wine_01/lxy_prop_pallet_wine_01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader" type="unit">
+		<material_config path="units/pd2_mcmansion/props/mcm_prop_panicroom/mcm_prop_panicroom_controldevice_retinascanner"/>
+		<object path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader"/>
+		<sequence_manager path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader"/>
+		<unit path="units/pd2_dlc_dah/props/dah_prop_control_device_keycard_reader/dah_prop_control_device_keycard_reader"/>
+	</add>
+	<add from_db="true" path="units/pd2_mcmansion/props/mcm_prop_panicroom/mcm_prop_panicroom_controldevice_controlbox" type="unit">
+		<unit path="units/pd2_mcmansion/props/mcm_prop_panicroom/mcm_prop_panicroom_controldevice_controlbox"/>
+		<object path="units/pd2_mcmansion/props/mcm_prop_panicroom/mcm_prop_panicroom_controldevice_controlbox"/>
+		<material_config path="units/pd2_mcmansion/props/mcm_prop_panicroom/mcm_prop_panicroom_controldevice_retinascanner"/>
+		<sequence_manager path="units/pd2_mcmansion/props/mcm_prop_panicroom/mcm_prop_panicroom_controldevice_controlbox"/>
 	</add>
 </table>
