@@ -3412,6 +3412,15 @@
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_1005" position="-2711.96 -7362.55 411.922" rotation="0 0 -0.0174526 -0.999848" unit_id="200454"/>
 		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_975" position="-3276.04 -7196.98 342.433" rotation="0 0 -0.0174526 -0.999848" unit_id="200455"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_976" position="-3279.53 -7097.05 342.433" rotation="0 0 -0.0174526 -0.999848" unit_id="200456"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_977" position="-3283.02 -6997.11 342.433" rotation="0 0 -0.0174526 -0.999848" unit_id="200457"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

@@ -20088,6 +20088,7 @@
 			</entry>
 			<entry index="725" type="table">
 				<entry key="class" type="string" value="ElementSpawnEnemyDummy"/>
+				<entry key="editor_color" type="string" value="ffa100"/>
 				<entry key="editor_name" type="string" value="spawn_enemy_dummy_alleyambush_001"/>
 				<entry key="id" type="number" value="100262"/>
 				<entry key="script" type="string" value="default"/>
@@ -20107,7 +20108,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="6150 -4100 0.000255555"/>
+					<entry key="position" type="vector3" value="6475 -4625 0.000255555"/>
 					<entry key="rotation" type="quaternion" value="0 0 1 4.37114e-008"/>
 					<entry key="spawn_action" type="string" value="e_sp_down_16m"/>
 					<entry key="team" type="string" value="default"/>
