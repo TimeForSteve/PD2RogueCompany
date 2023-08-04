@@ -2809,7 +2809,7 @@
 				<entry key="continent" type="string" value="world"/>
 				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
 				<entry key="name_id" type="string" value="nav_surface_144"/>
-				<entry key="position" type="vector3" value="-4575 6025 634.996"/>
+				<entry key="position" type="vector3" value="-4575 5900 575.484"/>
 				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 				<entry key="unit_id" type="number" value="144"/>
 			</entry>
