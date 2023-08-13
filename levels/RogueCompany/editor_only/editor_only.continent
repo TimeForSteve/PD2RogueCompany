@@ -3035,9 +3035,6 @@
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" name_id="dev_nav_splitter_4x3m_596" position="4949 -7202 0" rotation="0 0 0.173648 -0.984808" unit_id="200189"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" name_id="dev_nav_splitter_4x3m_597" position="4378.5 -5615.76 0" rotation="0 0 0.5373 -0.843391" unit_id="200190"/>
-		</table>
-		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" name_id="dev_nav_splitter_4x3m_598" position="4201 -6306 0" rotation="0 0 0.71325 -0.700909" unit_id="200191"/>
 		</table>
 		<table>
@@ -6831,6 +6828,15 @@
 					</shape>
 				</editable_gui>
 			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="editor_only" disable_on_ai_graph="true" mesh_variation="state_disabled" name="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button" name_id="gen_prop_security_button_001" position="-2375 1375 0" rotation="-0 0 -0 -1" unit_id="202244"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" mesh_variation="" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="gen_prop_security_timer_001" position="-4378 5071 1170.35" rotation="0 0 0.707107 -0.707107" unit_id="202245"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" mesh_variation="" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="gen_prop_security_timer_002" position="-4375 5004 1170.29" rotation="0 0 0.707107 -0.707107" unit_id="202246"/>
 		</table>
 	</statics>
 	<values>
