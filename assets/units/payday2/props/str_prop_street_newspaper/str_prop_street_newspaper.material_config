@@ -1,5 +1,0 @@
-<materials version="3">
-	<material name="mat_newspaper" render_template="generic:DIFFUSE_TEXTURE" version="2">
-		<diffuse_texture file="units/payday2/props/str_prop_street_newspaper/str_prop_street_newspaper_df"/>
-    </material>
-</materials>

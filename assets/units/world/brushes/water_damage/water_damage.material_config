@@ -1,5 +1,0 @@
-<materials version="3">
-    <material name="blood_puddle" decal_material="water_puddle" render_template="decal:DIFFUSE_TEXTURE" version="2">
-        <diffuse_texture file="units/world/brushes/water_damage/water_damage_df"/>
-    </material>
-</materials>

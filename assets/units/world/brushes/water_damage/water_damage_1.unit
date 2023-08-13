@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<unit slot="1" type="cft">
-    <object file="units/world/brushes/water_damage/water_damage_1"/>
-    <extensions>
-        <extension class="ScriptUnitData" name="unit_data"/>
-    </extensions>
-</unit>
