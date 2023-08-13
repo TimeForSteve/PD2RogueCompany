@@ -6830,13 +6830,28 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data continent="editor_only" disable_on_ai_graph="true" mesh_variation="state_disabled" name="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button" name_id="gen_prop_security_button_001" position="-2375 1375 0" rotation="-0 0 -0 -1" unit_id="202244"/>
+			<unit_data continent="editor_only" disable_on_ai_graph="true" mesh_variation="state_disabled" name="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button" name_id="skip_button_garage" position="-2375 1375 0" rotation="-0 0 -0 -1" unit_id="202244"/>
 		</table>
 		<table>
 			<unit_data continent="editor_only" mesh_variation="" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="gen_prop_security_timer_001" position="-4378 5071 1170.35" rotation="0 0 0.707107 -0.707107" unit_id="202245"/>
 		</table>
 		<table>
 			<unit_data continent="editor_only" mesh_variation="" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="gen_prop_security_timer_002" position="-4375 5004 1170.29" rotation="0 0 0.707107 -0.707107" unit_id="202246"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" disable_on_ai_graph="true" mesh_variation="state_enabled" name="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button" name_id="skip_button_alleyway" position="1675 -4775 0" rotation="-0 0 -0 -1" unit_id="200190"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_4x3m" name_id="dev_nav_blocker_4x3m_180" position="3800 -8675 0.000305474" rotation="0 0 1 4.37114e-008" unit_id="202247"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_4x3m" name_id="dev_nav_blocker_4x3m_181" position="3800 -8275 0.000305474" rotation="0 0 1 4.37114e-008" unit_id="202248"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_4x3m" name_id="dev_nav_blocker_4x3m_200" position="3800 -9050 0.000305474" rotation="0 0 0.707107 -0.707107" unit_id="202249"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_4x3m" name_id="dev_nav_blocker_4x3m_201" position="4050 -9050 0.000305474" rotation="0 0 0.707107 -0.707107" unit_id="202250"/>
 		</table>
 	</statics>
 	<values>
