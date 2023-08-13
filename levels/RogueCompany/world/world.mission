@@ -25651,6 +25651,10 @@
 						<entry index="12" type="number" value="103111"/>
 						<entry index="13" type="number" value="103107"/>
 						<entry index="14" type="number" value="103108"/>
+						<entry index="15" type="number" value="103842"/>
+						<entry index="16" type="number" value="103998"/>
+						<entry index="17" type="number" value="103975"/>
+						<entry index="18" type="number" value="103976"/>
 					</entry>
 				</entry>
 			</entry>
@@ -25711,6 +25715,10 @@
 						<entry index="12" type="number" value="103332"/>
 						<entry index="13" type="number" value="103331"/>
 						<entry index="14" type="number" value="103333"/>
+						<entry index="15" type="number" value="103841"/>
+						<entry index="16" type="number" value="103844"/>
+						<entry index="17" type="number" value="103843"/>
+						<entry index="18" type="number" value="103846"/>
 					</entry>
 				</entry>
 			</entry>
@@ -25771,6 +25779,10 @@
 						<entry index="12" type="number" value="103468"/>
 						<entry index="13" type="number" value="103461"/>
 						<entry index="14" type="number" value="103469"/>
+						<entry index="15" type="number" value="103839"/>
+						<entry index="16" type="number" value="104000"/>
+						<entry index="17" type="number" value="103996"/>
+						<entry index="18" type="number" value="103997"/>
 					</entry>
 				</entry>
 			</entry>
@@ -25831,6 +25843,10 @@
 						<entry index="12" type="number" value="103617"/>
 						<entry index="13" type="number" value="103618"/>
 						<entry index="14" type="number" value="103530"/>
+						<entry index="15" type="number" value="103840"/>
+						<entry index="16" type="number" value="103979"/>
+						<entry index="17" type="number" value="103999"/>
+						<entry index="18" type="number" value="103978"/>
 					</entry>
 				</entry>
 			</entry>
@@ -26254,6 +26270,10 @@
 						<entry index="15" type="number" value="103617"/>
 						<entry index="16" type="number" value="103618"/>
 						<entry index="17" type="number" value="103530"/>
+						<entry index="18" type="number" value="103840"/>
+						<entry index="19" type="number" value="103979"/>
+						<entry index="20" type="number" value="103999"/>
+						<entry index="21" type="number" value="103978"/>
 					</entry>
 				</entry>
 			</entry>
@@ -26289,6 +26309,10 @@
 						<entry index="15" type="number" value="103468"/>
 						<entry index="16" type="number" value="103469"/>
 						<entry index="17" type="number" value="103461"/>
+						<entry index="18" type="number" value="103839"/>
+						<entry index="19" type="number" value="104000"/>
+						<entry index="20" type="number" value="103996"/>
+						<entry index="21" type="number" value="103997"/>
 					</entry>
 				</entry>
 			</entry>
@@ -26324,6 +26348,10 @@
 						<entry index="15" type="number" value="103331"/>
 						<entry index="16" type="number" value="103332"/>
 						<entry index="17" type="number" value="103333"/>
+						<entry index="18" type="number" value="103841"/>
+						<entry index="19" type="number" value="103846"/>
+						<entry index="20" type="number" value="103844"/>
+						<entry index="21" type="number" value="103843"/>
 					</entry>
 				</entry>
 			</entry>
@@ -26359,6 +26387,10 @@
 						<entry index="15" type="number" value="103111"/>
 						<entry index="16" type="number" value="103107"/>
 						<entry index="17" type="number" value="103108"/>
+						<entry index="18" type="number" value="103842"/>
+						<entry index="19" type="number" value="103998"/>
+						<entry index="20" type="number" value="103975"/>
+						<entry index="21" type="number" value="103976"/>
 					</entry>
 				</entry>
 			</entry>
@@ -26489,6 +26521,10 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="icon" type="string" value="pd2_generic_interact"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100338"/>
+						</entry>
 					</entry>
 					<entry key="only_in_civilian" type="boolean" value="false"/>
 					<entry key="position" type="vector3" value="-147 -5032 889.986"/>
@@ -26529,6 +26565,10 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="icon" type="string" value="pd2_generic_interact"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100338"/>
+						</entry>
 					</entry>
 					<entry key="only_in_civilian" type="boolean" value="false"/>
 					<entry key="position" type="vector3" value="-231 -8324 889.986"/>
@@ -26569,6 +26609,10 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="icon" type="string" value="pd2_generic_interact"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100338"/>
+						</entry>
 					</entry>
 					<entry key="only_in_civilian" type="boolean" value="false"/>
 					<entry key="position" type="vector3" value="-3400 -7458 889.986"/>
@@ -26609,6 +26653,10 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="icon" type="string" value="pd2_generic_interact"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100338"/>
+						</entry>
 					</entry>
 					<entry key="only_in_civilian" type="boolean" value="false"/>
 					<entry key="position" type="vector3" value="-2309 -5230 900.986"/>
@@ -56267,6 +56315,30 @@
 						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1719" type="table">
+				<entry key="class" type="string" value="ElementPlaySound"/>
+				<entry key="editor_name" type="string" value="alarmed_door"/>
+				<entry key="id" type="number" value="100338"/>
+				<entry key="module" type="string" value="CoreElementPlaySound"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="append_prefix" type="boolean" value="false"/>
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="elements" type="table">
+					</entry>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="interrupt" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-2125 -6375 1097.4"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="sound_event" type="string" value="alarm_the_bomb_on_slow_fade"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="use_instigator" type="boolean" value="false"/>
+					<entry key="use_play_func" type="boolean" value="false"/>
 				</entry>
 			</entry>
 		</entry>

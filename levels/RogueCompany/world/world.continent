@@ -23734,6 +23734,54 @@
 		<table>
 			<unit_data continent="world" name="units/dev_tools/level_tools/dev_collision/dev_collision_1x1m" name_id="dev_collision_1x1m_006" position="6351 -4866 401.743" rotation="0.560986 -0.560986 0.430459 0.430459" unit_id="103838"/>
 		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="int_seq_warning" name="units/pd2_dlc_chas/props/chas_prop_signs/chas_prop_signs" name_id="chas_prop_signs_001" position="-3598 -7875 975.903" rotation="0 0 0.707107 -0.707107" unit_id="103839"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="int_seq_warning" name="units/pd2_dlc_chas/props/chas_prop_signs/chas_prop_signs" name_id="chas_prop_signs_002" position="-2204 -5199 980.684" rotation="0 0 1 -4.37114e-008" unit_id="103840"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="int_seq_warning" name="units/pd2_dlc_chas/props/chas_prop_signs/chas_prop_signs" name_id="chas_prop_signs_003" position="-636 -8399 971.186" rotation="0 0 0 -1" unit_id="103841"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="int_seq_warning" name="units/pd2_dlc_chas/props/chas_prop_signs/chas_prop_signs" name_id="chas_prop_signs_004" position="-398 -5001 972.114" rotation="0 0 -1 4.37114e-008" unit_id="103842"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_alarm_box_02" name_id="ind_ext_prop_alarm_box_02_001" position="-300 -8398 1099.39" rotation="0 0.707107 0.707107 -0" unit_id="103843"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="blink_on" name="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm" name_id="mcm_prop_small_alarm_001" position="-203.146 -8393.7 1163.94" rotation="0.31058 0.122341 -0.345479 -0.87705" unit_id="103844"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="blink_on" name="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm" name_id="mcm_prop_small_alarm_002" position="-204.019 -8053.38 1165.53" rotation="-0.116902 -0.312668 0.882946 0.33012" unit_id="103846"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="blink_on" name="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm" name_id="mcm_prop_small_alarm_003" position="-4.01884 -5003.38 1165.53" rotation="-0.116902 -0.312668 0.882946 0.33012" unit_id="103975"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="blink_on" name="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm" name_id="mcm_prop_small_alarm_004" position="-3.14603 -5343.7 1163.94" rotation="0.31058 0.122341 -0.345479 -0.87705" unit_id="103976"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="blink_on" name="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm" name_id="mcm_prop_small_alarm_005" position="-2592.02 -5545.38 1172.53" rotation="0.312668 -0.116902 0.33012 -0.882946" unit_id="103978"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="blink_on" name="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm" name_id="mcm_prop_small_alarm_006" position="-2592.89 -5205.05 1170.94" rotation="-0.122341 0.31058 -0.87705 0.345479" unit_id="103979"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="blink_on" name="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm" name_id="mcm_prop_small_alarm_007" position="-3595.02 -7439.38 1158.53" rotation="0.143708 -0.301289 0.850814 -0.405818" unit_id="103996"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="blink_on" name="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm" name_id="mcm_prop_small_alarm_008" position="-3254.93 -7426.63 1156.94" rotation="-0.127742 -0.308397 0.870887 0.360733" unit_id="103997"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_alarm_box_02" name_id="ind_ext_prop_alarm_box_02_002" position="-112 -5001 1098.33" rotation="-0.707107 3.09086e-008 -3.09086e-008 -0.707107" unit_id="103998"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_alarm_box_02" name_id="ind_ext_prop_alarm_box_02_003" position="-2476 -5201 1090.44" rotation="-0.707107 3.09086e-008 -3.09086e-008 -0.707107" unit_id="103999"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_alarm_box_02" name_id="ind_ext_prop_alarm_box_02_004" position="-3598 -7538 1105.75" rotation="0.5 0.5 0.5 0.5" unit_id="104000"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

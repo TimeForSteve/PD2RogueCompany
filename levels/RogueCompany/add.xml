@@ -2879,4 +2879,21 @@
 		<sequence_manager path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer"/>
 		<unit path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer"/>
 	</add>
+	<add from_db="true" path="units/pd2_dlc_chas/props/chas_prop_signs/chas_prop_signs" type="unit">
+		<material_config path="units/pd2_dlc_chas/props/chas_prop_signs/chas_prop_signs"/>
+		<object path="units/pd2_dlc_chas/props/chas_prop_signs/chas_prop_signs"/>
+		<sequence_manager path="units/pd2_dlc_chas/props/chas_prop_signs/chas_prop_signs"/>
+		<unit path="units/pd2_dlc_chas/props/chas_prop_signs/chas_prop_signs"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_alarm_box_02" type="unit">
+		<material_config path="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_details"/>
+		<object path="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_alarm_box_02"/>
+		<unit path="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_alarm_box_02"/>
+	</add>
+	<add from_db="true" path="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm" type="unit">
+		<material_config path="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm"/>
+		<object path="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm"/>
+		<sequence_manager path="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm"/>
+		<unit path="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm"/>
+	</add>
 </table>
