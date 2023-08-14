@@ -1180,9 +1180,6 @@
 			<unit_data continent="world" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_119" position="-10400 -1200 0" rotation="0 0 -0 -1" unit_id="102288"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/pd2_dlc_shoutout_raid/architecture/ind_shoutoutraid_water/ind_shoutoutraid_water" name_id="ind_shoutoutraid_water_001" position="-26200 -88400 -500" rotation="0 0 0.707107 -0.707107" unit_id="102313"/>
-		</table>
-		<table>
 			<unit_data continent="world" name="units/pd2_dlc_shoutout_raid/architecture/gen_bdrop_docks/gen_bdrop_docks" name_id="gen_bdrop_docks_001" position="-50000 -6000 -575" rotation="0 0 -0.707107 -0.707107" unit_id="102314"/>
 		</table>
 		<table>
@@ -1235,12 +1232,6 @@
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/props/gen_prop_weapon_case/gen_prop_weapon_case_2x1_open" name_id="gen_prop_weapon_case_2x1_open_004" position="-2577.05 -3114.73 15.5" rotation="0 0 -0.642788 -0.766044" unit_id="102536"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="" name="units/pd2_dlc_shoutout_raid/props/gen_prop_container_group/gen_prop_container_group_a" name_id="gen_prop_container_group_a_006" position="-19715.4 3676.34 27.9004" rotation="0 -0 0 -1" unit_id="102544"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/pd2_dlc_shoutout_raid/props/gen_prop_container_group/gen_prop_container_group_a" name_id="gen_prop_container_group_a_007" position="-19715.4 2476.34 27.9007" rotation="0 -0 0 -1" unit_id="102545"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/str_bdrop_buildings_forest/str_bdrop_buildings_forest_v2" name_id="str_bdrop_buildings_forest_v2_001" position="-13600 -5630 -575" rotation="0 0 0.707107 -0.707107" unit_id="102315"/>
@@ -3434,7 +3425,7 @@
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_bdrop_smallhouse_04_16x16_il" name_id="ind_bdrop_smallhouse_04_16x16_il_002" position="-8800 11800 0" rotation="0 -0 0 -1" unit_id="105051"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_bdrop_house_02_24x16" name_id="ind_bdrop_house_02_24x16_002" position="-12900 17000 0" rotation="0 0 -0.707107 -0.707107" unit_id="105050"/>
+			<unit_data continent="world" name="units/payday2/architecture/ind/ind_bdrop_house_02_24x16" name_id="ind_bdrop_house_02_24x16_002" position="-15700 14925 0" rotation="0 0 -0.707107 -0.707107" unit_id="105050"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_backdrop_building_5" name_id="ind_ext_backdrop_building_5_001" position="-8000 11000 0" rotation="0 0 0.707107 -0.707107" unit_id="105052"/>
@@ -15158,9 +15149,6 @@
 			<unit_data continent="world" name="units/payday2/architecture/str/str_ext_deco_asphalt_patch_d" name_id="str_ext_deco_asphalt_patch_d_019" position="-3958.67 1578.51 -20.999" rotation="0 0 -0.961262 -0.275637" unit_id="100255"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/vehicles/tst_cargoship/tst_cargoship" name_id="veh_cargo_ship_shoutoutraid_002" position="-19209 3665 -350" rotation="0 -0 0 -1" unit_id="102546"/>
-		</table>
-		<table>
 			<unit_data continent="world" name="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_box_f" name_id="ind_prop_warehouse_box_f_008" position="-951.382 -3662.38 150" rotation="0 -0 0 -1" unit_id="100335"/>
 		</table>
 		<table>
@@ -23649,6 +23637,45 @@
 		</table>
 		<table>
 			<unit_data continent="world" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_011" position="55.03 -5169.89 215" rotation="-0.696364 -0.122788 -0.122788 -0.696364" unit_id="101533"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/ind/ind_bdrop_house_02_24x16" name_id="ind_bdrop_house_02_24x16_003" position="-17425 875 -19.8136" rotation="0 0 0 -1" unit_id="100538"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/ind/ind_bdrop_house_06_24x16" name_id="ind_bdrop_house_06_24x16_003" position="-17025 -725 -39.8127" rotation="0 0 0.707107 -0.707107" unit_id="100541"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_corner_16x16_il" name_id="hcm_bdrop_mid_02_corner_16x16_il_024" position="-16425 3800 600" rotation="0 0 -0.707107 -0.707107" unit_id="100544"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_corner_16x16_il" name_id="hcm_bdrop_mid_02_corner_16x16_il_025" position="-19625 3800 600" rotation="0 0 0 -1" unit_id="100549"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_corner_16x16_il" name_id="hcm_bdrop_mid_02_corner_16x16_il_026" position="-16425 7000 600" rotation="0 0 1 -8.9407e-008" unit_id="100553"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/hwy/hwy_ext_road_underpass_wall_tile_8x6m_b" name_id="hwy_ext_road_underpass_wall_tile_8x6m_b_029" position="-16725 2000 0" rotation="0 0 -0.707107 -0.707107" unit_id="100559"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/hwy/hwy_ext_road_underpass_wall_corner_1x1m_a" name_id="hwy_ext_road_underpass_wall_corner_1x1m_a_007" position="-15925 2000 0" rotation="0 0 -0.707107 -0.707107" unit_id="100861"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/hwy/hwy_ext_road_underpass_bridge_end_left_12x8m_a" name_id="hwy_ext_road_underpass_bridge_end_left_12x8m_a_005" position="-15825 2100 0" rotation="0 0 1 4.37114e-008" unit_id="102313"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/hwy/hwy_ext_road_underpass_wall_stairs_5x16m_a" name_id="hwy_ext_road_underpass_wall_stairs_5x16m_a_002" position="-18725 2000 0" rotation="0 0 -0.707107 -0.707107" unit_id="102538"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/hwy/hwy_ext_road_underpass_wall_tile_8x6m_b" name_id="hwy_ext_road_underpass_wall_tile_8x6m_b_027" position="-19525 2000 0" rotation="0 0 -0.707107 -0.707107" unit_id="102544"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/hwy/hwy_ext_road_underpass_bridge_end_right_12x8m_a" name_id="hwy_ext_road_underpass_bridge_end_right_12x8m_a_005" position="-12975 2100 0" rotation="0 0 0 -1" unit_id="102545"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/hwy/hwy_ext_road_underpass_wall_corner_1x1m_a" name_id="hwy_ext_road_underpass_wall_corner_1x1m_a_010" position="-12975 2100 0" rotation="0 0 0 -1" unit_id="102546"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/hcm/hcm_bdrop_far_10_32x64" name_id="hcm_bdrop_far_10_32x64_004" position="-18985 18150 0" rotation="0 0 0 -1" unit_id="103956"/>
 		</table>
 	</statics>
 	<values>
