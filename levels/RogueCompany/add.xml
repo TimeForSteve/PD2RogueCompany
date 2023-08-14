@@ -33,13 +33,12 @@
 		<unit path="units/pd2_mod_kitteh/props/billboard_sign_katoil/billboard_sign_katoil"/>
 	</add>
 	<add>
-		<unit path="units/graff/graff_jackals/graff_jackals"/>
-		<object path="units/graff/graff_jackals/graff_jackals"/>
-		<model path="units/graff/graff_jackals/graff_jackals"/>
 		<material_config path="units/graff/graff_jackals/graff_jackals"/>
+		<model path="units/graff/graff_jackals/graff_jackals"/>
+		<object path="units/graff/graff_jackals/graff_jackals"/>
 		<texture path="units/graff/graff_jackals/graff_jackals_df"/>
+		<unit path="units/graff/graff_jackals/graff_jackals"/>
 	</add>
-	<!-- / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / -->
 	<add from_db="true" path="units/payday2/architecture/hwy/hwy_ext_road_underpass_wall_tile_8x6m_b" type="unit">
 		<material_config path="units/payday2/architecture/hwy/hwy"/>
 		<object path="units/payday2/architecture/hwy/hwy_ext_road_underpass_wall_tile_8x6m_b"/>
@@ -2903,5 +2902,111 @@
 		<object path="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm"/>
 		<sequence_manager path="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm"/>
 		<unit path="units/pd2_mcmansion/props/mcm_prop_small_alarm/mcm_prop_small_alarm"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sah/environments/pd2_env_sah_exterior" type="environment">
+		<environment path="units/pd2_dlc_sah/environments/pd2_env_sah_exterior"/>
+		<material_config path="units/pd2_dlc_sah/environments/skies/sky_2335_night_moon/sky_2335_night_moon"/>
+		<scene load="true" path="units/pd2_dlc_sah/environments/skies/sky_2335_night_moon/sky_2335_night_moon"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sah/environments/pd2_env_sah_interior" type="environment">
+		<environment path="units/pd2_dlc_sah/environments/pd2_env_sah_interior"/>
+		<material_config path="units/pd2_dlc_sah/environments/skies/sky_2335_night_moon/sky_2335_night_moon"/>
+		<scene load="true" path="units/pd2_dlc_sah/environments/skies/sky_2335_night_moon/sky_2335_night_moon"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sah/nature/sah_clouds/sah_clouds" type="unit">
+		<material_config path="units/pd2_dlc_sah/nature/sah_clouds/sah_clouds"/>
+		<object path="units/pd2_dlc_sah/nature/sah_clouds/sah_clouds"/>
+		<unit path="units/pd2_dlc_sah/nature/sah_clouds/sah_clouds"/>
+	</add>
+	<add from_db="true" path="core/environments/skies/sky_1313_cloudy_dark/sky_1313_cloudy_dark" type="scene">
+		<material_config path="core/environments/skies/sky_1313_cloudy_dark/sky_1313_cloudy"/>
+		<scene load="true" path="core/environments/skies/sky_1313_cloudy_dark/sky_1313_cloudy_dark"/>
+	</add>
+	<add from_db="true" path="core/environments/skies/sky_1345_clear_sky/sky_1345_clear_sky" type="scene">
+		<material_config path="core/environments/skies/sky_1345_clear_sky/sky_1345_clear_sky"/>
+		<scene load="true" path="core/environments/skies/sky_1345_clear_sky/sky_1345_clear_sky"/>
+	</add>
+	<add from_db="true" path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" type="scene">
+		<material_config path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds"/>
+		<scene load="true" path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds"/>
+	</add>
+	<add from_db="true" path="core/environments/skies/sky_1930_sunset_heavy_clouds/sky_1930_sunset_heavy_clouds" type="scene">
+		<material_config path="core/environments/skies/sky_1930_sunset_heavy_clouds/sky_1930_sunset_heavy_clouds"/>
+		<scene load="true" path="core/environments/skies/sky_1930_sunset_heavy_clouds/sky_1930_sunset_heavy_clouds"/>
+	</add>
+	<add from_db="true" path="core/environments/skies/sky_2000_twilight_mad/sky_2000_twilight_mad" type="scene">
+		<material_config path="core/environments/skies/sky_2000_twilight_mad/sky_2000_twilight_mad"/>
+		<scene load="true" path="core/environments/skies/sky_2000_twilight_mad/sky_2000_twilight_mad"/>
+	</add>
+	<add from_db="true" path="core/environments/skies/sky_2003_dusk_blue/sky_2003_dusk_blue" type="scene">
+		<material_config path="core/environments/skies/sky_2003_dusk_blue/sky_2003_dusk_blue"/>
+		<scene load="true" path="core/environments/skies/sky_2003_dusk_blue/sky_2003_dusk_blue"/>
+	</add>
+	<add from_db="true" path="core/environments/skies/sky_2003_dusk_blue_high_color_scale/sky_2003_dusk_blue_high_color_scale" type="scene">
+		<material_config path="core/environments/skies/sky_2003_dusk_blue_high_color_scale/sky_2003_dusk_blue_high_color_scale"/>
+		<scene load="true" path="core/environments/skies/sky_2003_dusk_blue_high_color_scale/sky_2003_dusk_blue_high_color_scale"/>
+	</add>
+	<add from_db="true" path="core/environments/skies/sky_0902_overcast/sky_0902_overcast" type="scene">
+		<material_config path="core/environments/skies/sky_0902_overcast/sky_0902_overcast"/>
+		<scene load="true" path="core/environments/skies/sky_0902_overcast/sky_0902_overcast"/>
+	</add>
+	<add from_db="true" path="core/environments/skies/sky_0927_whispy_clouds/sky_0927_whispy_clouds" type="scene">
+		<material_config path="core/environments/skies/sky_0927_whispy_clouds/sky_0927_whispy_clouds"/>
+		<scene load="true" path="core/environments/skies/sky_0927_whispy_clouds/sky_0927_whispy_clouds"/>
+	</add>
+	<add from_db="true" path="core/environments/skies/sky_1008_cloudy/sky_1008_cloudy" type="scene">
+		<material_config path="core/environments/skies/sky_1008_cloudy/sky_1008_cloudy"/>
+		<scene load="true" path="core/environments/skies/sky_1008_cloudy/sky_1008_cloudy"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_01" type="unit">
+		<material_config path="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_01"/>
+		<object path="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_01"/>
+		<unit path="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_01"/>
+	</add>
+	<add from_db="true" path="units/vehicles/secret_stash_crane_vehicle_event/secret_stash_limo_trunk_crowbar_interaction" type="unit">
+		<material_config path="units/vehicles/secret_stash_crane_vehicle_event/secret_stash_crane_event_crane"/>
+		<object path="units/vehicles/secret_stash_crane_vehicle_event/secret_stash_limo_trunk_crowbar_interaction"/>
+		<sequence_manager path="units/vehicles/secret_stash_crane_vehicle_event/secret_stash_limo_trunk_crowbar_interaction"/>
+		<unit path="units/vehicles/secret_stash_crane_vehicle_event/secret_stash_limo_trunk_crowbar_interaction"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_small_01" type="unit">
+		<material_config path="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_small_01"/>
+		<object path="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_small_01"/>
+		<unit path="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_small_01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_single_01" type="unit">
+		<material_config path="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_01"/>
+		<object path="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_single_01"/>
+		<unit path="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_single_01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_run/props/run_prop_concrete_blocks/run_prop_concrete_blocks_small" type="unit">
+		<material_config path="units/pd2_dlc_run/props/run_prop_concrete_blocks/run_prop_concrete_blocks_large"/>
+		<object path="units/pd2_dlc_run/props/run_prop_concrete_blocks/run_prop_concrete_blocks_small"/>
+		<unit path="units/pd2_dlc_run/props/run_prop_concrete_blocks/run_prop_concrete_blocks_small"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_run/props/run_prop_concrete_blocks/run_prop_concrete_blocks_medium" type="unit">
+		<material_config path="units/pd2_dlc_run/props/run_prop_concrete_blocks/run_prop_concrete_blocks_large"/>
+		<object path="units/pd2_dlc_run/props/run_prop_concrete_blocks/run_prop_concrete_blocks_medium"/>
+		<unit path="units/pd2_dlc_run/props/run_prop_concrete_blocks/run_prop_concrete_blocks_medium"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_run/props/run_prop_street_police_road_block_01/run_prop_street_police_road_block_01" type="unit">
+		<effect load="true" path="effects/particles/dest/wall_dest_rvd"/>
+		<material_config path="units/pd2_dlc_run/props/run_prop_street_police_road_block_01/run_prop_street_police_road_block_01"/>
+		<object path="units/pd2_dlc_run/props/run_prop_street_police_road_block_01/run_prop_street_police_road_block_01"/>
+		<sequence_manager path="units/pd2_dlc_run/props/run_prop_street_police_road_block_01/run_prop_street_police_road_block_01"/>
+		<unit path="units/pd2_dlc_run/props/run_prop_street_police_road_block_01/run_prop_street_police_road_block_01"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_flat/props/flt_prop_cardealership_barrels/flt_prop_cardealership_barrel_closed" type="unit">
+		<bnk path="soundbanks/regular_car_sfx"/>
+		<material_config path="units/pd2_dlc_flat/props/flt_prop_cardealership_barrels/flt_prop_cardealership_barrels"/>
+		<object path="units/pd2_dlc_flat/props/flt_prop_cardealership_barrels/flt_prop_cardealership_barrel_closed"/>
+		<physic_effect path="physic_effects/push_sphere_unit"/>
+		<sequence_manager path="units/pd2_dlc_flat/props/flt_prop_cardealership_barrels/flt_prop_cardealership_barrel_closed"/>
+		<unit path="units/pd2_dlc_flat/props/flt_prop_cardealership_barrels/flt_prop_cardealership_barrel_closed"/>
+	</add>
+	<add from_db="true" path="units/payday2/vehicles/ind_vehicle_truck_reachstacker/ind_vehicle_truck_reachstacker_bdrop" type="unit">
+		<unit path="units/payday2/vehicles/ind_vehicle_truck_reachstacker/ind_vehicle_truck_reachstacker_bdrop"/>
+		<object path="units/payday2/vehicles/ind_vehicle_truck_reachstacker/ind_vehicle_truck_reachstacker_bdrop"/>
+		<material_config path="units/payday2/vehicles/ind_vehicle_truck_reachstacker/ind_vehicle_truck_reachstacker_bdrop"/>
 	</add>
 </table>

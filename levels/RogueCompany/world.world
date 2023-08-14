@@ -2857,6 +2857,14 @@
 		<entry key="cubemap_gizmos" type="table">
 		</entry>
 		<entry key="dome_occ_shapes" type="table">
+			<entry index="1" type="table">
+				<entry key="depth" type="number" value="10500"/>
+				<entry key="height" type="number" value="2930"/>
+				<entry key="position" type="vector3" value="6100 -9000 0.000305474"/>
+				<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+				<entry key="type" type="string" value="none"/>
+				<entry key="width" type="number" value="11000"/>
+			</entry>
 		</entry>
 		<entry key="effects" type="table">
 		</entry>
@@ -2864,8 +2872,9 @@
 		</entry>
 		<entry key="environment_values" type="table">
 			<entry key="color_grading" type="string" value="color_payday"/>
-			<entry key="environment" type="string" value="environments/pd2_kosugi/pd2_kosugi"/>
-			<entry key="sky_rot" type="number" value="53"/>
+			<entry key="dome_occ_resolution" type="number" value="512"/>
+			<entry key="environment" type="string" value=".map/environments/yrc_env_exterior"/>
+			<entry key="sky_rot" type="number" value="96.5587"/>
 		</entry>
 		<entry key="wind" type="table">
 			<entry key="angle" type="number" value="0"/>

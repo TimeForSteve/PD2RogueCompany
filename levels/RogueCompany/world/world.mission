@@ -49198,8 +49198,8 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="4100 -8175 4145.91"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="position" type="vector3" value="7725 -2825 0.000255555"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -49231,8 +49231,8 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="4200 -8175 4145.91"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="position" type="vector3" value="7725 -2725 0.000255555"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
