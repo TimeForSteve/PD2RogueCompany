@@ -1493,25 +1493,13 @@
 			<unit_data continent="world" name="units/payday2/vehicles/str_vehicle_bus_metro/str_vehicle_bus_metro_static" name_id="str_vehicle_bus_metro_static_001" position="-3182 1106 -19.999" rotation="0 0 -0.507538 -0.861629" unit_id="100537"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_002" position="-6400 1800 0" rotation="-0 0 -0 -1" unit_id="100539"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_004" position="-9600 1800 0" rotation="0 -0 0 -1" unit_id="100541"/>
+			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_002" position="-4250 1800 0" rotation="0 0 0 -1" unit_id="100539"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_006" position="-8000 1800 0" rotation="0 -0 0 -1" unit_id="100543"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_007" position="-12800 1800 0" rotation="-0 0 -0 -1" unit_id="100544"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_009" position="-11200 1800 0" rotation="0 0 -0 -1" unit_id="100546"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_012" position="-13800 2000 0" rotation="0 0 0.707107 -0.707107" unit_id="100549"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_016" position="-6100 2000 0" rotation="0 0 -0.707107 -0.707107" unit_id="100553"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_018" position="-4250 4400 0" rotation="0 0 -0.707107 -0.707107" unit_id="100555"/>
@@ -1530,9 +1518,6 @@
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_022" position="-2150 4400 0" rotation="0 0 0.707107 -0.707107" unit_id="100557"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_023" position="-4300 2000 0" rotation="0 0 -0.707107 0.707107" unit_id="100559"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/pd2_dlc_rvd/architecture/rvd_ext/rvd_ext_alley_flower_bed/rvd_veg_flower_bed" name_id="rvd_veg_flower_bed_014" position="-3574 3700 84.6583" rotation="0 0 -0.707107 -0.707107" unit_id="100591"/>
@@ -2504,31 +2489,16 @@
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_024" position="-12800 -199.999 0" rotation="0 0 1 4.37114e-008" unit_id="104117"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_025" position="-11200 -200 0" rotation="0 0 1 4.37114e-008" unit_id="104118"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_027" position="-9600 -200 0" rotation="0 0 1 4.37114e-008" unit_id="104120"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_028" position="-8000 -200 0" rotation="0 0 1 4.37114e-008" unit_id="104121"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_029" position="-6400 -200 0" rotation="0 0 1 4.37114e-008" unit_id="104122"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_030" position="2400 1000 0" rotation="0 -0 0 -1" unit_id="100538"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_032" position="800 1000 0" rotation="0 -0 0 -1" unit_id="104124"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_033" position="-800 1000 0" rotation="0 -0 0 -1" unit_id="104125"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_035" position="-2061 998 0" rotation="0 0 0 -1" unit_id="104127"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_037" position="-4000 -199.999 0" rotation="0 0 1 4.37114e-008" unit_id="104129"/>
+			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_035" position="-1986 998 0" rotation="0 0 0 -1" unit_id="104127"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_038" position="-2786 -200 0" rotation="0 0 1 4.37114e-008" unit_id="104130"/>
@@ -3684,22 +3654,10 @@
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_056" position="4000 1000 0" rotation="0 -0 0 -1" unit_id="105146"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_057" position="4000 -200 0" rotation="0 0 1 4.37114e-008" unit_id="105147"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_058" position="5600 1000 0" rotation="0 -0 0 -1" unit_id="105148"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_059" position="5600 -200 0" rotation="0 0 1 4.37114e-008" unit_id="105149"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_060" position="7200 1000 0" rotation="0 -0 0 -1" unit_id="105150"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_061" position="7200 -200 0" rotation="0 0 1 4.37114e-008" unit_id="105151"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_062" position="8000 1000 0" rotation="0 -0 0 -1" unit_id="105152"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_063" position="8000 -200 0" rotation="0 0 1 4.37114e-008" unit_id="105153"/>
@@ -3708,19 +3666,10 @@
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_064" position="10400 1000 0" rotation="0 -0 0 -1" unit_id="105154"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_065" position="10400 -200 0" rotation="0 0 1 4.37114e-008" unit_id="105155"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_066" position="8775 -200 0" rotation="0 0 1 4.37114e-008" unit_id="105156"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_067" position="13600 1000 0" rotation="0 -0 0 -1" unit_id="105157"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_068" position="13600 -200 0" rotation="0 0 1 4.37114e-008" unit_id="105158"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_031" position="-13600 -199.999 0" rotation="0 0 1 4.37114e-008" unit_id="104123"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_008" position="-13600 1800 0" rotation="0 -0 0 -1" unit_id="104126"/>
@@ -3888,9 +3837,6 @@
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_070" position="12000 -200 0" rotation="0 0 1 4.37114e-008" unit_id="105408"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_071" position="12000 1000 0" rotation="0 -0 0 -1" unit_id="105409"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="lights_on" name="units/payday2/vehicles/str_vehicle_swat_van/str_vehicle_swat_van" name_id="str_vehicle_swat_van_008" position="7500 -4267 0.000255555" rotation="0 0 -0.843391 -0.5373" unit_id="105410">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
@@ -3942,15 +3888,6 @@
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_072" position="8200 1200 0" rotation="0 0 -0.707107 -0.707107" unit_id="105604"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_073" position="8200 2800 0" rotation="0 0 -0.707107 -0.707107" unit_id="105605"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_074" position="8200 4400 0" rotation="0 0 -0.707107 -0.707107" unit_id="105606"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_078" position="10200 1200 0" rotation="0 0 0.707107 -0.707107" unit_id="105610"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_079" position="10200 2800 0" rotation="0 0 0.707107 -0.707107" unit_id="105611"/>
@@ -4034,13 +3971,7 @@
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_122" position="-9800 11000 0" rotation="0 0 0.707107 -0.707107" unit_id="105706"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_015" position="-15800 2000 0" rotation="0 0 0.707107 0.707107" unit_id="105726"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_145" position="-15800 800 0" rotation="0 0 -0.707107 -0.707107" unit_id="105731"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_146" position="-15800 -400 0" rotation="0 0 -0.707107 -0.707107" unit_id="105732"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_147" position="-13800 -399.999 0" rotation="0 0 0.707107 -0.707107" unit_id="105733"/>
@@ -4058,25 +3989,13 @@
 			<unit_data continent="world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_corner_16x16_il" name_id="hcm_bdrop_mid_02_corner_16x16_il_008" position="-8000 7000 600" rotation="0 0 -1 8.9407e-008" unit_id="105767"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_195" position="5800 -10800 0" rotation="0 0 -0.707107 -0.707107" unit_id="105786"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_196" position="6999.99 -10800 0" rotation="0 0 0.707107 -0.707107" unit_id="105787"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_199" position="-4200 -399.999 0" rotation="0 0 0.707107 -0.707107" unit_id="105790"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_200" position="-6200 -400 0" rotation="0 0 -0.707107 -0.707107" unit_id="105791"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_201" position="-6200 -2000 0" rotation="0 0 -0.707107 -0.707107" unit_id="105792"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_202" position="-4200 -2000 0" rotation="0 0 0.707107 -0.707107" unit_id="105793"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_203" position="-6200 -3600 0" rotation="0 0 -0.707107 -0.707107" unit_id="105794"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_204" position="-4200 -3600 0" rotation="0 0 0.707107 -0.707107" unit_id="105795"/>
@@ -4085,31 +4004,13 @@
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_205" position="-6200 -8400 0" rotation="0 0 -0.707107 -0.707107" unit_id="105796"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_206" position="-4200 -8400 0" rotation="0 0 0.707107 -0.707107" unit_id="105797"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_207" position="-6200 -6800 0" rotation="0 0 -0.707107 -0.707107" unit_id="105798"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_208" position="-4200 -6834 0" rotation="0 0 0.707107 -0.707107" unit_id="105799"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_209" position="-4200 -5200 0" rotation="0 0 0.707107 -0.707107" unit_id="105800"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_210" position="-6200 -5200 0" rotation="0 0 -0.707107 -0.707107" unit_id="105801"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_211" position="-6200 -9200 0" rotation="0 0 -0.707107 -0.707107" unit_id="105802"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_271" position="7200 -9400 0" rotation="0 0 2.68221e-007 -1" unit_id="105862"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_272" position="7199.99 -10600 0" rotation="0 0 1 2.68221e-007" unit_id="105863"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_273" position="8799.99 -10600 0" rotation="0 0 1 2.68221e-007" unit_id="105864"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_274" position="8800 -9400.01 0" rotation="0 0 2.68221e-007 -1" unit_id="105865"/>
@@ -4136,19 +4037,10 @@
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_305" position="843.998 -9200 0" rotation="0 0 -0.707107 -0.707107" unit_id="105896"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_315" position="-800.006 -10600 0" rotation="0 0 1 2.68221e-007" unit_id="105906"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_316" position="-800.005 -9400 0" rotation="0 0 2.68221e-007 -1" unit_id="105907"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_317" position="799.995 -9400 0" rotation="0 0 2.68221e-007 -1" unit_id="105908"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_318" position="799.994 -10600 0" rotation="0 0 1 2.68221e-007" unit_id="105909"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_319" position="2399.99 -10600 0" rotation="0 0 1 2.68221e-007" unit_id="105910"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_320" position="2400 -9400 0" rotation="0 0 2.68221e-007 -1" unit_id="105911"/>
@@ -4157,13 +4049,7 @@
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_323" position="-1800.01 -10600 0" rotation="0 0 1 2.68221e-007" unit_id="102537"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_324" position="-1800 -9400 0" rotation="0 0 2.68221e-007 -1" unit_id="102538"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_325" position="-4000.01 -10600 0" rotation="0 0 1 2.68221e-007" unit_id="105914"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_326" position="-4000 -9400 0" rotation="0 0 2.68221e-007 -1" unit_id="105915"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/world/architecture/street/decals/ground/decal_ground_middle_puddle" name_id="decal_ground_middle_puddle_001" position="4447.61 -15053.1 9.53674e-007" rotation="0 -0 0 -1" unit_id="105930"/>
@@ -12013,13 +11899,7 @@
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_212" position="-4200 -9200 0" rotation="0 0 -0.707107 0.707107" unit_id="112422"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_339" position="-6400.01 -10600 0" rotation="0 0 1 2.68221e-007" unit_id="112423"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_340" position="-6400 -9400 0" rotation="0 0 2.68221e-007 -1" unit_id="112424"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_353" position="-2400.01 -10600 0" rotation="0 0 1 2.68221e-007" unit_id="112495"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_354" position="-2400 -9400 0" rotation="0 0 2.68221e-007 -1" unit_id="112496"/>
@@ -14891,19 +14771,10 @@
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_213" position="5800 -12400 0" rotation="0 0 -0.707107 -0.707107" unit_id="115517"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_214" position="6999.99 -12400 0" rotation="0 0 0.707107 -0.707107" unit_id="115518"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_215" position="5800 -14000 0" rotation="0 0 -0.707107 -0.707107" unit_id="115519"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_216" position="6999.99 -14000 0" rotation="0 0 0.707107 -0.707107" unit_id="115520"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_217" position="5800 -15600 0" rotation="0 0 -0.707107 -0.707107" unit_id="115521"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_218" position="6999.99 -15600 0" rotation="0 0 0.707107 -0.707107" unit_id="115522"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/pd2_dlc_cro/ind_ext_containers_stage_02/ind_ext_containers_group_02b_stage_02" name_id="ind_ext_containers_group_02b_stage_02_002" position="6100 -20200 0" rotation="0 0 1 -4.37114e-008" unit_id="115525"/>
@@ -21956,9 +21827,6 @@
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_321" position="4249.99 -10600 0" rotation="0 0 1 2.68221e-007" unit_id="103955"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_322" position="4250 -9400 0" rotation="0 0 2.68221e-007 -1" unit_id="103956"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_327" position="5733 -9400 0" rotation="0 0 2.68221e-007 -1" unit_id="103957"/>
 		</table>
 		<table>
@@ -23750,37 +23618,37 @@
 			<unit_data continent="world" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_alarm_box_02" name_id="ind_ext_prop_alarm_box_02_004" position="-3598 -7538 1105.75" rotation="0.5 0.5 0.5 0.5" unit_id="104000"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1400 -2000 552.035" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_001" position="-1400 -2000 552.035" rotation="-0.707107 0 0 -0.707107" unit_id="104013"/>
+			<unit_data continent="world" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_001" position="-1400 -2000 552.035" rotation="-0.707107 0 0 -0.707107" unit_id="104013"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="605.011 -601.786 216.741" _prev_rot="-0.5 0.5 0.5 -0.5" continent="world" local_pos="0 0 -234" local_rot="0 -1 0 0" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_002" position="605.011 -601.786 191.741" rotation="-0.5 0.5 0.5 -0.5" unit_id="100933"/>
+			<unit_data continent="world" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_002" position="605.011 -601.786 191.741" rotation="-0.5 0.5 0.5 -0.5" unit_id="100933"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="839.011 -601.786 216.741" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_003" position="839.011 -601.786 191.741" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="102057"/>
+			<unit_data continent="world" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_003" position="839.011 -601.786 191.741" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="102057"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-4284.52 2739.02 259.825" _prev_rot="0.579228 0.40558 0.579228 0.40558" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_004" position="-4284.52 2739.02 259.825" rotation="0.53366 0.463904 0.53366 0.463904" unit_id="102058"/>
+			<unit_data continent="world" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_004" position="-4284.52 2739.02 259.825" rotation="0.53366 0.463904 0.53366 0.463904" unit_id="102058"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-289 -1652 121.271" _prev_rot="-0.5 0.5 0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_005" position="-289 -1652 121.271" rotation="-0.5 0.5 0.5 -0.5" unit_id="100804"/>
+			<unit_data continent="world" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_005" position="-289 -1652 121.271" rotation="-0.5 0.5 0.5 -0.5" unit_id="100804"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2599 -5620 1355.25" _prev_rot="-0.5 0.5 0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_006" position="2599 -5620 1380.25" rotation="-0.5 0.5 0.5 -0.5" unit_id="100855"/>
+			<unit_data continent="world" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_006" position="2599 -5620 1380.25" rotation="-0.5 0.5 0.5 -0.5" unit_id="100855"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2800 -7199 575.385" _prev_rot="3.09086e-008 0.707107 0.707107 -3.09086e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_007" position="-2800 -7199 550.385" rotation="3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="100905"/>
+			<unit_data continent="world" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_007" position="-2800 -7199 550.385" rotation="3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="100905"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3676 -9149 586.051" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_008" position="-3676 -9149 561.051" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="100934"/>
+			<unit_data continent="world" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_008" position="-3676 -9149 561.051" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="100934"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="3225 -2825 996.639" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_009" position="3225 -2825 971.639" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100937"/>
+			<unit_data continent="world" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_009" position="3225 -2825 971.639" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100937"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-25 -4950 240" _prev_rot="-0.122788 0.696364 0.696364 -0.122788" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_010" position="-25 -4950 215" rotation="-0.122788 0.696364 0.696364 -0.122788" unit_id="100858"/>
+			<unit_data continent="world" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_010" position="-25 -4950 215" rotation="-0.122788 0.696364 0.696364 -0.122788" unit_id="100858"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="55.03 -5169.89 240" _prev_rot="-0.696364 -0.122788 -0.122788 -0.696364" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_011" position="55.03 -5169.89 215" rotation="-0.696364 -0.122788 -0.122788 -0.696364" unit_id="101533"/>
+			<unit_data continent="world" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_011" position="55.03 -5169.89 215" rotation="-0.696364 -0.122788 -0.122788 -0.696364" unit_id="101533"/>
 		</table>
 	</statics>
 	<values>

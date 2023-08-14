@@ -6853,39 +6853,6 @@
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_4x3m" name_id="dev_nav_blocker_4x3m_201" position="4050 -9050 0.000305474" rotation="0 0 0.707107 -0.707107" unit_id="202250"/>
 		</table>
-		<table>
-			<unit_data _prev_pos="-1400 -1999 575.996" _prev_rot="-0.707107 0 0 -0.707107" continent="editor_only" local_pos="-1397.21 359.255 -2239.01" local_rot="0 -0.707107 0 0.707107" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_008" position="-1400 -1999 575.996" rotation="-0.707107 0 0 -0.707107" unit_id="202251"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="605.011 -601.786 216.741" _prev_rot="-0.5 0.5 0.5 -0.5" continent="editor_only" local_pos="0 0 -234" local_rot="0 -1 0 0" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_004" position="605.011 -601.786 216.741" rotation="-0.5 0.5 0.5 -0.5" unit_id="202252"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="839.011 -601.786 216.741" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_003" position="839.011 -601.786 216.741" rotation="0.5 0.5 0.5 0.5" unit_id="202253"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-4284.52 2730.47 283.317" _prev_rot="0.579228 0.40558 0.579228 0.40558" continent="editor_only" local_pos="3332.26 66.576 -5123.53" local_rot="-5.96046e-008 5.96046e-008 -0.173648 -0.984808" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_005" position="-4284.52 2730.47 283.317" rotation="0.579228 0.40558 0.579228 0.40558" unit_id="202254"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-289 -1652 146.271" _prev_rot="-0.5 0.5 0.5 -0.5" continent="editor_only" local_pos="-1050.21 -70.47 -1128.01" local_rot="0 -1 0 0" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_006" position="-289 -1652 146.271" rotation="-0.5 0.5 0.5 -0.5" unit_id="202255"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2599 -5620 1405.25" _prev_rot="-0.5 0.5 0.5 -0.5" continent="editor_only" local_pos="-5018.21 1188.51 1759.99" local_rot="0 -1 0 0" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_007" position="2599 -5620 1405.25" rotation="-0.5 0.5 0.5 -0.5" unit_id="202256"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2800 -7199 575.385" _prev_rot="3.09086e-008 0.707107 0.707107 3.09086e-008" continent="editor_only" local_pos="-6597.21 358.644 -3639.01" local_rot="0 -0.707107 1.4348e-008 -0.707107" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_009" position="-2800 -7199 575.385" rotation="3.09086e-008 0.707107 0.707107 3.09086e-008" unit_id="202257"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-3676 -9149 586.051" _prev_rot="3.09086e-008 0.707107 0.707107 3.09086e-008" continent="editor_only" local_pos="-8547.21 369.31 -4515.01" local_rot="0 -0.707107 1.4348e-008 -0.707107" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_010" position="-3676 -9149 586.051" rotation="3.09086e-008 0.707107 0.707107 3.09086e-008" unit_id="202258"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3225 -2825 996.639" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="editor_only" local_pos="-2223.21 779.898 2385.99" local_rot="0 0 0 1" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_012" position="3225 -2825 996.639" rotation="0.5 0.5 0.5 0.5" unit_id="202259"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-25 -4950 240" _prev_rot="-0.122788 0.696364 0.696364 -0.122788" continent="editor_only" local_pos="-4348.21 23.259 -864.011" local_rot="0 -0.819152 1.11759e-008 -0.573577" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_013" position="-25 -4950 240" rotation="-0.122788 0.696364 0.696364 -0.122788" unit_id="202260"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="55.03 -5169.89 240" _prev_rot="-0.696364 -0.122788 -0.122788 -0.696364" continent="editor_only" local_pos="-4568.1 23.259 -783.981" local_rot="3.35276e-008 -0.573576 0 0.819152" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_014" position="55.03 -5169.89 240" rotation="-0.696364 -0.122788 -0.122788 -0.696364" unit_id="202261"/>
-		</table>
 	</statics>
 	<values>
 		<workviews/>
