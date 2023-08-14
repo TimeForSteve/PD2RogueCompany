@@ -32,6 +32,14 @@
 		<texture path="units/pd2_mod_kitteh/props/billboard_sign_katoil/billboard_sign_katoil_df"/>
 		<unit path="units/pd2_mod_kitteh/props/billboard_sign_katoil/billboard_sign_katoil"/>
 	</add>
+	<add>
+		<unit path="units/graff/graff_jackals/graff_jackals"/>
+		<object path="units/graff/graff_jackals/graff_jackals"/>
+		<model path="units/graff/graff_jackals/graff_jackals"/>
+		<material_config path="units/graff/graff_jackals/graff_jackals"/>
+		<texture path="units/graff/graff_jackals/graff_jackals_df"/>
+	</add>
+	<!-- / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / -->
 	<add from_db="true" path="units/payday2/architecture/hwy/hwy_ext_road_underpass_wall_tile_8x6m_b" type="unit">
 		<material_config path="units/payday2/architecture/hwy/hwy"/>
 		<object path="units/payday2/architecture/hwy/hwy_ext_road_underpass_wall_tile_8x6m_b"/>

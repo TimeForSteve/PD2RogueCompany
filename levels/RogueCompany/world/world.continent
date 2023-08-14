@@ -1141,12 +1141,6 @@
 			<unit_data continent="world" mesh_variation="close_door" name="units/payday2/vehicles/str_vehicle_truck_boxvan/str_vehicle_truck_boxvan" name_id="str_vehicle_truck_boxvan_003" position="-1974.13 -9083.46 -0" rotation="0 0 1 -4.37114e-008" unit_id="101365"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_003" position="839.011 -601.786 216.741" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="102057"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_004" position="605.011 -601.786 216.741" rotation="-0.5 0.5 0.5 -0.5" unit_id="102058"/>
-		</table>
-		<table>
 			<unit_data continent="world" name="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_pallet_stack_g" name_id="ind_prop_warehouse_pallet_stack_g_005" position="-1977.82 -9206.67 113.234" rotation="0 0 0 -1" unit_id="102053"/>
 		</table>
 		<table>
@@ -1587,9 +1581,6 @@
 		</table>
 		<table>
 			<unit_data continent="world" name="units/graff/kitteh" name_id="kitteh_003" position="-4284.52 3532.34 286.119" rotation="0.704416 0.0616284 0.704416 0.0616284" unit_id="100803"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_005" position="-4284.52 2730.47 283.317" rotation="0.579228 0.40558 0.579228 0.40558" unit_id="100804"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/props/str_prop_decal_graffiti_clans/str_prop_decal_graffiti_clans_ww" name_id="str_prop_decal_graffiti_clans_ww_003" position="-4284.52 2471.29 328.914" rotation="0.704416 -0.0616284 0.704416 -0.0616284" unit_id="100805"/>
@@ -16727,9 +16718,6 @@
 			<unit_data continent="world" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_cloth" name_id="air_prop_runway_fence_cloth_v2_015" position="2 -1595 0" rotation="0 0 -0.707107 -0.707107" unit_id="101214"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_006" position="-289 -1652 146.271" rotation="0.5 -0.5 -0.5 0.5" unit_id="100855"/>
-		</table>
-		<table>
 			<unit_data continent="world" name="units/world/props/street/cementbags_cover/cementbags_cover_small" name_id="cementbags_cover_small_008" position="-215 -1805 92.7743" rotation="0 0 -0.707107 -0.707107" unit_id="100859"/>
 		</table>
 		<table>
@@ -16869,9 +16857,6 @@
 			<unit_data continent="world" name="units/payday2/props/str_prop_construction_scafold_low_with_plywood/str_prop_construction_scafold_low_with_plywood" name_id="str_prop_construction_scafold_low_with_plywood_005" position="812 -7237 -0.85" rotation="0 0 1.49012e-007 -1" unit_id="100904"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_007" position="2599 -5620 1405.25" rotation="-0.5 0.5 0.5 -0.5" unit_id="100905"/>
-		</table>
-		<table>
 			<unit_data continent="world" name="units/payday2/props/ind_prop_rooftop_ladder_a/ind_prop_rooftop_ladder_b_top" name_id="ind_prop_rooftop_ladder_b_top_003" position="982 -6867 100.15" rotation="0 0 0.707107 -0.707107" unit_id="100906"/>
 		</table>
 		<table>
@@ -16897,15 +16882,6 @@
 		</table>
 		<table>
 			<unit_data continent="world" name="units/world/props/mansion/man_cover_int_shipping_crate_wide/man_cover_int_shipping_crate_wide" name_id="man_cover_int_shipping_crate_wide_012" position="1103 -6920 400.893" rotation="0 0 0.139173 -0.990268" unit_id="100932"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_008" position="-1400 -1999 575.996" rotation="-0.707107 0 0 -0.707107" unit_id="100933"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_009" position="-2800 -7199 575.385" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="100934"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_012" position="3225 -2825 996.639" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100937"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/world/props/concrete_blocks_cover/concrete_blocks_large" name_id="concrete_blocks_large_027" position="6650 -4692 0.000255555" rotation="0 -0 0 -1" unit_id="100938"/>
@@ -16950,12 +16926,6 @@
 			<unit_data continent="world" mesh_variation="state_ladder_enable" name="units/dev_tools/dev_ladder/dev_ladder" name_id="dev_ladder_003" position="983 -6841 -19.85" rotation="0 0 1 -4.37114e-008" unit_id="100857">
 				<ladder height="450" width="70"/>
 			</unit_data>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_013" position="-25 -4950 240" rotation="-0.122788 0.696364 0.696364 -0.122788" unit_id="100858"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_014" position="55.03 -5169.89 240" rotation="-0.696364 -0.122788 -0.122788 -0.696364" unit_id="100861"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/str/str_ext_sidewalk_16x16m_a" name_id="str_ext_sidewalk_16x16m_a_053" position="7200 -2000 0" rotation="0 0 0.707107 -0.707107" unit_id="100957"/>
@@ -17695,9 +17665,6 @@
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="" name="units/payday2/props/off_prop_officehigh_lights/off_prop_officehigh_ceilinglight_01" name_id="off_prop_officehigh_ceilinglight_01_028" position="-2700 -8600 767" rotation="0 0 -0.707107 -0.707107" unit_id="101532"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/pd2_dlc1/props/str_prop_alley_graffiti/str_prop_decal_graffitti_cyanidepiece" name_id="str_prop_decal_graffitti_cyanidepiece_010" position="-3676 -9149 586.051" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="101533"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/world/props/mansion/man_cover_int_shipping_crate_wide/man_cover_int_shipping_crate_wide" name_id="man_cover_int_shipping_crate_wide_035" position="-2499.95 -7325 405.797" rotation="0.0185099 -0.0185099 0.706864 -0.706864" unit_id="101534"/>
@@ -23781,6 +23748,39 @@
 		</table>
 		<table>
 			<unit_data continent="world" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_alarm_box_02" name_id="ind_ext_prop_alarm_box_02_004" position="-3598 -7538 1105.75" rotation="0.5 0.5 0.5 0.5" unit_id="104000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1400 -2000 552.035" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_001" position="-1400 -2000 552.035" rotation="-0.707107 0 0 -0.707107" unit_id="104013"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="605.011 -601.786 216.741" _prev_rot="-0.5 0.5 0.5 -0.5" continent="world" local_pos="0 0 -234" local_rot="0 -1 0 0" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_002" position="605.011 -601.786 191.741" rotation="-0.5 0.5 0.5 -0.5" unit_id="100933"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="839.011 -601.786 216.741" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_003" position="839.011 -601.786 191.741" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="102057"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-4284.52 2739.02 259.825" _prev_rot="0.579228 0.40558 0.579228 0.40558" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_004" position="-4284.52 2739.02 259.825" rotation="0.53366 0.463904 0.53366 0.463904" unit_id="102058"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-289 -1652 121.271" _prev_rot="-0.5 0.5 0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_005" position="-289 -1652 121.271" rotation="-0.5 0.5 0.5 -0.5" unit_id="100804"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2599 -5620 1355.25" _prev_rot="-0.5 0.5 0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_006" position="2599 -5620 1380.25" rotation="-0.5 0.5 0.5 -0.5" unit_id="100855"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2800 -7199 575.385" _prev_rot="3.09086e-008 0.707107 0.707107 -3.09086e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_007" position="-2800 -7199 550.385" rotation="3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="100905"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3676 -9149 586.051" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_008" position="-3676 -9149 561.051" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="100934"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3225 -2825 996.639" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_009" position="3225 -2825 971.639" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100937"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-25 -4950 240" _prev_rot="-0.122788 0.696364 0.696364 -0.122788" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_010" position="-25 -4950 215" rotation="-0.122788 0.696364 0.696364 -0.122788" unit_id="100858"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="55.03 -5169.89 240" _prev_rot="-0.696364 -0.122788 -0.122788 -0.696364" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/graff/graff_jackals/graff_jackals" name_id="graff_jackals_011" position="55.03 -5169.89 215" rotation="-0.696364 -0.122788 -0.122788 -0.696364" unit_id="101533"/>
 		</table>
 	</statics>
 	<values>
