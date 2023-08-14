@@ -37,7 +37,7 @@
 		<hook file="musicmanager.lua" source_file="lib/managers/musicmanager"/>
 	</Hooks>
 	<Localization default="english.txt" directory="loc">
-		<loc file="english.txt" language="english"/>
+		<loc file="english.yaml" language="english"/>
 	</Localization>
 	<Sounds directory="assets/vo">
 		<sound id="RC_BriefingDialogue" path="RC_BriefingDialogue.ogg" subtitle_id="RC_BriefingDialogue"/>
