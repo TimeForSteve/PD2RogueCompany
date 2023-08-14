@@ -3645,9 +3645,6 @@
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_060" position="7200 1000 0" rotation="0 -0 0 -1" unit_id="105150"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_063" position="8000 -200 0" rotation="0 0 1 4.37114e-008" unit_id="105153"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_064" position="10400 1000 0" rotation="0 -0 0 -1" unit_id="105154"/>
 		</table>
 		<table>
@@ -3935,18 +3932,6 @@
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_090" position="-800 10800 0" rotation="0 0 8.74228e-008 -1" unit_id="105674"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_116" position="15000 2800 0" rotation="0 0 0.707107 -0.707107" unit_id="105700"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_117" position="15000 1200 0" rotation="0 0 0.707107 -0.707107" unit_id="105701"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_118" position="13800 1200 0" rotation="0 0 -0.707107 -0.707107" unit_id="105702"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_119" position="13800 -400 0" rotation="0 0 -0.707107 -0.707107" unit_id="105703"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_120" position="15000 -399.999 0" rotation="0 0 0.707107 -0.707107" unit_id="105704"/>
 		</table>
 		<table>
@@ -4007,19 +3992,7 @@
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_277" position="12000 -10600 0" rotation="0 0 1 2.68221e-007" unit_id="105868"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_292" position="10050 -6200 -2.0001" rotation="0 0 0.707107 -0.707107" unit_id="105883"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_299" position="843.999 -5200 0" rotation="0 0 -0.707107 -0.707107" unit_id="105890"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_300" position="844 -7294 0" rotation="0 0 -0.707107 -0.707107" unit_id="105891"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_301" position="843.998 -8550 0" rotation="0 0 -0.707107 -0.707107" unit_id="105892"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_305" position="843.998 -9200 0" rotation="0 0 -0.707107 -0.707107" unit_id="105896"/>
+			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_292" position="8921.88 -6144.95 -2.00012" rotation="0 0 -0.707107 -0.707107" unit_id="105883"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_316" position="-800.005 -9400 0" rotation="0 0 2.68221e-007 -1" unit_id="105907"/>
@@ -4934,18 +4907,6 @@
 			<unit_data continent="world" mesh_variation="" name="units/pd2_dlc_dark/equipment/drk_interactable_weapon_case_1x1/drk_interactable_weapon_case_1x1" name_id="weapon_25" position="-3074 -9097 71.1498" rotation="0 0 -0.788011 -0.615661" unit_id="107141"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_b_v2" name_id="air_prop_runway_fence_b_v2_003" position="15200 3900 0" rotation="0 0 -0.707107 -0.707107" unit_id="103767"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_b_v2" name_id="air_prop_runway_fence_b_v2_004" position="15575.9 3763.19 0" rotation="0 0 0.984808 0.173648" unit_id="103768"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_b_v2" name_id="air_prop_runway_fence_b_v2_005" position="15200 3100 0" rotation="0 0 0.939693 0.34202" unit_id="103769"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_b_v2" name_id="air_prop_runway_fence_b_v2_006" position="15200 2700 0" rotation="0 0 -0.707107 -0.707107" unit_id="103770"/>
-		</table>
-		<table>
 			<unit_data continent="world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_corner_16x16_il" name_id="hcm_bdrop_mid_02_corner_16x16_il_009" position="15200 -400 0" rotation="0 0 -0 -1" unit_id="103774"/>
 		</table>
 		<table>
@@ -5516,9 +5477,9 @@
 		<table>
 			<unit_data continent="world" mesh_variation="orig" name="units/payday2/vehicles/str_vehicle_car_ford/str_vehicle_car_ford" name_id="str_vehicle_car_ford_018" position="1419 -4039 0" rotation="0 0 -0.566406 -0.824126" unit_id="108496">
 				<lights>
-					<table clipping_values="10000 -10000 0" color="1 0.937255 0.694118" enabled="false" falloff_exponent="1" far_range="2000" multiplier="monitor" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
-					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="monitor" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
-					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="monitor" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+					<table clipping_values="10000 -10000 0" color="1 0.937255 0.694118" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
 				</lights>
 				<projection_textures ls_left="units/lights/spot_light_projection_textures/default_df"/>
 			</unit_data>
@@ -21794,9 +21755,6 @@
 			<unit_data continent="world" name="units/payday2/architecture/cdr/cdr_int_concrete_pillar_1m_a" name_id="cdr_int_concrete_pillar_1m_a_034" position="10278 -1391 803.007" rotation="0 0.707107 0 -0.707107" unit_id="103951"/>
 		</table>
 		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_293" position="10050 -3825 -2.0001" rotation="0 0 0.707107 -0.707107" unit_id="103952"/>
-		</table>
-		<table>
 			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_294" position="10050 -4950 -2.0001" rotation="0 0 0.707107 -0.707107" unit_id="103953"/>
 		</table>
 		<table>
@@ -21845,24 +21803,6 @@
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="var_set_color_green" name="units/payday2/props/gen_prop_container/gen_prop_container" name_id="gen_prop_container_020" position="3397 -4876 0" rotation="0 0 1 -4.37114e-008" unit_id="103964"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_296" position="6341 -6542 0.000255555" rotation="0 0 0.707107 -0.707107" unit_id="103965"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_297" position="4248 -5931 0.000255555" rotation="0 0 0.707107 0.707107" unit_id="103966"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_298" position="3643 -3550 0.000255555" rotation="0 0 -0.707107 -0.707107" unit_id="103967"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_302" position="5448 -4035 0.000255555" rotation="0 0 1.49012e-007 -1" unit_id="103968"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_303" position="5953 -8045 0.000255555" rotation="0 0 0.707107 -0.707107" unit_id="103969"/>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="omni_on" name="units/payday2/props/ind_prop_street_lamppost/ind_prop_street_lamppost" name_id="ind_prop_street_lamppost_304" position="2527 -3631 0.000255555" rotation="0 0 1.49012e-007 -1" unit_id="103970"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/props/str_prop_street_concrete_barrier/str_prop_street_concrete_barrier_1m_a" name_id="str_prop_street_concrete_barrier_a_022" position="5150 -5825 0.000255555" rotation="0 -0 0 -1" unit_id="103971"/>
@@ -23676,6 +23616,793 @@
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_cloth_v2" name_id="air_prop_runway_fence_cloth_v2_019" position="1 -3205 0" rotation="0.0061706 0.0061706 -0.70708 -0.70708" unit_id="101620"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_006" position="-433.994 694.179 238.869" projection_light="ls_spot" rotation="0.763417 0.26805 0.556432 -0.189015" unit_id="102648">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_007" position="-529.949 817.168 237.355" projection_light="ls_spot" rotation="0.763417 0.26805 0.556432 -0.189015" unit_id="104053">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_008" position="-2795.69 398.591 221.072" projection_light="ls_spot" rotation="0.797188 0.138374 0.579998 -0.0945845" unit_id="104066">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_009" position="-2846.38 546.12 219.558" projection_light="ls_spot" rotation="0.797188 0.138374 0.579998 -0.0945845" unit_id="104067">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_010" position="-3878.7 1683.23 240.871" projection_light="ls_spot" rotation="0.758623 0.281333 0.553049 -0.198697" unit_id="104068">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_011" position="-3978.88 1802.79 239.357" projection_light="ls_spot" rotation="0.758623 0.281333 0.553049 -0.198697" unit_id="104069">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_012" position="-3864.44 9032.06 222.439" projection_light="ls_spot" rotation="0.808945 -0.0162792 0.587389 0.0178221" unit_id="104071">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_013" position="-3856.17 9187.84 220.925" projection_light="ls_spot" rotation="0.808945 -0.0162792 0.587389 0.0178221" unit_id="104072">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_014" position="-3037.05 9384.91 225.035" projection_light="ls_spot" rotation="0.285377 0.757111 0.212874 -0.547748" unit_id="104087">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_015" position="-3141.51 9269.06 223.521" projection_light="ls_spot" rotation="0.285377 0.757111 0.212874 -0.547748" unit_id="104088">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_016" position="3010.88 946.857 233.753" projection_light="ls_spot" rotation="0.100748 0.802811 0.0791233 -0.582309" unit_id="104094">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_017" position="2970.4 796.206 232.239" projection_light="ls_spot" rotation="0.100748 0.802812 0.0791233 -0.582308" unit_id="104095">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_018" position="2506.88 465.857 233.753" projection_light="ls_spot" rotation="0.343899 0.732386 0.255194 -0.529358" unit_id="104118">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_019" position="2385.58 367.77 232.239" projection_light="ls_spot" rotation="0.343899 0.732386 0.255194 -0.529358" unit_id="104119">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_020" position="2559.88 -4686.14 243.753" projection_light="ls_spot" rotation="-0.214144 0.780256 -0.149739 -0.568262" unit_id="104121">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_021" position="2637.78 -4821.29 242.239" projection_light="ls_spot" rotation="-0.214144 0.780256 -0.149739 -0.568262" unit_id="104123">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_022" position="1942.88 -4282.14 243.753" projection_light="ls_spot" rotation="-0.390374 0.708706 -0.27826 -0.517605" unit_id="104125">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_023" position="2073.65 -4367.19 242.239" projection_light="ls_spot" rotation="-0.390374 0.708706 -0.27826 -0.517605" unit_id="104128">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_024" position="7377.88 -4229.14 243.753" projection_light="ls_spot" rotation="-0.173015 0.790394 -0.119794 -0.57532" unit_id="104129">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_025" position="7441.23 -4371.69 242.239" projection_light="ls_spot" rotation="-0.173015 0.790394 -0.119794 -0.57532" unit_id="104132">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_026" position="5606.88 -9102.14 243.753" projection_light="ls_spot" rotation="0.128704 0.798806 0.0993975 -0.579192" unit_id="104138">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_027" position="5555.99 -9249.6 242.239" projection_light="ls_spot" rotation="0.128704 0.798806 0.0993976 -0.579193" unit_id="104140">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_028" position="1201.88 -8929.14 243.753" projection_light="ls_spot" rotation="0.698245 0.408792 0.510144 -0.291714" unit_id="104141">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_029" position="1066.84 -8851.05 242.239" projection_light="ls_spot" rotation="0.698244 0.408792 0.510144 -0.291714" unit_id="104148">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_030" position="-4524.12 -6302.14 224.753" projection_light="ls_spot" rotation="0.698245 0.408792 0.510144 -0.291714" unit_id="104149">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_031" position="-4659.16 -6224.05 223.239" projection_light="ls_spot" rotation="0.698244 0.408792 0.510144 -0.291714" unit_id="104150">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_032" position="-4844.12 -5658.14 224.753" projection_light="ls_spot" rotation="0.74669 -0.311626 0.539985 0.231861" unit_id="104153">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_033" position="-4731.84 -5549.86 223.239" projection_light="ls_spot" rotation="0.74669 -0.311625 0.539986 0.231861" unit_id="104154">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_034" position="-4469.12 -3109.14 224.753" projection_light="ls_spot" rotation="0.728166 0.352748 0.531459 -0.25079" unit_id="104155">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_035" position="-4590.29 -3010.89 223.239" projection_light="ls_spot" rotation="0.728165 0.352748 0.531459 -0.25079" unit_id="104156">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.419608 0.611765 0.819608" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="ls_spot" near_range="0" spot_angle_end="94" spot_angle_start="45.0819"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_07_round_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_015" position="795 741 902.083" rotation="1 0 0 4.37114e-008" unit_id="104157">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_007" position="791.438 752.524 932.073" rotation="0 0 0 -1" unit_id="104158"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_016" position="-1980 741 902.083" rotation="1 0 0 4.37114e-008" unit_id="104166">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_008" position="-1983.56 752.524 932.073" rotation="0 0 0 -1" unit_id="104167"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_017" position="4002 741 902.083" rotation="1 0 0 4.37114e-008" unit_id="104168">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_009" position="3998.44 752.524 932.073" rotation="0 0 0 -1" unit_id="104170"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_018" position="7202 741 902.083" rotation="1 0 0 4.37114e-008" unit_id="104173">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_019" position="10402 741 902.083" rotation="1 0 0 4.37114e-008" unit_id="104175">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_020" position="13602 741 902.083" rotation="1 0 0 4.37114e-008" unit_id="104177">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_013" position="14748.4 -397.476 932.073" rotation="0 0 0 -1" unit_id="103767"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_021" position="14752 -409 902.083" rotation="1 0 0 4.37114e-008" unit_id="103768">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_022" position="12002 41 902.083" rotation="1 0 0 4.37114e-008" unit_id="103770">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_023" position="8777 41 902.083" rotation="1 0 0 4.37114e-008" unit_id="104181">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_024" position="5602 41 902.083" rotation="1 0 0 4.37114e-008" unit_id="104183">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_025" position="8452 1191 902.083" rotation="1 0 0 4.37114e-008" unit_id="104195">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_026" position="9952 2791 902.083" rotation="1 0 0 4.37114e-008" unit_id="104197">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_019" position="2398.44 52.5239 932.073" rotation="0 0 0 -1" unit_id="104198"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_027" position="2402 41 902.083" rotation="1 0 0 4.37114e-008" unit_id="104199">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_020" position="-801.563 52.5239 932.073" rotation="0 0 0 -1" unit_id="104200"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_028" position="-798 41 902.083" rotation="1 0 0 4.37114e-008" unit_id="104201">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_021" position="-2776.56 52.5239 932.073" rotation="0 0 0 -1" unit_id="104202"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_029" position="-2773 41 902.083" rotation="1 0 0 4.37114e-008" unit_id="104203">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_030" position="-4448 -409 902.083" rotation="1 0 0 4.37114e-008" unit_id="104205">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_023" position="-4276.56 1552.52 932.073" rotation="0 0 0 -1" unit_id="104206"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_031" position="-4273 1541 902.083" rotation="1 0 0 4.37114e-008" unit_id="104207">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_032" position="-7998 1541 902.083" rotation="1 0 0 4.37114e-008" unit_id="104209">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_033" position="-11198 1541 902.083" rotation="1 0 0 4.37114e-008" unit_id="104211">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_034" position="-13573 1541 902.083" rotation="1 0 0 4.37114e-008" unit_id="104213">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_035" position="-15548 791 902.083" rotation="1 0 0 4.37114e-008" unit_id="104215">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_036" position="-14048 -409 902.083" rotation="1 0 0 4.37114e-008" unit_id="104217">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_037" position="-12798 41 902.083" rotation="1 0 0 4.37114e-008" unit_id="104225">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_038" position="-9598 41 902.083" rotation="1 0 0 4.37114e-008" unit_id="104227">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_039" position="-6398 41 902.083" rotation="1 0 0 4.37114e-008" unit_id="104238">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_032" position="-4451.56 -3597.48 932.073" rotation="0 0 0 -1" unit_id="104239"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_040" position="-4448 -3609 902.083" rotation="1 0 0 4.37114e-008" unit_id="104240">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_033" position="-4451.56 -6822.48 932.073" rotation="0 0 0 -1" unit_id="104241"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_041" position="-4448 -6834 902.083" rotation="1 0 0 4.37114e-008" unit_id="104252">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_034" position="-4451.56 -9197.48 932.073" rotation="0 0 0 -1" unit_id="104257"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_042" position="-4448 -9209 902.083" rotation="1 0 0 4.37114e-008" unit_id="104258">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_035" position="-5951.56 -8397.48 932.073" rotation="0 0 0 -1" unit_id="104259"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_043" position="-5948 -8409 902.083" rotation="1 0 0 4.37114e-008" unit_id="104260">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_036" position="-5951.56 -5197.48 932.073" rotation="0 0 0 -1" unit_id="104261"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_044" position="-5948 -5209 902.083" rotation="1 0 0 4.37114e-008" unit_id="104262">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_037" position="-5951.56 -1997.48 932.073" rotation="0 0 0 -1" unit_id="104263"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_045" position="-5948 -2009 902.083" rotation="1 0 0 4.37114e-008" unit_id="104264">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_038" position="-6401.56 -9647.48 932.073" rotation="0 0 0 -1" unit_id="104265"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_046" position="-6398 -9659 902.083" rotation="1 0 0 4.37114e-008" unit_id="104266">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_039" position="-2401.56 -9647.48 932.073" rotation="0 0 0 -1" unit_id="104267"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_047" position="-2398 -9659 902.083" rotation="1 0 0 4.37114e-008" unit_id="104268">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_040" position="-801.563 -9647.48 932.073" rotation="0 0 0 -1" unit_id="104269"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_048" position="-798 -9659 902.083" rotation="1 0 0 4.37114e-008" unit_id="104270">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_041" position="2398.44 -9647.48 932.073" rotation="0 0 0 -1" unit_id="104271"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_049" position="2402 -9659 902.083" rotation="1 0 0 4.37114e-008" unit_id="104272">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_042" position="5748.44 -9647.48 932.073" rotation="0 0 0 -1" unit_id="104279"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_050" position="5752 -9659 902.083" rotation="1 0 0 4.37114e-008" unit_id="104281">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_043" position="8798.44 -9647.48 932.073" rotation="0 0 0 -1" unit_id="104286"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_051" position="8802 -9659 902.083" rotation="1 0 0 4.37114e-008" unit_id="104299">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_044" position="10398.4 -10322.5 932.073" rotation="0 0 0 -1" unit_id="104300"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_052" position="10402 -10334 902.083" rotation="1 0 0 4.37114e-008" unit_id="104301">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_045" position="7198.44 -10322.5 932.073" rotation="0 0 0 -1" unit_id="104302"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_053" position="7202 -10334 902.083" rotation="1 0 0 4.37114e-008" unit_id="104313">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_046" position="6748.44 -10772.5 932.073" rotation="0 0 0 -1" unit_id="104318"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_054" position="6752 -10784 902.083" rotation="1 0 0 4.37114e-008" unit_id="104322">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_047" position="4248.44 -10347.5 932.073" rotation="0 0 0 -1" unit_id="104326"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_055" position="4252 -10359 902.083" rotation="1 0 0 4.37114e-008" unit_id="104327">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_048" position="798.438 -10347.5 932.073" rotation="0 0 0 -1" unit_id="104328"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_056" position="802 -10359 902.083" rotation="1 0 0 4.37114e-008" unit_id="104329">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_049" position="-1801.56 -10347.5 932.073" rotation="0 0 0 -1" unit_id="104330"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_057" position="-1798 -10359 902.083" rotation="1 0 0 4.37114e-008" unit_id="104331">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_050" position="-4001.56 -10347.5 932.073" rotation="0 0 0 -1" unit_id="104332"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_058" position="-3998 -10359 902.083" rotation="1 0 0 4.37114e-008" unit_id="104333">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_051" position="9198.44 -6172.48 932.073" rotation="0 0 1 -4.37114e-008" unit_id="104334"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_059" position="9194.88 -6160.95 902.083" rotation="-4.37114e-008 1 4.37114e-008 -1.91069e-015" unit_id="104335">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_052" position="9773.44 -4947.48 932.073" rotation="0 0 0 -1" unit_id="104336"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_060" position="9777 -4959 902.083" rotation="1 0 0 4.37114e-008" unit_id="104337">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/world/street/street_lights/street_lights_night_cone" name_id="street_lights_night_cone_053" position="9773.44 -2697.48 932.073" rotation="0 0 0 -1" unit_id="104338"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_061" position="9777 -2709 902.083" rotation="1 0 0 4.37114e-008" unit_id="104343">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.980392 0.894118 0.737255" enabled="true" falloff_exponent="4" far_range="1200" multiplier="@ID748ce7d9371994d6@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="43"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_062" position="-708 -6544 341.199" rotation="1 -5.96046e-007 2.78304e-014 -4.37114e-008" unit_id="103769">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.996078 0.443137 0.203922" enabled="true" falloff_exponent="1" far_range="1500" multiplier="@IDd07c4dc12188729d@" name="ls_spot" near_range="80" spot_angle_end="122" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_063" position="-504 -5853 699.548" rotation="1 -0 0 4.37114e-008" unit_id="103952">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.992157 0.439216 0.203922" enabled="true" falloff_exponent="1" far_range="450" multiplier="@IDd07c4dc12188729d@" name="ls_spot" near_range="80" spot_angle_end="122" spot_angle_start="1"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_064" position="-2090 -5641 718.229" rotation="1 0 0 -4.37114e-008" unit_id="104174">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.992157 0.439216 0.203922" enabled="true" falloff_exponent="1" far_range="450" multiplier="@IDd07c4dc12188729d@" name="ls_spot" near_range="80" spot_angle_end="122" spot_angle_start="1"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_065" position="-1896 -5643 315.126" rotation="1 -5.96046e-007 2.78304e-014 -4.37114e-008" unit_id="104176">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.996078 0.443137 0.203922" enabled="true" falloff_exponent="1" far_range="1500" multiplier="@IDd07c4dc12188729d@" name="ls_spot" near_range="80" spot_angle_end="122" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_066" position="-2353 -8897 723.268" rotation="1 -0 0 4.37114e-008" unit_id="104178">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.992157 0.439216 0.203922" enabled="true" falloff_exponent="1" far_range="450" multiplier="@IDd07c4dc12188729d@" name="ls_spot" near_range="80" spot_angle_end="122" spot_angle_start="1"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_067" position="-1869 -8901 723.268" rotation="1 -0 0 4.37114e-008" unit_id="104180">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.992157 0.439216 0.203922" enabled="true" falloff_exponent="1" far_range="450" multiplier="@IDd07c4dc12188729d@" name="ls_spot" near_range="80" spot_angle_end="122" spot_angle_start="1"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_068" position="-2353 -7901 723.268" rotation="1 0 0 4.37114e-008" unit_id="104182">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.992157 0.439216 0.203922" enabled="true" falloff_exponent="1" far_range="450" multiplier="@IDd07c4dc12188729d@" name="ls_spot" near_range="80" spot_angle_end="122" spot_angle_start="1"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_069" position="-835 -5096 316.996" rotation="1 -5.96046e-007 2.78304e-014 -4.37114e-008" unit_id="104187">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.996078 0.443137 0.203922" enabled="true" falloff_exponent="1" far_range="1500" multiplier="@IDd07c4dc12188729d@" name="ls_spot" near_range="80" spot_angle_end="122" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_070" position="-3595 -7146 319.996" rotation="1 -5.96046e-007 2.78304e-014 -4.37114e-008" unit_id="104196">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.996078 0.443137 0.203922" enabled="true" falloff_exponent="1" far_range="1500" multiplier="@IDd07c4dc12188729d@" name="ls_spot" near_range="80" spot_angle_end="122" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_071" position="-763 -3449 528.927" rotation="1 0 0 -4.37114e-008" unit_id="104204">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.992157 0.439216 0.203922" enabled="true" falloff_exponent="1" far_range="1500" multiplier="@IDd07c4dc12188729d@" name="ls_spot" near_range="80" spot_angle_end="90" spot_angle_start="1"/>
+				</lights>
+				<projection_textures ls_spot="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_02_on" name_id="ind_ext_prop_lamp_02_on_001" position="956 2215 443.483" rotation="-0.707107 -6.18172e-008 0 -0.707107" unit_id="103965"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01" name_id="light_omni_shadow_projection_01_057" position="956 2090 440.171" projection_light="lo_omni" rotation="-0 0 -0 -1" unit_id="103966">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.694118 0.607843 0.694118" enabled="true" falloff_exponent="1" far_range="800" multiplier="match" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+				<projection_lights>
+					<lo_omni x="128" y="128"/>
+				</projection_lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_02_on" name_id="ind_ext_prop_lamp_02_on_002" position="1446 -1783 238.167" rotation="-3.09086e-008 0.707107 0.707107 -9.27258e-008" unit_id="103967"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01" name_id="light_omni_shadow_projection_01_058" position="1446 -1658 234.855" projection_light="lo_omni" rotation="-8.74227e-008 0 -1 4.37114e-008" unit_id="103968">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.694118 0.607843 0.694118" enabled="true" falloff_exponent="1" far_range="800" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+				<projection_lights>
+					<lo_omni x="128" y="128"/>
+				</projection_lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_02_on" name_id="ind_ext_prop_lamp_02_on_003" position="1749 -3418 245.302" rotation="-0.707107 -1.23634e-007 -6.18173e-008 -0.707107" unit_id="103969"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01" name_id="light_omni_shadow_projection_01_059" position="1749 -3543 241.99" projection_light="lo_omni" rotation="-3.82137e-015 -8.57701e-015 -8.74228e-008 -1" unit_id="103970">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.694118 0.607843 0.694118" enabled="true" falloff_exponent="1" far_range="800" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+				<projection_lights>
+					<lo_omni x="128" y="128"/>
+				</projection_lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_02_on" name_id="ind_ext_prop_lamp_02_on_004" position="-2304 -4400 233.754" rotation="-3.09086e-008 0.707107 0.707107 -9.27258e-008" unit_id="104208"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01" name_id="light_omni_shadow_projection_01_060" position="-2304 -4275 230.442" projection_light="lo_omni" rotation="8.74227e-008 -2.19619e-022 1 -4.37114e-008" unit_id="104210">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.694118 0.607843 0.694118" enabled="true" falloff_exponent="1" far_range="800" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+				<projection_lights>
+					<lo_omni x="128" y="128"/>
+				</projection_lights>
+			</unit_data>
 		</table>
 	</statics>
 	<values>

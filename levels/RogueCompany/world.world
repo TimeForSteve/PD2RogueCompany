@@ -2863,7 +2863,7 @@
 				<entry key="position" type="vector3" value="6100 -9000 0.000305474"/>
 				<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 				<entry key="type" type="string" value="none"/>
-				<entry key="width" type="number" value="11000"/>
+				<entry key="width" type="number" value="11210"/>
 			</entry>
 		</entry>
 		<entry key="effects" type="table">

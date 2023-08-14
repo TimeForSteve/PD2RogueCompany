@@ -3005,8 +3005,39 @@
 		<unit path="units/pd2_dlc_flat/props/flt_prop_cardealership_barrels/flt_prop_cardealership_barrel_closed"/>
 	</add>
 	<add from_db="true" path="units/payday2/vehicles/ind_vehicle_truck_reachstacker/ind_vehicle_truck_reachstacker_bdrop" type="unit">
-		<unit path="units/payday2/vehicles/ind_vehicle_truck_reachstacker/ind_vehicle_truck_reachstacker_bdrop"/>
-		<object path="units/payday2/vehicles/ind_vehicle_truck_reachstacker/ind_vehicle_truck_reachstacker_bdrop"/>
 		<material_config path="units/payday2/vehicles/ind_vehicle_truck_reachstacker/ind_vehicle_truck_reachstacker_bdrop"/>
+		<object path="units/payday2/vehicles/ind_vehicle_truck_reachstacker/ind_vehicle_truck_reachstacker_bdrop"/>
+		<unit path="units/payday2/vehicles/ind_vehicle_truck_reachstacker/ind_vehicle_truck_reachstacker_bdrop"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/shadow_caster_5x5" type="unit">
+		<material_config path="units/dev_tools/level_tools/shadow_caster"/>
+		<object path="units/dev_tools/level_tools/shadow_caster_5x5"/>
+		<sequence_manager path="units/dev_tools/level_tools/shadow_caster"/>
+		<unit path="units/dev_tools/level_tools/shadow_caster_5x5"/>
+	</add>
+	<add from_db="true" path="units/lights/light_projection_01/light_projection_02" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/lights/light_projection_01/light_projection_02"/>
+		<unit path="units/lights/light_projection_01/light_projection_02"/>
+	</add>
+	<add from_db="true" path="core/units/light_spot/light_spot" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="core/units/light_spot/light_spot"/>
+		<unit path="core/units/light_spot/light_spot"/>
+	</add>
+	<add from_db="true" path="units/world/street/street_lights/street_lights_night_cone" type="unit">
+		<material_config path="units/world/street/street_lights/street_lights_night"/>
+		<object path="units/world/street/street_lights/street_lights_night_cone"/>
+		<unit path="units/world/street/street_lights/street_lights_night_cone"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_02_on" type="unit">
+		<material_config path="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_details"/>
+		<object path="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_02_on"/>
+		<unit path="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_02_on"/>
+	</add>
+	<add from_db="true" path="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01" type="unit">
+		<unit path="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01"/>
+		<object path="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01"/>
+		<material_config path="core/material_configs/hub_elements"/>
 	</add>
 </table>
