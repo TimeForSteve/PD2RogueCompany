@@ -3036,8 +3036,76 @@
 		<unit path="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_02_on"/>
 	</add>
 	<add from_db="true" path="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01" type="unit">
-		<unit path="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01"/>
-		<object path="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01"/>
 		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01"/>
+		<unit path="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_warehouse_lamp_ceiling/ind_prop_warehouse_lamp_ceiling_b_orange" type="unit">
+		<material_config path="units/payday2/props/ind_prop_warehouse_lamp_ceiling/ind_prop_warehouse_lamp_ceiling"/>
+		<object path="units/payday2/props/ind_prop_warehouse_lamp_ceiling/ind_prop_warehouse_lamp_ceiling_b_orange"/>
+		<unit path="units/payday2/props/ind_prop_warehouse_lamp_ceiling/ind_prop_warehouse_lamp_ceiling_b_orange"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_dark/props/drk_prop_mechanical_lamp_small/drk_prop_mechanical_lamp_small" type="unit">
+		<effect load="true" path="effects/payday2/particles/flares/indoor_lamp_v8"/>
+		<material_config path="units/pd2_dlc_dark/props/drk_prop_mechanical_lamp_small/drk_prop_mechanical_lamp_small"/>
+		<object path="units/pd2_dlc_dark/props/drk_prop_mechanical_lamp_small/drk_prop_mechanical_lamp_small"/>
+		<unit path="units/pd2_dlc_dark/props/drk_prop_mechanical_lamp_small/drk_prop_mechanical_lamp_small"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/shadow_caster_20x20" type="unit">
+		<material_config path="units/dev_tools/level_tools/shadow_caster"/>
+		<object path="units/dev_tools/level_tools/shadow_caster_20x20"/>
+		<sequence_manager path="units/dev_tools/level_tools/shadow_caster"/>
+		<unit path="units/dev_tools/level_tools/shadow_caster_20x20"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/shadow_caster_10x10" type="unit">
+		<material_config path="units/dev_tools/level_tools/shadow_caster"/>
+		<object path="units/dev_tools/level_tools/shadow_caster_10x10"/>
+		<sequence_manager path="units/dev_tools/level_tools/shadow_caster"/>
+		<unit path="units/dev_tools/level_tools/shadow_caster_10x10"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_01_on" type="unit">
+		<material_config path="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_details"/>
+		<object path="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_01_on"/>
+		<unit path="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_01_on"/>
+	</add>
+	<add from_db="true" path="units/test/payday2/character_poses/fbi_1_pose_1" type="unit">
+		<material_config path="units/test/payday2/character_poses/fbi_1_pose_1"/>
+		<object path="units/test/payday2/character_poses/fbi_1_pose_1"/>
+		<unit path="units/test/payday2/character_poses/fbi_1_pose_1"/>
+	</add>
+	<add from_db="true" path="units/world/props/street/street_wire_roof/street_wire_roof_long" type="unit">
+		<material_config path="units/world/props/street/street_wire_roof/street_wire_roof"/>
+		<object path="units/world/props/street/street_wire_roof/street_wire_roof_long"/>
+		<unit path="units/world/props/street/street_wire_roof/street_wire_roof_long"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_glow/gen_prop_glow_01" type="unit">
+		<effect load="true" path="effects/payday2/particles/flares/street_light_flare_blueish"/>
+		<material_config path="units/payday2/props/gen_prop_glow/gen_prop_glow"/>
+		<object path="units/payday2/props/gen_prop_glow/gen_prop_glow_01"/>
+		<unit path="units/payday2/props/gen_prop_glow/gen_prop_glow_01"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_spotlight" type="unit">
+		<effect load="true" path="effects/payday2/particles/flares/spotlight"/>
+		<material_config path="units/payday2/props/gen_prop_glow/gen_prop_glow"/>
+		<object path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_spotlight"/>
+		<unit path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_spotlight"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange" type="unit">
+		<effect load="true" path="effects/payday2/particles/flares/small_lamp_flare"/>
+		<material_config path="units/payday2/props/gen_prop_glow/gen_prop_glow"/>
+		<object path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange"/>
+		<unit path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange_v2" type="unit">
+		<effect load="true" path="effects/payday2/particles/flares/small_lamp_orange_v2"/>
+		<material_config path="units/payday2/props/gen_prop_glow/gen_prop_glow"/>
+		<object path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange_v2"/>
+		<unit path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange_v2"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_small" type="unit">
+		<unit path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_small"/>
+		<object path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_small"/>
+		<material_config path="units/payday2/props/gen_prop_glow/gen_prop_glow"/>
+		<effect load="true" path="effects/payday2/particles/flares/street_light_flare_blueish"/>
 	</add>
 </table>

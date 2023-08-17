@@ -2859,11 +2859,11 @@
 		<entry key="dome_occ_shapes" type="table">
 			<entry index="1" type="table">
 				<entry key="depth" type="number" value="10500"/>
-				<entry key="height" type="number" value="2930"/>
-				<entry key="position" type="vector3" value="6100 -9000 0.000305474"/>
+				<entry key="height" type="number" value="30100"/>
+				<entry key="position" type="vector3" value="6100 -9275 0.000305474"/>
 				<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 				<entry key="type" type="string" value="none"/>
-				<entry key="width" type="number" value="11210"/>
+				<entry key="width" type="number" value="11489"/>
 			</entry>
 		</entry>
 		<entry key="effects" type="table">
