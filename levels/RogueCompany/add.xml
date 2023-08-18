@@ -3103,9 +3103,20 @@
 		<unit path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_orange_v2"/>
 	</add>
 	<add from_db="true" path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_small" type="unit">
-		<unit path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_small"/>
-		<object path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_small"/>
+		<effect load="true" path="effects/payday2/particles/flares/street_light_flare_blueish"/>
 		<material_config path="units/payday2/props/gen_prop_glow/gen_prop_glow"/>
+		<object path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_small"/>
+		<unit path="units/payday2/props/gen_prop_glow/gen_prop_glow_01_small"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_blue_small" type="unit">
+		<material_config path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks"/>
+		<object path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_blue_small"/>
+		<unit path="units/payday2/props/ind_prop_light_cones/ind_prop_light_cones_docks_blue_small"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_mechanical_lamp_spot_a/str_prop_mechanical_lamp_spot_solid" type="unit">
+		<unit path="units/payday2/props/str_prop_mechanical_lamp_spot_a/str_prop_mechanical_lamp_spot_solid"/>
+		<object path="units/payday2/props/str_prop_mechanical_lamp_spot_a/str_prop_mechanical_lamp_spot_solid"/>
+		<material_config path="units/payday2/props/str_prop_mechanical_lamp_spot_a/str_prop_mechanical_lamp_spot_a"/>
 		<effect load="true" path="effects/payday2/particles/flares/street_light_flare_blueish"/>
 	</add>
 </table>
