@@ -354,6 +354,14 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="101059"/>
 						</entry>
+						<entry index="37" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100345"/>
+						</entry>
+						<entry index="38" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101765"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="950 2470 348.364"/>
 					<entry key="radius" type="number" value="250"/>
@@ -7767,6 +7775,10 @@
 						<entry index="1" type="table">
 							<entry key="delay" type="number" value="1"/>
 							<entry key="id" type="number" value="100269"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101767"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="5343.4 -5369.87 400"/>
@@ -19524,6 +19536,10 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100288"/>
 						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100705"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-3200 5300 300"/>
 					<entry key="radius" type="number" value="250"/>
@@ -20283,7 +20299,7 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="-900 -2300 0"/>
+					<entry key="position" type="vector3" value="-1261 -2463 0.000255555"/>
 					<entry key="repeatable" type="boolean" value="true"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.951056 -0.309017"/>
 					<entry key="scan" type="boolean" value="false"/>
@@ -20320,7 +20336,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="-908.229 -2288.67 0"/>
+					<entry key="position" type="vector3" value="-1258.58 -2466.42 0.000255555"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.951056 -0.309017"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_hands_up"/>
 					<entry key="team" type="string" value="law1"/>
@@ -20349,7 +20365,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="-974.649 -2197.25 0"/>
+					<entry key="position" type="vector3" value="-1325 -2375 0.000255555"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.951056 -0.309017"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_aim_shout"/>
 					<entry key="team" type="string" value="default"/>
@@ -21147,9 +21163,9 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="-3388 -3410 0.000255555"/>
+					<entry key="position" type="vector3" value="-2985 -3043 0"/>
 					<entry key="repeatable" type="boolean" value="true"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.748956 -0.66262"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.976296 0.21644"/>
 					<entry key="scan" type="boolean" value="false"/>
 					<entry key="search_distance" type="number" value="0"/>
 					<entry key="search_position" type="vector3" value="-182.53 1562.63 0.508475"/>
@@ -21184,8 +21200,8 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="-3374.1 -3408.29 0.000255555"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.748956 -0.66262"/>
+					<entry key="position" type="vector3" value="-2984.88 -3045.82 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.961262 0.275637"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_hands_up"/>
 					<entry key="team" type="string" value="law1"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -21213,8 +21229,8 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="-3261.95 -3394.52 0.000255555"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.748956 -0.66262"/>
+					<entry key="position" type="vector3" value="-2925 -2950 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.961262 0.275637"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_aim_shout"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -21255,7 +21271,7 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="273 -3822 4.61936e-005"/>
+					<entry key="position" type="vector3" value="-2 -4239 4.61936e-005"/>
 					<entry key="repeatable" type="boolean" value="true"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.878817 -0.477159"/>
 					<entry key="scan" type="boolean" value="false"/>
@@ -21292,7 +21308,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="261.259 -3814.38 4.61936e-005"/>
+					<entry key="position" type="vector3" value="-5.22997 -4236.55 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.878817 -0.477159"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_hands_up"/>
 					<entry key="team" type="string" value="law1"/>
@@ -21321,7 +21337,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="166.489 -3752.83 4.61936e-005"/>
+					<entry key="position" type="vector3" value="-100 -4175 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.878817 -0.477159"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_aim_shout"/>
 					<entry key="team" type="string" value="default"/>
@@ -21471,7 +21487,7 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="735 -3129 0"/>
+					<entry key="position" type="vector3" value="531 -4089 4.61936e-005"/>
 					<entry key="repeatable" type="boolean" value="true"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.139173 -0.990268"/>
 					<entry key="scan" type="boolean" value="false"/>
@@ -21508,7 +21524,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="731.141 -3142.46 0"/>
+					<entry key="position" type="vector3" value="531.147 -4091.38 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.139173 -0.990268"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_hands_up"/>
 					<entry key="team" type="string" value="law1"/>
@@ -21537,7 +21553,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="699.994 -3251.08 0"/>
+					<entry key="position" type="vector3" value="500 -4200 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.139173 -0.990268"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_aim_shout"/>
 					<entry key="team" type="string" value="default"/>
@@ -21579,7 +21595,7 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="-504 -1915 0.000255555"/>
+					<entry key="position" type="vector3" value="-425 -2341 0.000255555"/>
 					<entry key="repeatable" type="boolean" value="true"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.829038 -0.559193"/>
 					<entry key="scan" type="boolean" value="false"/>
@@ -21616,7 +21632,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="-516.98 -1909.76 0.000255555"/>
+					<entry key="position" type="vector3" value="-420.228 -2342.34 0.000255555"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.829038 -0.559193"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_hands_up"/>
 					<entry key="team" type="string" value="law1"/>
@@ -21645,7 +21661,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="-621.752 -1867.42 0.000255555"/>
+					<entry key="position" type="vector3" value="-525 -2300 0.000255555"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.829038 -0.559193"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_aim_shout"/>
 					<entry key="team" type="string" value="default"/>
@@ -22176,7 +22192,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="2473 735 -20"/>
+					<entry key="position" type="vector3" value="2600 975 -9.53674e-005"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0.580703 -0.814116"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -22201,7 +22217,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="2750 1450 4.61936e-005"/>
+					<entry key="position" type="vector3" value="2200 1725 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0.688355 -0.725374"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -22226,7 +22242,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="-825 1575 0"/>
+					<entry key="position" type="vector3" value="-1325 1675 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.760406 -0.649448"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -22276,7 +22292,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="1525 100 -19.85"/>
+					<entry key="position" type="vector3" value="1425 175 -19.85"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0.300706 -0.953717"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -22301,7 +22317,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="100 125 -19.999"/>
+					<entry key="position" type="vector3" value="375 325 -19.9991"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.182236 -0.983255"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -22376,7 +22392,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="-613 1181 0"/>
+					<entry key="position" type="vector3" value="-1575 1000 -4.76837e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.622515 -0.782608"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -22401,7 +22417,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="370 1356 4.61936e-005"/>
+					<entry key="position" type="vector3" value="350 1250 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.544639 -0.838671"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -22426,7 +22442,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="1419 630 -19.85"/>
+					<entry key="position" type="vector3" value="1450 550 -19.85"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0.113203 -0.993572"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -22451,7 +22467,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="1455 1417 0"/>
+					<entry key="position" type="vector3" value="1650 1450 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0.438371 -0.898794"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -22501,7 +22517,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="998 -814 -0.000121817"/>
+					<entry key="position" type="vector3" value="1025 -900 -0.000121817"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0.300706 -0.953717"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -22563,7 +22579,7 @@
 					<entry key="position" type="vector3" value="-306.969 -692.943 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.920505 -0.390731"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_hands_up"/>
-					<entry key="team" type="string" value="law1"/>
+					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
 				</entry>
@@ -22639,10 +22655,10 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="978.298 -398.003 0"/>
+					<entry key="position" type="vector3" value="982.438 -689.809 -0.000121817"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.887011 0.461749"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_hands_up"/>
-					<entry key="team" type="string" value="law1"/>
+					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
 				</entry>
@@ -22681,7 +22697,7 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="966.828 -406.036 0"/>
+					<entry key="position" type="vector3" value="979 -685 -0.000121817"/>
 					<entry key="repeatable" type="boolean" value="true"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.887011 0.461749"/>
 					<entry key="scan" type="boolean" value="false"/>
@@ -22717,7 +22733,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="1070.86 -333.194 0"/>
+					<entry key="position" type="vector3" value="1075 -625 -0.000121817"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.887011 0.461749"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_aim_shout"/>
 					<entry key="team" type="string" value="default"/>
@@ -22767,7 +22783,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="575 1750 4.61936e-005"/>
+					<entry key="position" type="vector3" value="350 1575 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.544639 -0.838671"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -22796,7 +22812,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="159 706 -19.9991"/>
+					<entry key="position" type="vector3" value="175 -150 -4.76837e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.887011 0.461749"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_aim_shout"/>
 					<entry key="team" type="string" value="default"/>
@@ -22826,10 +22842,10 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="66.4399 641.191 -19.9991"/>
+					<entry key="position" type="vector3" value="82.4399 -214.809 -4.76837e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.887011 0.461749"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_hands_up"/>
-					<entry key="team" type="string" value="law1"/>
+					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
 				</entry>
@@ -22868,7 +22884,7 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="54.97 633.158 -19.9991"/>
+					<entry key="position" type="vector3" value="80 -205 -7.15256e-005"/>
 					<entry key="repeatable" type="boolean" value="true"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.887011 0.461749"/>
 					<entry key="scan" type="boolean" value="false"/>
@@ -22937,7 +22953,7 @@
 					<entry key="position" type="vector3" value="103.075 958.945 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.694658 -0.71934"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_hands_up"/>
-					<entry key="team" type="string" value="law1"/>
+					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
 				</entry>
@@ -23667,8 +23683,8 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="-2850 -3100 0.000255555"/>
-					<entry key="rotation" type="quaternion" value="0 0 -0.688355 -0.725374"/>
+					<entry key="position" type="vector3" value="-3175 -3400 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.422618 -0.906308"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -25290,22 +25306,14 @@
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100339"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="1075 2075 206.361"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="trigger_list" type="table">
-						<entry index="1" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="101014"/>
-							<entry key="notify_unit_sequence" type="string" value="hide"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="2" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="103985"/>
-							<entry key="notify_unit_sequence" type="string" value="hide"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -25321,20 +25329,24 @@
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100340"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-2700 1675 -0.000117318"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_list" type="table">
 						<entry index="1" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="101014"/>
-							<entry key="notify_unit_sequence" type="string" value="show"/>
+							<entry key="notify_unit_id" type="number" value="101013"/>
+							<entry key="notify_unit_sequence" type="string" value="hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="2" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="101013"/>
-							<entry key="notify_unit_sequence" type="string" value="hide"/>
+							<entry key="notify_unit_id" type="number" value="105181"/>
+							<entry key="notify_unit_sequence" type="string" value="destroy"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 					</entry>
@@ -29795,6 +29807,10 @@
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101769"/>
+						</entry>
 					</entry>
 					<entry key="only_for_local_player" type="boolean" value="false"/>
 					<entry key="position" type="vector3" value="1650 -4575 0.000255555"/>
@@ -29808,8 +29824,8 @@
 						</entry>
 						<entry index="2" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="103985"/>
-							<entry key="notify_unit_sequence" type="string" value="show"/>
+							<entry key="notify_unit_id" type="number" value="105789"/>
+							<entry key="notify_unit_sequence" type="string" value="destroy"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 					</entry>
@@ -48645,7 +48661,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="3800 -8450 0.000305474"/>
+					<entry key="position" type="vector3" value="3649 -8525 0.000305474"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -49305,7 +49321,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="3851 -8400 0.000305474"/>
+					<entry key="position" type="vector3" value="3700 -8475 0.000305474"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -49371,7 +49387,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="3775 -8400 0.000305474"/>
+					<entry key="position" type="vector3" value="3624 -8475 0.000305474"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -56347,6 +56363,1344 @@
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="false"/>
 					<entry key="use_play_func" type="boolean" value="false"/>
+				</entry>
+			</entry>
+			<entry index="1720" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="disable_barrier"/>
+				<entry key="id" type="number" value="100339"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="1075 2125 206.359"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105181"/>
+						<entry index="2" type="number" value="105789"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1721" type="table">
+				<entry key="class" type="string" value="ElementEnableUnit"/>
+				<entry key="editor_name" type="string" value="enable_barrier_garage"/>
+				<entry key="id" type="number" value="100340"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-2725 1625 -0.000117108"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105181"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1722" type="table">
+				<entry key="class" type="string" value="ElementUnitSequence"/>
+				<entry key="editor_name" type="string" value="sequence_garage_light_off"/>
+				<entry key="id" type="number" value="100342"/>
+				<entry key="module" type="string" value="CoreElementUnitSequence"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-5250 3000 546.267"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_list" type="table">
+						<entry index="1" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105333"/>
+							<entry key="notify_unit_sequence" type="string" value="hide"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105342"/>
+							<entry key="notify_unit_sequence" type="string" value="hide"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105345"/>
+							<entry key="notify_unit_sequence" type="string" value="hide"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="4" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105332"/>
+							<entry key="notify_unit_sequence" type="string" value="hide"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="5" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105336"/>
+							<entry key="notify_unit_sequence" type="string" value="hide"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="1723" type="table">
+				<entry key="class" type="string" value="ElementUnitSequence"/>
+				<entry key="editor_name" type="string" value="sequence_garage_light_on"/>
+				<entry key="id" type="number" value="100343"/>
+				<entry key="module" type="string" value="CoreElementUnitSequence"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-5250 2925 546.267"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_list" type="table">
+						<entry index="1" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105333"/>
+							<entry key="notify_unit_sequence" type="string" value="Showtime"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105342"/>
+							<entry key="notify_unit_sequence" type="string" value="Showtime"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105345"/>
+							<entry key="notify_unit_sequence" type="string" value="Showtime"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="4" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105332"/>
+							<entry key="notify_unit_sequence" type="string" value="Showtime"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="5" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105336"/>
+							<entry key="notify_unit_sequence" type="string" value="Showtime"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="1724" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="disable_light_garage"/>
+				<entry key="id" type="number" value="100345"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100342"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-5350 3000 546.267"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105343"/>
+						<entry index="2" type="number" value="105347"/>
+						<entry index="3" type="number" value="105330"/>
+						<entry index="4" type="number" value="105334"/>
+						<entry index="5" type="number" value="105337"/>
+						<entry index="6" type="number" value="105338"/>
+						<entry index="7" type="number" value="105331"/>
+						<entry index="8" type="number" value="105335"/>
+						<entry index="9" type="number" value="105344"/>
+						<entry index="10" type="number" value="105346"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1725" type="table">
+				<entry key="class" type="string" value="ElementEnableUnit"/>
+				<entry key="editor_name" type="string" value="enable_light_garage"/>
+				<entry key="id" type="number" value="100705"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100343"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-5350 2925 546.267"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105335"/>
+						<entry index="2" type="number" value="105334"/>
+						<entry index="3" type="number" value="105344"/>
+						<entry index="4" type="number" value="105343"/>
+						<entry index="5" type="number" value="105346"/>
+						<entry index="6" type="number" value="105347"/>
+						<entry index="7" type="number" value="105331"/>
+						<entry index="8" type="number" value="105330"/>
+						<entry index="9" type="number" value="105337"/>
+						<entry index="10" type="number" value="105338"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1726" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="100792"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100793"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-2650 5450 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105332"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1727" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="100793"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-2650 5500 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105331"/>
+						<entry index="2" type="number" value="105330"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1728" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="100794"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100795"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-3734 5381 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105336"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1729" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="100795"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-3734 5431 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105337"/>
+						<entry index="2" type="number" value="105338"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1730" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="100798"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100800"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-2275 5550 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105333"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1731" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="100800"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-2275 5600 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105335"/>
+						<entry index="2" type="number" value="105334"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1732" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="100828"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-2300 6675 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105344"/>
+						<entry index="2" type="number" value="105343"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1733" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="100835"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100828"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-2300 6625 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105342"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1734" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="100836"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101357"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-2675 8300 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105345"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1735" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101357"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-2675 8350 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105346"/>
+						<entry index="2" type="number" value="105347"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1736" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101667"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-514 550 -19.999"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105021"/>
+						<entry index="2" type="number" value="105027"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1737" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101676"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101667"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-474.599 580.783 -19.999"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105020"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1738" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101684"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101738"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="1775 0 -19.85"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105159"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1739" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101738"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="1735.6 -30.7831 -19.85"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105169"/>
+						<entry index="2" type="number" value="105172"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1740" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101739"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101740"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="1075 -325 0.000143051"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105173"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1741" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101740"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="1035.6 -355.783 0.000143051"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105174"/>
+						<entry index="2" type="number" value="105175"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1742" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101741"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101742"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-42 -682 77.8108"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="104961"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1743" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101742"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-81.4005 -712.783 77.8108"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="104962"/>
+						<entry index="2" type="number" value="105028"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1744" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101743"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101744"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-140 -1856 272.404"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="104977"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1745" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101744"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-179.401 -1886.78 272.404"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="104978"/>
+						<entry index="2" type="number" value="105029"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1746" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101745"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101746"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-2175 -3050 272.404"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="104966"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1747" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101746"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-2214.4 -3080.78 272.404"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="104968"/>
+						<entry index="2" type="number" value="105030"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1748" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101747"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101748"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-3903 -2850 0.000255555"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="104999"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1749" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101748"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-3942.4 -2880.78 0.000255555"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105000"/>
+						<entry index="2" type="number" value="105031"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1750" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101749"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101750"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-721 -3981 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105142"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1751" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101750"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-760.401 -4011.78 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105143"/>
+						<entry index="2" type="number" value="105144"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1752" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101751"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101752"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-1200 -3975 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="104964"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1753" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101752"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-1239.4 -4005.78 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.898794 0.438371"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="104965"/>
+						<entry index="2" type="number" value="105145"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1754" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101753"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101754"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="5176.19 -6822.46 0.000301749"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.139174 -0.990268"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105703"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1755" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101754"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="5162.41 -6774.4 0.000301749"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.139174 -0.990268"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105726"/>
+						<entry index="2" type="number" value="105730"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1756" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101755"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="5669.62 -8315.87 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.993572 0.113203"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105740"/>
+						<entry index="2" type="number" value="105737"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1757" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101756"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101755"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="5680.87 -8267.15 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.993572 0.113203"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105732"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1758" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101757"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="4942.05 -8406.21 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.86163 -0.507538"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105744"/>
+						<entry index="2" type="number" value="105742"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1759" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101758"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101757"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="4985.79 -8381.97 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.86163 -0.507538"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105741"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1760" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101759"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="5644.18 -6578.12 0.000301749"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.989016 -0.14781"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105748"/>
+						<entry index="2" type="number" value="105747"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1761" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101760"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101759"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="5629.56 -6530.3 0.000301749"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.989016 -0.14781"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105746"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1762" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101761"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="5329.5 -4126.52 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.615661 -0.788011"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105751"/>
+						<entry index="2" type="number" value="105750"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1763" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101762"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101761"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="5280.98 -4138.62 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.615661 -0.788011"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105749"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1764" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="light_off"/>
+				<entry key="id" type="number" value="101763"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="3718.34 -5258.38 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.989016 0.147809"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105763"/>
+						<entry index="2" type="number" value="105753"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1765" type="table">
+				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
+				<entry key="editor_name" type="string" value="shot_lamp"/>
+				<entry key="id" type="number" value="101764"/>
+				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101763"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="3732.96 -5210.56 4.61936e-005"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.989016 0.147809"/>
+					<entry key="sequence_list" type="table">
+						<entry index="1" type="table">
+							<entry key="sequence" type="string" value="dead_light"/>
+							<entry key="unit_id" type="number" value="105752"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="1766" type="table">
+				<entry key="class" type="string" value="ElementDisableUnit"/>
+				<entry key="editor_name" type="string" value="disable_light_alley"/>
+				<entry key="id" type="number" value="101765"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101766"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="4125 -3375 200"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105763"/>
+						<entry index="2" type="number" value="105753"/>
+						<entry index="3" type="number" value="105740"/>
+						<entry index="4" type="number" value="105737"/>
+						<entry index="5" type="number" value="105744"/>
+						<entry index="6" type="number" value="105742"/>
+						<entry index="7" type="number" value="105730"/>
+						<entry index="8" type="number" value="105726"/>
+						<entry index="9" type="number" value="105748"/>
+						<entry index="10" type="number" value="105747"/>
+						<entry index="11" type="number" value="105751"/>
+						<entry index="12" type="number" value="105750"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1767" type="table">
+				<entry key="class" type="string" value="ElementUnitSequence"/>
+				<entry key="editor_name" type="string" value="sequence_alley_light_off"/>
+				<entry key="id" type="number" value="101766"/>
+				<entry key="module" type="string" value="CoreElementUnitSequence"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="4225 -3375 200"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_list" type="table">
+						<entry index="1" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105749"/>
+							<entry key="notify_unit_sequence" type="string" value="hide"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105752"/>
+							<entry key="notify_unit_sequence" type="string" value="hide"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105746"/>
+							<entry key="notify_unit_sequence" type="string" value="hide"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="4" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105732"/>
+							<entry key="notify_unit_sequence" type="string" value="hide"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="5" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105741"/>
+							<entry key="notify_unit_sequence" type="string" value="hide"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="6" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105703"/>
+							<entry key="notify_unit_sequence" type="string" value="hide"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="1768" type="table">
+				<entry key="class" type="string" value="ElementEnableUnit"/>
+				<entry key="editor_name" type="string" value="enable_light_alley"/>
+				<entry key="id" type="number" value="101767"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="101768"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="4125 -3450 200"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105751"/>
+						<entry index="2" type="number" value="105750"/>
+						<entry index="3" type="number" value="105763"/>
+						<entry index="4" type="number" value="105753"/>
+						<entry index="5" type="number" value="105748"/>
+						<entry index="6" type="number" value="105747"/>
+						<entry index="7" type="number" value="105726"/>
+						<entry index="8" type="number" value="105730"/>
+						<entry index="9" type="number" value="105744"/>
+						<entry index="10" type="number" value="105742"/>
+						<entry index="11" type="number" value="105740"/>
+						<entry index="12" type="number" value="105737"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry index="1769" type="table">
+				<entry key="class" type="string" value="ElementUnitSequence"/>
+				<entry key="editor_name" type="string" value="sequence_alley_light_on"/>
+				<entry key="id" type="number" value="101768"/>
+				<entry key="module" type="string" value="CoreElementUnitSequence"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="4225 -3450 200"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_list" type="table">
+						<entry index="1" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105749"/>
+							<entry key="notify_unit_sequence" type="string" value="Showtime"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105752"/>
+							<entry key="notify_unit_sequence" type="string" value="Showtime"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105746"/>
+							<entry key="notify_unit_sequence" type="string" value="Showtime"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="4" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105703"/>
+							<entry key="notify_unit_sequence" type="string" value="Showtime"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="5" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105732"/>
+							<entry key="notify_unit_sequence" type="string" value="Showtime"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="6" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="105741"/>
+							<entry key="notify_unit_sequence" type="string" value="Showtime"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+					</entry>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="1770" type="table">
+				<entry key="class" type="string" value="ElementEnableUnit"/>
+				<entry key="editor_name" type="string" value="enable_barrier_alley"/>
+				<entry key="id" type="number" value="101769"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="1700 -4450 0.000255555"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="unit_ids" type="table">
+						<entry index="1" type="number" value="105789"/>
+					</entry>
 				</entry>
 			</entry>
 		</entry>
