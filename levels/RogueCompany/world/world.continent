@@ -16790,7 +16790,7 @@
 			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_279" position="1027 1976.96 -0.87159" rotation="0.0436203 0 0 -0.999048" unit_id="101003"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_on_ai_graph="true" mesh_variation="" name="units/world/street/road_block/street_police_road_block" name_id="street_police_road_block_018" position="-2405 1514.37 250" rotation="0 0 -0.507538 -0.861629" unit_id="101013">
+			<unit_data continent="world" disable_on_ai_graph="true" mesh_variation="" name="units/world/street/road_block/street_police_road_block" name_id="street_police_road_block_018" position="-2405 1514.37 0" rotation="0 0 -0.507538 -0.861629" unit_id="101013">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 0.768628 0.47451" enabled="true" falloff_exponent="1" far_range="118" multiplier="@ID748ce7d9371994d6@" name="li_light1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
 					<table clipping_values="10000 -10000 0" color="1 0.772549 0.478431" enabled="true" falloff_exponent="1" far_range="118.11" multiplier="@IDccbbe27c7fdc0fd9@" name="li_light2" near_range="0" spot_angle_end="-1" spot_angle_start="-1"/>
@@ -27658,42 +27658,6 @@
 					<table clipping_values="10000 -10000 0" color="1 0.118 0.118" enabled="true" falloff_exponent="4" far_range="350" multiplier="@ID90cc6917c5799ad8@" name="li_light_red" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
 				</lights>
 			</unit_data>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1053" position="-4075 -6700 0" rotation="0 0 0.730246 -0.683184" unit_id="105195"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1054" position="-4075 -6075 9.53675e-005" rotation="0 0 0.821926 -0.569595" unit_id="105196"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1055" position="-4125 -6225 9.53675e-005" rotation="0 0 0.943628 -0.331007" unit_id="105197"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1056" position="-4175 -6500 9.53675e-005" rotation="0 0 0.622551 -0.782579" unit_id="105198"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1057" position="-4400 -6675 -19.9991" rotation="0 0 0.58471 -0.811242" unit_id="105199"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1058" position="-4375 -6575 -19.9991" rotation="0 0 0.707107 -0.707107" unit_id="105200"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1059" position="-4400 -6075 -19.9991" rotation="0 0 0.915348 -0.402663" unit_id="105201"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1060" position="-4425 -5925 -19.9991" rotation="0 0 0.929929 -0.367738" unit_id="105202"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1061" position="-4200 -6350 -9.53675e-005" rotation="0 0 0.788206 -0.615412" unit_id="105203"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1062" position="-4550 -6700 -19.9991" rotation="0 0 0.316228 -0.948683" unit_id="105204"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1063" position="-4750 -6025 -19.9991" rotation="0 0 0.58471 -0.811242" unit_id="105205"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1064" position="-4650 -5875 -19.9991" rotation="0 0 0.874642 -0.484769" unit_id="105206"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="core/units/light_spot/light_spot" name_id="light_spot_101" position="-3172 2409 622.834" rotation="1 0 0 4.37114e-008" unit_id="105207">
