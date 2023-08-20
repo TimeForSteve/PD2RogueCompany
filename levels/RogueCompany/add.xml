@@ -3096,13 +3096,40 @@
 	<add from_db="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" type="unit">
 		<object path="units/dev_tools/mission_elements/point_interaction/interaction_dummy"/>
 		<sequence_manager path="units/dev_tools/mission_elements/point_interaction/interaction_dummy"/>
-		<unit path="units/dev_tools/mission_elements/point_interaction/interaction_dummy" load="true"/>
+		<unit load="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy"/>
 	</add>
 	<add from_db="true" path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard" type="unit">
-		<unit path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard" load="true"/>
+		<unit load="true" path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard"/>
 		<object path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard"/>
-		<sequence_manager path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard"/>
 		<unit path="units/payday2/characters/civ_acc_keycard_clipped/civ_acc_keycard_clipped"/>
 		<object path="units/payday2/characters/civ_acc_keycard_clipped/civ_acc_keycard_clipped"/>
+		<sequence_manager path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/architecture/ext/mex_ext_fence_door_grey_non_jamming" type="unit">
+		<unit path="units/pd2_dlc_mex/architecture/ext/mex_ext_fence_door_grey_non_jamming"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_door_grey"/>
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_cage_grey"/>
+		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
+		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
+		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<gui path="guis/timer_gui"/>
+		<sequence_manager path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_door"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m1m_grey" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_cage_grey"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m1m_grey"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m1m_grey"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m1m_above_door_grey" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_cage_grey"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m1m_above_door_grey"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m1m_above_door_grey"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m_grey" type="unit">
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m_grey"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m_grey"/>
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_cage_grey"/>
 	</add>
 </table>
