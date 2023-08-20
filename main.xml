@@ -13,7 +13,8 @@
 		<achievement desc_id="RC_Achieve_speedrun_desc" icon="guis/achievements/rc_6mins" id="RC_Achieve_speedrun" name_id="RC_Achieve_speedrun_name" rank="3"/>
 	</Achievements>
 	<AddFiles directory="assets">
-		<texture force="true" path="icons/rc_broker"/>
+		<texture force="true" path="icons/RC_Broker"/>
+		<texture force="true" path="icons/RC_Loading"/>
 		<texture force="true" path="guis/achievements/rc_pack"/>
 		<texture force="true" path="guis/achievements/rc_diff_0"/>
 		<texture force="true" path="guis/achievements/rc_diff_1"/>
@@ -37,7 +38,7 @@
 		<hook file="musicmanager.lua" source_file="lib/managers/musicmanager"/>
 	</Hooks>
 	<Localization default="english.txt" directory="loc">
-		<loc file="english.yaml" language="english"/>
+		<loc file="english.txt" language="english"/>
 	</Localization>
 	<Sounds directory="assets/vo">
 		<sound id="RC_BriefingDialogue" path="RC_BriefingDialogue.ogg" subtitle_id="RC_BriefingDialogue"/>
