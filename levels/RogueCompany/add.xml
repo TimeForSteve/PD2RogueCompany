@@ -3128,8 +3128,13 @@
 		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_1m1m_above_door_grey"/>
 	</add>
 	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m_grey" type="unit">
-		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m_grey"/>
-		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m_grey"/>
 		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_cage_grey"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m_grey"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m_grey"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m" type="unit">
+		<unit path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m"/>
+		<object path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m"/>
+		<material_config path="core/material_configs/hub_elements"/>
 	</add>
 </table>
