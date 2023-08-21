@@ -2675,7 +2675,7 @@
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_1023" position="-1361 -8825 3.72529e-007" rotation="0 0 0.707107 -0.707107" unit_id="201523"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" name_id="dev_nav_splitter_4x3m_258" position="1133 2010 206.361" rotation="0 0 0 -1" unit_id="201524"/>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" name_id="dev_nav_splitter_4x3m_258" position="1445 1960 4.61936e-005" rotation="0 0 0 -1" unit_id="201524"/>
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_1024" position="-299.909 -5780.23 800" rotation="0 0 -0.0174526 -0.999848" unit_id="201525"/>
@@ -3671,7 +3671,7 @@
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_015" position="1945.69 1236.49 4.61936e-005" rotation="0 0 -0.612613 -0.790383" unit_id="200718"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_002" position="1029.16 2066.17 206.365" rotation="0 0 0.855666 -0.517529" unit_id="200719"/>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_002" position="1029.16 2066.17 206.365" rotation="0 0 0.817482 -0.575954" unit_id="200719"/>
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_106" position="-1915 1317.63 4.61936e-005" rotation="0 0 -0.206997 -0.978342" unit_id="200817"/>
@@ -6957,6 +6957,9 @@
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m" name_id="dev_nav_splitter_1x3m_002" position="6204 -7800 9.69577" rotation="0 0 0 -1" unit_id="202285"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" name_id="dev_nav_splitter_4x3m_261" position="1122 2211 206.353" rotation="0 0 -0.707107 -0.707107" unit_id="202286"/>
 		</table>
 	</statics>
 	<values>

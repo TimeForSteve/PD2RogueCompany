@@ -29792,6 +29792,9 @@
 		<table>
 			<unit_data continent="world" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_068" position="6772.88 -7309.06 446.647" rotation="0.236037 -0.666548 -0.236037 -0.666548" unit_id="106393"/>
 		</table>
+		<table>
+			<unit_data continent="world" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1076" position="1244.06 2159.82 141.382" rotation="0 0 0.824126 -0.566406" unit_id="106296"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
