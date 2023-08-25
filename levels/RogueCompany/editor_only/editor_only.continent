@@ -5723,7 +5723,7 @@
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_916" position="5250.98 -5012.35 0.000255555" rotation="0 0 -0.253132 -0.967432" unit_id="201891"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_803" position="10.5161 -7259.83 414.006" rotation="0 0 -0.35978 -0.933037" unit_id="201892"/>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_803" position="-75 -7300 403.006" rotation="0 0 0.129026 -0.991641" unit_id="201892"/>
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_925" position="5516.62 -4746.49 0.000255555" rotation="0 0 0.460317 -0.887755" unit_id="201893"/>
@@ -6821,7 +6821,7 @@
 			<unit_data continent="editor_only" mesh_variation="" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="gen_prop_security_timer_002" position="-4375 5004 1170.29" rotation="0 0 0.707107 -0.707107" unit_id="202246"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" disable_on_ai_graph="true" mesh_variation="state_enabled" name="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button" name_id="skip_button_alleyway" position="1675 -4775 0" rotation="-0 0 -0 -1" unit_id="200190"/>
+			<unit_data continent="editor_only" disable_on_ai_graph="true" mesh_variation="state_enabled" name="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button" name_id="skip_button_alleyway" position="1675 -4775 0" rotation="0 0 0 -1" unit_id="200190"/>
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_4x3m" name_id="dev_nav_blocker_4x3m_180" position="3400 -8675 0.000305474" rotation="0 0 1 4.37114e-008" unit_id="202247"/>
@@ -6960,6 +6960,9 @@
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" name_id="dev_nav_splitter_4x3m_261" position="1122 2211 206.353" rotation="0 0 -0.707107 -0.707107" unit_id="202286"/>
+		</table>
+		<table>
+			<unit_data continent="editor_only" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1076" position="1244.06 2159.82 141.382" rotation="0 0 0.824126 -0.566406" unit_id="202287"/>
 		</table>
 	</statics>
 	<values>

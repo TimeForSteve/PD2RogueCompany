@@ -3133,8 +3133,13 @@
 		<unit path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_pole_2m_grey"/>
 	</add>
 	<add from_db="true" path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m" type="unit">
-		<unit path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m"/>
-		<object path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m"/>
 		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m"/>
+		<unit path="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_1x3m"/>
+	</add>
+	<add from_db="true" path="units/payday2/mockup/occluder_plane_4x8" type="unit">
+		<unit path="units/payday2/mockup/occluder_plane_4x8"/>
+		<object path="units/payday2/mockup/occluder_plane_4x8"/>
+		<material_config path="units/payday2/mockup/occluder_plane"/>
 	</add>
 </table>
