@@ -15292,7 +15292,7 @@
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/architecture/res_int/res_int_corridor_2m" name_id="res_int_corridor_2m_005" position="1900 -2525 -0.000121817" rotation="0 0 -0.707107 -0.707107" unit_id="100282"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/architecture/res_int/res_int_corridor_4m_doorway" name_id="res_int_corridor_4m_doorway_014" position="1650 -1875 0" rotation="0 -0 0 -1" unit_id="100283"/>
+			<unit_data continent="world" disable_shadows="true" name="units/payday2/architecture/res_int/res_int_corridor_4m_doorway" name_id="res_int_corridor_4m_doorway_014" position="1650 -1880 0" rotation="0 0 0 -1" unit_id="100283"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/architecture/res_int/res_int_corridor_2m" name_id="res_int_corridor_2m_008" position="1900 -2325 -0.000121817" rotation="0 0 -0.707107 -0.707107" unit_id="100286"/>
@@ -15301,10 +15301,10 @@
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/architecture/res_int/res_int_corridor_wall_2m" name_id="res_int_corridor_wall_2m_032" position="1900 -1925 -0.000120513" rotation="0 0 -0.707107 -0.707107" unit_id="100284"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/architecture/res_int/res_int_corridor_wall_2m" name_id="res_int_corridor_wall_2m_033" position="1650 -1875 0.000255555" rotation="0 0 1 -0" unit_id="100285"/>
+			<unit_data continent="world" disable_shadows="true" name="units/payday2/architecture/res_int/res_int_corridor_wall_2m" name_id="res_int_corridor_wall_2m_033" position="1650 -1880 0.000255555" rotation="0 0 1 -0" unit_id="100285"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/architecture/res_int/res_int_corridor_wall_2m" name_id="res_int_corridor_wall_2m_034" position="1850 -1875 0.000255555" rotation="0 0 1 -0" unit_id="100287"/>
+			<unit_data continent="world" disable_shadows="true" name="units/payday2/architecture/res_int/res_int_corridor_wall_2m" name_id="res_int_corridor_wall_2m_034" position="1850 -1880 0.000255555" rotation="0 0 1 -0" unit_id="100287"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/architecture/res_int/res_int_corridor_wall_2m" name_id="res_int_corridor_wall_2m_035" position="1900 -1725 -0.000120513" rotation="0 0 -0.707107 -0.707107" unit_id="100288"/>
@@ -15394,7 +15394,7 @@
 			<unit_data continent="world" name="units/payday2/architecture/res_int/res_int_floor_middle_1m" name_id="res_int_floor_middle_1m_008" position="1700 -2125 -0.000120513" rotation="0 -0 0 -1" unit_id="100343"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/res_int/res_int_floor_middle_1m" name_id="res_int_floor_middle_1m_009" position="1600 -1975 0" rotation="0 -0 0 -1" unit_id="100344"/>
+			<unit_data continent="world" name="units/payday2/architecture/res_int/res_int_floor_middle_1m" name_id="res_int_floor_middle_1m_009" position="1600 -1975 -0.436331" rotation="0 -0.00218166 0 -0.999998" unit_id="100344"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/res_int/res_int_floor_middle_1m" name_id="res_int_floor_middle_1m_010" position="1600 -2075 0" rotation="0 -0 0 -1" unit_id="100345"/>
@@ -15403,7 +15403,7 @@
 			<unit_data continent="world" name="units/payday2/architecture/res_int/res_int_floor_middle_1m" name_id="res_int_floor_middle_1m_011" position="1600 -2175 -0.000120513" rotation="0 -0 0 -1" unit_id="100346"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/res_int/res_int_floor_middle_1m" name_id="res_int_floor_middle_1m_012" position="1500 -1975 0" rotation="0 -0 0 -1" unit_id="100347"/>
+			<unit_data continent="world" name="units/payday2/architecture/res_int/res_int_floor_middle_1m" name_id="res_int_floor_middle_1m_012" position="1500 -1975 0" rotation="0 -0.00218166 0 -0.999998" unit_id="100347"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/res_int/res_int_floor_middle_1m" name_id="res_int_floor_middle_1m_013" position="1500 -2075 0" rotation="0 -0 0 -1" unit_id="100348"/>
@@ -15412,7 +15412,7 @@
 			<unit_data continent="world" name="units/payday2/architecture/res_int/res_int_floor_middle_1m" name_id="res_int_floor_middle_1m_014" position="1500 -2175 -0.000120513" rotation="0 -0 0 -1" unit_id="100349"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/res_int/res_int_floor_middle_1m" name_id="res_int_floor_middle_1m_015" position="1400 -1975 0" rotation="0 -0 0 -1" unit_id="100305"/>
+			<unit_data continent="world" name="units/payday2/architecture/res_int/res_int_floor_middle_1m" name_id="res_int_floor_middle_1m_015" position="1400 -1975 0.436331" rotation="0 -0.00218166 0 -0.999998" unit_id="100305"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/res_int/res_int_floor_middle_1m" name_id="res_int_floor_middle_1m_016" position="1400 -2075 0" rotation="0 -0 0 -1" unit_id="100306"/>
@@ -30253,6 +30253,15 @@
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x4m_groundfloor_a" name_id="ind_ext_4x4m_groundfloor_a_020" position="10275 -1200 398" rotation="0 0 1 -0" unit_id="106717"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_6x6/dev_ai_vis_blocker_6x6" name_id="dev_ai_vis_blocker_6x6_001" position="3575 -4175 300.542" rotation="-0 0 -0 -1" unit_id="106718"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_6x6/dev_ai_vis_blocker_6x6" name_id="dev_ai_vis_blocker_6x6_002" position="3575 -4775 300.542" rotation="-0 0 -0 -1" unit_id="106719"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_6x6/dev_ai_vis_blocker_6x6" name_id="dev_ai_vis_blocker_6x6_003" position="3575 -5375 300.542" rotation="-0 0 -0 -1" unit_id="106720"/>
 		</table>
 	</statics>
 	<values>

@@ -38,7 +38,7 @@
 		<hook file="musicmanager.lua" source_file="lib/managers/musicmanager"/>
 	</Hooks>
 	<Localization default="english.txt" directory="loc">
-		<loc file="english.txt" language="english"/>
+		<loc file="english.yaml" language="english"/>
 	</Localization>
 	<Sounds directory="assets/vo">
 		<sound id="RC_BriefingDialogue" path="RC_BriefingDialogue.ogg" subtitle_id="RC_BriefingDialogue"/>
@@ -66,11 +66,8 @@
 		<sound id="RC_obj4B" path="RC_obj4B.ogg" subtitle_id="RC_obj4B"/>
 		<sound id="RC_obj5A" path="RC_obj5A.ogg" subtitle_id="RC_obj5A"/>
 		<sound id="RC_obj5B" path="RC_obj5B.ogg" subtitle_id="RC_obj5B"/>
-		<sound id="RC_obj6A" path="RC_obj6A.ogg" subtitle_id="RC_obj6A"/>
-		<sound id="RC_obj6B" path="RC_obj6B.ogg" subtitle_id="RC_obj6B"/>
-		<sound id="RC_obj7A" path="RC_obj7A.ogg" subtitle_id="RC_obj7A"/>
-		<sound id="RC_obj7B" path="RC_obj7B.ogg" subtitle_id="RC_obj7B"/>
-		<sound id="RC_obj8B" path="RC_obj8B.ogg" subtitle_id="RC_obj8B"/>
+		<sound id="RC_obj7" path="RC_obj7.ogg" subtitle_id="RC_obj7"/>
+		<sound id="RC_obj8" path="RC_obj8.ogg" subtitle_id="RC_obj8"/>
 		<sound id="RC_Server1" path="RC_Server1.ogg" subtitle_id="RC_Server1"/>
 		<sound id="RC_Server2" path="RC_Server2.ogg" subtitle_id="RC_Server2"/>
 		<sound id="RC_WineCont1" path="RC_WineCont1.ogg" subtitle_id="RC_WineCont1"/>
