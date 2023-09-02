@@ -4,8 +4,8 @@
 	<objective description="RC_obj_3_desc" id="RC_obj_3" text="RC_obj_3"/>
 	<objective description="RC_obj_4a_desc" id="RC_obj_4A" text="RC_obj_4A"/>
 	<objective description="RC_obj_4b_desc" id="RC_obj_4B" text="RC_obj_4B"/>
-	<objective description="RC_obj__5A_desc" id="RC_obj_5A" text="RC_obj_5A"/>
+	<objective description="RC_obj_5A_desc" id="RC_obj_5A" text="RC_obj_5A"/>
 	<objective description="RC_obj_5B_desc" id="RC_obj_5B" text="RC_obj_5B"/>
-	<objective description="RC_obj7_desc" id="RC_obj7" text="RC_obj7"/>
-	<objective description="RC_obj8_desc" id="RC_obj8" text="RC_obj8"/>
+	<objective description="RC_obj_7_desc" id="RC_obj_7" text="RC_obj_7"/>
+	<objective description="RC_obj_8_desc" id="RC_obj_8" text="RC_obj_8"/>
 </table>
