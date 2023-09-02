@@ -21303,7 +21303,7 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="-2 -4239 4.61936e-005"/>
+					<entry key="position" type="vector3" value="323 -3839 4.61936e-005"/>
 					<entry key="repeatable" type="boolean" value="true"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.878817 -0.477159"/>
 					<entry key="scan" type="boolean" value="false"/>
@@ -21340,7 +21340,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="-5.22997 -4236.55 4.61936e-005"/>
+					<entry key="position" type="vector3" value="319.77 -3836.55 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.878817 -0.477159"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_hands_up"/>
 					<entry key="team" type="string" value="law1"/>
@@ -21369,7 +21369,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="-100 -4175 4.61936e-005"/>
+					<entry key="position" type="vector3" value="225 -3775 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.878817 -0.477159"/>
 					<entry key="spawn_action" type="string" value="e_sp_loop_aim_shout"/>
 					<entry key="team" type="string" value="default"/>
@@ -47005,10 +47005,6 @@
 					<entry key="position" type="vector3" value="-2325 1425 4.61936e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="sequence" type="string" value="interact"/>
-							<entry key="unit_id" type="number" value="202244"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -56363,10 +56359,6 @@
 					<entry key="position" type="vector3" value="1725 -4725 0.000301749"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="sequence" type="string" value="interact"/>
-							<entry key="unit_id" type="number" value="200190"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
