@@ -15300,9 +15300,9 @@
 							<entry key="id" type="number" value="100571"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="108.354 -5030.36 175.758"/>
+					<entry key="position" type="vector3" value="82.4567 -4951.47 175.758"/>
 					<entry key="radius" type="number" value="250"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.573577 -0.819152"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.649448 -0.760406"/>
 					<entry key="shape_type" type="string" value="box"/>
 					<entry key="spawn_unit_elements" type="table">
 					</entry>
@@ -29268,7 +29268,7 @@
 					<entry key="orientation_elements" type="table">
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="493 -4839 1"/>
+					<entry key="position" type="vector3" value="-150 -5300 2.40675"/>
 					<entry key="rotation" type="quaternion" value="0 0 0.438371 -0.898794"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
