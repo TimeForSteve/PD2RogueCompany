@@ -23161,64 +23161,64 @@
 			<unit_data continent="world" name="units/pd2_dlc2/csgo_models/props_fairgrounds/traffic_barrel" name_id="traffic_barrel_011" position="-2144 5976 0" rotation="0 0 0.968148 -0.25038" unit_id="103384"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_051" position="-1810 6625 1060" rotation="0.707107 0 0.707107 -0" unit_id="103385"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_051" position="-1810 6625 1060" rotation="0.707107 -3.09086e-008 0.707107 3.09086e-008" unit_id="103385"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_053" position="-1810 5825 1060" rotation="0.707107 0 0.707107 -0" unit_id="103386"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_053" position="-1810 5825 1060" rotation="0.707107 -3.09086e-008 0.707107 3.09086e-008" unit_id="103386"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_054" position="-1810 5025 1060" rotation="0.707107 0 0.707107 -0" unit_id="103387"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_054" position="-1810 5025 1060" rotation="0.707107 -3.09086e-008 0.707107 3.09086e-008" unit_id="103387"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_055" position="-1810 4225 1060" rotation="0.707107 0 0.707107 -0" unit_id="103388"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_055" position="-1810 4225 1060" rotation="0.707107 -3.09086e-008 0.707107 3.09086e-008" unit_id="103388"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_056" position="-1810 5825 984.996" rotation="3.09086e-008 -0.707107 3.09086e-008 -0.707107" unit_id="103389"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_056" position="-1810 5825 984.996" rotation="-2.59096e-014 -0.707107 6.18172e-008 -0.707107" unit_id="103389"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_057" position="-1810 5025 984.996" rotation="-3.09086e-008 0.707107 -3.09086e-008 0.707107" unit_id="103803"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_057" position="-1810 5025 984.996" rotation="-2.59096e-014 -0.707107 6.18172e-008 -0.707107" unit_id="103803"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_058" position="-1810 4225 984.996" rotation="-3.09086e-008 0.707107 -3.09086e-008 0.707107" unit_id="103806"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_058" position="-1810 4225 984.996" rotation="-2.59096e-014 -0.707107 6.18172e-008 -0.707107" unit_id="103806"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_059" position="-1810 3425 984.996" rotation="3.09086e-008 -0.707107 3.09086e-008 -0.707107" unit_id="103807"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_059" position="-1810 3425 984.996" rotation="-2.59096e-014 -0.707107 6.18172e-008 -0.707107" unit_id="103807"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_060" position="-1810 5825 1335" rotation="3.09086e-008 -0.707107 3.09086e-008 -0.707107" unit_id="103808"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_060" position="-1810 5825 1335" rotation="-2.59096e-014 -0.707107 6.18172e-008 -0.707107" unit_id="103808"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_061" position="-1810 5025 1335" rotation="3.09086e-008 -0.707107 3.09086e-008 -0.707107" unit_id="103809"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_061" position="-1810 5025 1335" rotation="-2.59096e-014 -0.707107 6.18172e-008 -0.707107" unit_id="103809"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_068" position="-1810 4225 1335" rotation="3.09086e-008 -0.707107 3.09086e-008 -0.707107" unit_id="103810"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_068" position="-1810 4225 1335" rotation="-2.59096e-014 -0.707107 6.18172e-008 -0.707107" unit_id="103810"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_069" position="-1810 3425 1335" rotation="3.09086e-008 -0.707107 3.09086e-008 -0.707107" unit_id="103811"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_069" position="-1810 3425 1335" rotation="-2.59096e-014 -0.707107 6.18172e-008 -0.707107" unit_id="103811"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_073" position="-1810 6625 1410" rotation="0.707107 0 0.707107 -0" unit_id="103812"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_073" position="-1810 6625 1410" rotation="0.707107 -3.09086e-008 0.707107 3.09086e-008" unit_id="103812"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_074" position="-1810 5825 1410" rotation="0.707107 0 0.707107 -0" unit_id="103825"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_074" position="-1810 5825 1410" rotation="0.707107 -3.09086e-008 0.707107 3.09086e-008" unit_id="103825"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_076" position="-1810 5025 1410" rotation="0.707107 0 0.707107 -0" unit_id="103828"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_076" position="-1810 5025 1410" rotation="0.707107 -3.09086e-008 0.707107 3.09086e-008" unit_id="103828"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_077" position="-1810 4225 1410" rotation="0.707107 0 0.707107 -0" unit_id="103829"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_077" position="-1810 4225 1410" rotation="0.707107 -3.09086e-008 0.707107 3.09086e-008" unit_id="103829"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_078" position="-1808 5825 1710" rotation="3.09086e-008 -0.707107 3.09086e-008 -0.707107" unit_id="103830"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_078" position="-1808 5825 1710" rotation="-2.59096e-014 -0.707107 6.18172e-008 -0.707107" unit_id="103830"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_079" position="-1808 5025 1710" rotation="3.09086e-008 -0.707107 3.09086e-008 -0.707107" unit_id="103831"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_079" position="-1808 5025 1710" rotation="-2.59096e-014 -0.707107 6.18172e-008 -0.707107" unit_id="103831"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_080" position="-1808 4225 1710" rotation="3.09086e-008 -0.707107 3.09086e-008 -0.707107" unit_id="103832"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_080" position="-1808 4225 1710" rotation="-2.59096e-014 -0.707107 6.18172e-008 -0.707107" unit_id="103832"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_081" position="-1808 3425 1710" rotation="3.09086e-008 -0.707107 3.09086e-008 -0.707107" unit_id="103833"/>
+			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_081" position="-1808 3425 1710" rotation="-2.59096e-014 -0.707107 6.18172e-008 -0.707107" unit_id="103833"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_roof_4x8m_e" name_id="ind_ext_roof_4x8m_e_020" position="3800 -6400 1600" rotation="-0 -0 0 -1" unit_id="100936"/>
@@ -29935,6 +29935,42 @@
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_079" position="-754 -4600 2.5" rotation="0 0 -0.707107 -0.707107" unit_id="106514"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_6x6/dev_ai_vis_blocker_6x6" name_id="dev_ai_vis_blocker_6x6_004" position="-3979 -3663 -279" rotation="0 0 0 -1" unit_id="106515"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_6x6/dev_ai_vis_blocker_6x6" name_id="dev_ai_vis_blocker_6x6_005" position="-3979 -3088 -279" rotation="0 0 0 -1" unit_id="106516"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_6x6/dev_ai_vis_blocker_6x6" name_id="dev_ai_vis_blocker_6x6_006" position="796 -4513 -279" rotation="0 0 0 -1" unit_id="106517"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_6x6/dev_ai_vis_blocker_6x6" name_id="dev_ai_vis_blocker_6x6_007" position="796 -3938 -279" rotation="0 0 0 -1" unit_id="106518"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x2x2m" name_id="dev_ai_vis_blocker_005x2x2m_001" position="276.457 -758.078 0" rotation="0 0 0.173648 -0.984808" unit_id="106519"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x2x2m" name_id="dev_ai_vis_blocker_005x2x2m_002" position="339.389 -585.175 0" rotation="0 0 0.173648 -0.984808" unit_id="106520"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x2x2m" name_id="dev_ai_vis_blocker_005x2x2m_003" position="339.389 -585.175 106" rotation="0 0 0.173648 -0.984808" unit_id="106521"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x2x2m" name_id="dev_ai_vis_blocker_005x2x2m_004" position="276.457 -758.078 106" rotation="0 0 0.173648 -0.984808" unit_id="106522"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x2x2m" name_id="dev_ai_vis_blocker_005x2x2m_005" position="1198.84 -593.204 106" rotation="-0 0 -0.061049 -0.998135" unit_id="106523"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x2x2m" name_id="dev_ai_vis_blocker_005x2x2m_006" position="1221.27 -775.832 106" rotation="0 0 -0.0610486 -0.998135" unit_id="106524"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x2x2m" name_id="dev_ai_vis_blocker_005x2x2m_007" position="1198.84 -593.204 0" rotation="0 0 -0.0610486 -0.998135" unit_id="106525"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x2x2m" name_id="dev_ai_vis_blocker_005x2x2m_008" position="1221.27 -775.832 0" rotation="0 0 -0.0610486 -0.998135" unit_id="106526"/>
 		</table>
 	</statics>
 	<values>
