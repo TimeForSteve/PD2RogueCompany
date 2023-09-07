@@ -34518,7 +34518,7 @@
 					<entry key="rotation" type="quaternion" value="0 0 1 -0"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
-					<entry key="search_position" type="vector3" value="-2786 -7293 796"/>
+					<entry key="search_position" type="vector3" value="-3052 -6953 332"/>
 					<entry key="so_action" type="string" value="e_nl_up_3_3m"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
@@ -34567,7 +34567,7 @@
 					<entry key="rotation" type="quaternion" value="0 0 1 -0"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
-					<entry key="search_position" type="vector3" value="-2786 -7293 796"/>
+					<entry key="search_position" type="vector3" value="-2858 -6951 332"/>
 					<entry key="so_action" type="string" value="e_nl_up_3_3m"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
@@ -34616,7 +34616,7 @@
 					<entry key="rotation" type="quaternion" value="0 0 1 -0"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
-					<entry key="search_position" type="vector3" value="-2786 -7293 796"/>
+					<entry key="search_position" type="vector3" value="-2952 -6953 332"/>
 					<entry key="so_action" type="string" value="e_nl_up_3_3m"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>

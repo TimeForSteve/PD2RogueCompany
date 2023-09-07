@@ -7716,10 +7716,10 @@
 			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_003" position="-2410 -8800 775" rotation="0 0 0.707107 -0.707107" unit_id="101927"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2600 -8420 775" _prev_rot="0 0 0 -1" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_006" position="-2600 -8410 775" rotation="0 0 0 -1" unit_id="101930"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_006" position="-2600 -8410 775" rotation="0 0 0 -1" unit_id="101930"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2800 -8420 775" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_007" position="-2800 -8410 775" rotation="0 0 0 -1" unit_id="101931"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_007" position="-2800 -8410 775" rotation="0 0 0 -1" unit_id="101931"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_010" position="-3400 -7210 775" rotation="-0 -0 0 -1" unit_id="101934"/>
@@ -8190,16 +8190,16 @@
 			<unit_data continent="world" name="units/pd2_dlc_flat/props/flt_prop_cocaine_bag/flt_prop_cokebag_ripped" name_id="flt_prop_cokebag_ripped_001" position="-3067.19 -8346.96 872" rotation="-0 -0 0 -1" unit_id="102166"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3963 -8800 -25" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_022" position="-3990 -8800 -25" rotation="0 0 -0.707107 -0.707107" unit_id="102164"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_022" position="-3990 -8800 -25" rotation="0 0 -0.707107 -0.707107" unit_id="102164"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3990 -8600 -25" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_023" position="-3990 -8600 -25" rotation="0 0 -0.707107 -0.707107" unit_id="102167"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_023" position="-3990 -8600 -25" rotation="0 0 -0.707107 -0.707107" unit_id="102167"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3600 -9159 -25" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_024" position="-3600 -9155 -25" rotation="0 0 1 -4.37114e-008" unit_id="102168"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_024" position="-3600 -9155 -25" rotation="0 0 1 -4.37114e-008" unit_id="102168"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3800 -9159 -25" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_025" position="-3800 -9155 -25" rotation="0 0 1 -4.37114e-008" unit_id="102169"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_025" position="-3800 -9155 -25" rotation="0 0 1 -4.37114e-008" unit_id="102169"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/pd2_dlc_flat/props/flt_prop_vent_tunnel/flt_prop_vent_tunnel_straight_x3" name_id="flt_prop_vent_tunnel_straight_x3_005" position="-3900 -7400 900" rotation="0 0 0.707107 -0.707107" unit_id="102170"/>
@@ -8895,16 +8895,16 @@
 			<unit_data continent="world" name="units/payday2/props/com_prop_election_table/com_prop_election_table" name_id="com_prop_election_table_006" position="-1850 -9090 400" rotation="0 0 -0.707107 -0.707107" unit_id="102856"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3964 -8600 375" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_026" position="-3990 -8600 375" rotation="0 0 -0.707107 -0.707107" unit_id="102857"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_026" position="-3990 -8600 375" rotation="0 0 -0.707107 -0.707107" unit_id="102857"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3990 -8800 375" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_027" position="-3990 -8800 375" rotation="0 0 -0.707107 -0.707107" unit_id="102858"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_027" position="-3990 -8800 375" rotation="0 0 -0.707107 -0.707107" unit_id="102858"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3970 -7400 375" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_028" position="-3990 -7400 375" rotation="0 0 -0.707107 -0.707107" unit_id="102859"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_028" position="-3990 -7400 375" rotation="0 0 -0.707107 -0.707107" unit_id="102859"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3970 -7600 375" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_029" position="-3990 -7600 375" rotation="0 0 -0.707107 -0.707107" unit_id="102860"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_029" position="-3990 -7600 375" rotation="0 0 -0.707107 -0.707107" unit_id="102860"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_007" position="-2400 -8948.75 75" rotation="0 0 1 4.37114e-008" unit_id="102861"/>
@@ -8931,10 +8931,10 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_013" position="-2648.75 -8400 875" rotation="0 0 0.707107 -0.707107" unit_id="102868"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3400 -9159 375" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="200 -1.74846e-005 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_030" position="-3400 -9155 375" rotation="0 0 1 -4.37114e-008" unit_id="102869"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_030" position="-3400 -9155 375" rotation="0 0 1 -4.37114e-008" unit_id="102869"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3200 -9155 375" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_031" position="-3200 -9155 375" rotation="0 0 1 -4.37114e-008" unit_id="102870"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_031" position="-3200 -9155 375" rotation="0 0 1 -4.37114e-008" unit_id="102870"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_level/ind_ext_stairs_c_one_side" name_id="ind_ext_stairs_c_one_side_004" position="-2200 -8400 387.5" rotation="0 0 1 4.37114e-008" unit_id="101072"/>
@@ -9255,19 +9255,19 @@
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top" name_id="ind_ext_dock_bld_4x4_top_049" position="800 -8400 1200" rotation="0 0 1 -0" unit_id="102980"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1200 -8039 775" _prev_rot="0 0 0 -1" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_036" position="-1200 -8010 775" rotation="0 0 0 -1" unit_id="104054"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_036" position="-1200 -8010 775" rotation="0 0 0 -1" unit_id="104054"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1400 -8039 775" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_037" position="-1400 -8010 775" rotation="0 0 0 -1" unit_id="104055"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_037" position="-1400 -8010 775" rotation="0 0 0 -1" unit_id="104055"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_014" position="-1248.75 -8000 875" rotation="0 0 0.707107 -0.707107" unit_id="104056"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-200 -8039 872" _prev_rot="0 0 0 -1" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_038" position="-200 -8045 872" rotation="0 0 0 -1" unit_id="104057"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_038" position="-200 -8045 872" rotation="0 0 0 -1" unit_id="104057"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-400 -8045 872" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_039" position="-400 -8045 872" rotation="0 0 0 -1" unit_id="104058"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_039" position="-400 -8045 872" rotation="0 0 0 -1" unit_id="104058"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_015" position="-248.75 -8000 872" rotation="0 0 0.707107 -0.707107" unit_id="104059"/>
@@ -9333,10 +9333,10 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night_open" name_id="ind_ext_dock_bld_window_solid_night_open_005" position="-1800 -8248.75 75" rotation="-0 -0 0 -1" unit_id="105438"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="300 -6640 375" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_058" position="300 -6610 375" rotation="0 0 0 -1" unit_id="105440"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_058" position="300 -6610 375" rotation="0 0 0 -1" unit_id="105440"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="500 -6640 375" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_059" position="500 -6610 375" rotation="0 0 0 -1" unit_id="105441"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_059" position="500 -6610 375" rotation="0 0 0 -1" unit_id="105441"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_023" position="451.25 -6600 475" rotation="0 0 0.707107 -0.707107" unit_id="105442"/>
@@ -9486,10 +9486,10 @@
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_bottom_window" name_id="ind_ext_dock_bld_4x4_bottom_window_011" position="200 -4400 0" rotation="0 0 0.707107 -0.707107" unit_id="105532"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="0 -4440 -25" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_074" position="0 -4445 -25" rotation="0 0 0 -1" unit_id="105533"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_074" position="0 -4445 -25" rotation="0 0 0 -1" unit_id="105533"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="200 -4450 -25" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_075" position="200 -4445 -25" rotation="0 0 0 -1" unit_id="105534"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_075" position="200 -4445 -25" rotation="0 0 0 -1" unit_id="105534"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_030" position="148.75 -4400 75" rotation="0 0 0.707107 -0.707107" unit_id="105535"/>
@@ -9612,10 +9612,10 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night_open" name_id="ind_ext_dock_bld_window_solid_night_open_009" position="-800 -4848.75 1675" rotation="-0 -0 0 -1" unit_id="105632"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-794 -4800 1575" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_082" position="-790 -4800 1575" rotation="0 0 -0.707107 -0.707107" unit_id="105633"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_082" position="-790 -4800 1575" rotation="0 0 -0.707107 -0.707107" unit_id="105633"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-794 -5000 1575" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_083" position="-790 -5000 1575" rotation="0 0 -0.707107 -0.707107" unit_id="105634"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_083" position="-790 -5000 1575" rotation="0 0 -0.707107 -0.707107" unit_id="105634"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window" name_id="ind_ext_dock_bld_4x4_top_window_027" position="800 -5200 1600" rotation="0 0 1 -0" unit_id="105635"/>
@@ -9624,10 +9624,10 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_032" position="800 -5148.75 1675" rotation="0 0 1 4.37114e-008" unit_id="105636"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="760 -5000 1575" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_084" position="790 -5000 1575" rotation="0 0 0.707107 -0.707107" unit_id="105637"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_084" position="790 -5000 1575" rotation="0 0 0.707107 -0.707107" unit_id="105637"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="760 -5200 1575" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_085" position="790 -5200 1575" rotation="0 0 0.707107 -0.707107" unit_id="105640"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_085" position="790 -5200 1575" rotation="0 0 0.707107 -0.707107" unit_id="105640"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top" name_id="ind_ext_dock_bld_4x4_top_056" position="-800 -4800 1200" rotation="-0 -0 0 -1" unit_id="105645"/>
@@ -9651,10 +9651,10 @@
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window" name_id="ind_ext_dock_bld_4x4_top_window_028" position="-800 -4700 800" rotation="0 0 4.37114e-008 -1" unit_id="105659"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-791 -4900 775" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_086" position="-790 -4900 775" rotation="0 0 -0.707107 -0.707107" unit_id="105660"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_086" position="-790 -4900 775" rotation="0 0 -0.707107 -0.707107" unit_id="105660"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-790 -4700 775" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_087" position="-790 -4700 775" rotation="0 0 -0.707107 -0.707107" unit_id="105662"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_087" position="-790 -4700 775" rotation="0 0 -0.707107 -0.707107" unit_id="105662"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_033" position="-800 -4748.75 875" rotation="-0 -0 0 -1" unit_id="105663"/>
@@ -9666,10 +9666,10 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_034" position="800 -5048.75 875" rotation="0 0 1 4.37114e-008" unit_id="105665"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="760 -4900 775" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_088" position="790 -4900 775" rotation="0 0 0.707107 -0.707107" unit_id="105735"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_088" position="790 -4900 775" rotation="0 0 0.707107 -0.707107" unit_id="105735"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="760 -5100 775" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_089" position="790 -5100 775" rotation="0 0 0.707107 -0.707107" unit_id="105745"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_089" position="790 -5100 775" rotation="0 0 0.707107 -0.707107" unit_id="105745"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_2x2_indoor_metal_floor_ceiling_combo" name_id="ind_ext_dock_bld_2x2_indoor_metal_floor_ceiling_combo_318" position="-800 -6600 797" rotation="-0 -0 0 -1" unit_id="105754"/>
@@ -9810,10 +9810,10 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_035" position="-351.25 -5400 875" rotation="0 0 -0.707107 -0.707107" unit_id="105887"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-200 -5355 875" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_090" position="-200 -5355 875" rotation="0 0 1 -4.37114e-008" unit_id="105888"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_090" position="-200 -5355 875" rotation="0 0 1 -4.37114e-008" unit_id="105888"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-400 -5355 875" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_091" position="-400 -5355 875" rotation="0 0 1 -4.37114e-008" unit_id="105916"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_091" position="-400 -5355 875" rotation="0 0 1 -4.37114e-008" unit_id="105916"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top" name_id="ind_ext_dock_bld_4x4_top_058" position="0 -5400 800" rotation="0 0 -0.707107 -0.707107" unit_id="105917"/>
@@ -9846,10 +9846,10 @@
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window" name_id="ind_ext_dock_bld_4x4_top_window_031" position="600 -4600 1600" rotation="0 0 0.707107 -0.707107" unit_id="105926"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="400 -4614 1575" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_092" position="400 -4610 1575" rotation="0 0 0 -1" unit_id="105928"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_092" position="400 -4610 1575" rotation="0 0 0 -1" unit_id="105928"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="600 -4614 1575" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_093" position="600 -4610 1575" rotation="0 0 0 -1" unit_id="105929"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_093" position="600 -4610 1575" rotation="0 0 0 -1" unit_id="105929"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window" name_id="ind_ext_dock_bld_4x4_top_window_032" position="-200 -4600 1600" rotation="0 0 0.707107 -0.707107" unit_id="105931"/>
@@ -9858,10 +9858,10 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night_open" name_id="ind_ext_dock_bld_window_solid_night_open_011" position="-248.75 -4600 1675" rotation="0 0 0.707107 -0.707107" unit_id="105932"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-400 -4640 1575" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_094" position="-400 -4610 1575" rotation="0 0 0 -1" unit_id="105933"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_094" position="-400 -4610 1575" rotation="0 0 0 -1" unit_id="105933"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-200 -4640 1575" _prev_rot="0 0 0 -1" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_095" position="-200 -4610 1575" rotation="0 0 0 -1" unit_id="105934"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_095" position="-200 -4610 1575" rotation="0 0 0 -1" unit_id="105934"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window" name_id="ind_ext_dock_bld_4x4_top_window_033" position="200 -4400 800" rotation="0 0 0.707107 -0.707107" unit_id="105935"/>
@@ -10405,19 +10405,19 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_040" position="-1600 -5351.25 1275" rotation="0 0 1 4.37114e-008" unit_id="106884"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1619 -5400 1175" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_108" position="-1610 -5400 1175" rotation="0 0 0.707107 -0.707107" unit_id="106885"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_108" position="-1610 -5400 1175" rotation="0 0 0.707107 -0.707107" unit_id="106885"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1619 -5200 1175" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_109" position="-1610 -5200 1175" rotation="0 0 0.707107 -0.707107" unit_id="106886"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_109" position="-1610 -5200 1175" rotation="0 0 0.707107 -0.707107" unit_id="106886"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window" name_id="ind_ext_dock_bld_4x4_top_window_035" position="-1600 -5000 800" rotation="0 0 -1 4.37114e-008" unit_id="106879"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1613 -5000 775" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_106" position="-1610 -5000 775" rotation="0 0 0.707107 -0.707107" unit_id="106880"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_106" position="-1610 -5000 775" rotation="0 0 0.707107 -0.707107" unit_id="106880"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1613 -4800 775" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_107" position="-1610 -4800 775" rotation="0 0 0.707107 -0.707107" unit_id="106881"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_107" position="-1610 -4800 775" rotation="0 0 0.707107 -0.707107" unit_id="106881"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night_open" name_id="ind_ext_dock_bld_window_solid_night_open_014" position="-1600 -4948.75 875" rotation="0 0 1 -4.37114e-008" unit_id="106882"/>
@@ -10489,10 +10489,10 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night_open" name_id="ind_ext_dock_bld_window_solid_night_open_015" position="-1848.75 -4400 875" rotation="0 0 0.707107 -0.707107" unit_id="106922"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1800 -4417 775" _prev_rot="0 0 0 -1" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_110" position="-1800 -4410 775" rotation="0 0 0 -1" unit_id="106923"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_110" position="-1800 -4410 775" rotation="0 0 0 -1" unit_id="106923"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2000 -4417 775" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_111" position="-2000 -4410 775" rotation="0 0 0 -1" unit_id="106924"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_111" position="-2000 -4410 775" rotation="0 0 0 -1" unit_id="106924"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x1_top" name_id="ind_ext_dock_bld_4x1_top_033" position="-2200 -4400 400" rotation="0 0 0.707107 -0.707107" unit_id="106925"/>
@@ -10543,10 +10543,10 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_039" position="-2400 -4148.75 875" rotation="0 0 1 4.37114e-008" unit_id="107012"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2440 -4000 775" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_112" position="-2410 -4000 775" rotation="0 0 0.707107 -0.707107" unit_id="107013"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_112" position="-2410 -4000 775" rotation="0 0 0.707107 -0.707107" unit_id="107013"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2440 -4200 775" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_113" position="-2410 -4200 775" rotation="0 0 0.707107 -0.707107" unit_id="107014"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_113" position="-2410 -4200 775" rotation="0 0 0.707107 -0.707107" unit_id="107014"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top" name_id="ind_ext_dock_bld_4x4_top_078" position="-2800 -3600 800" rotation="0 0 0.707107 -0.707107" unit_id="107015"/>
@@ -10570,10 +10570,10 @@
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window" name_id="ind_ext_dock_bld_4x4_top_window_039" position="-3200 -3600 800" rotation="0 0 0.707107 -0.707107" unit_id="107051"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3200 -3641 775" _prev_rot="0 0 0 -1" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_114" position="-3200 -3611 775" rotation="0 0 0 -1" unit_id="107052"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_114" position="-3200 -3611 775" rotation="0 0 0 -1" unit_id="107052"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3400 -3641 775" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_115" position="-3400 -3611 775" rotation="0 0 0 -1" unit_id="107053"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_115" position="-3400 -3611 775" rotation="0 0 0 -1" unit_id="107053"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top" name_id="ind_ext_dock_bld_4x4_top_082" position="-3400 -3600 1200" rotation="0 0 0.707107 -0.707107" unit_id="107054"/>
@@ -10585,19 +10585,19 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_043" position="-3051.25 -3600 1275" rotation="0 0 0.707107 -0.707107" unit_id="107056"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3200 -3641 1175" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_116" position="-3200 -3611 1175" rotation="0 0 0 -1" unit_id="107057"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_116" position="-3200 -3611 1175" rotation="0 0 0 -1" unit_id="107057"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3000 -3641 1175" _prev_rot="0 0 0 -1" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_117" position="-3000 -3611 1175" rotation="0 0 0 -1" unit_id="107058"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_117" position="-3000 -3611 1175" rotation="0 0 0 -1" unit_id="107058"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window" name_id="ind_ext_dock_bld_4x4_top_window_041" position="-2800 -3600 400" rotation="0 0 0.707107 -0.707107" unit_id="107059"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3000 -3611 375" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_118" position="-3000 -3611 375" rotation="0 0 0 -1" unit_id="107061"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_118" position="-3000 -3611 375" rotation="0 0 0 -1" unit_id="107061"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2800 -3641 375" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_119" position="-2800 -3611 375" rotation="0 0 0 -1" unit_id="107062"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_119" position="-2800 -3611 375" rotation="0 0 0 -1" unit_id="107062"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x1_top" name_id="ind_ext_dock_bld_4x1_top_051" position="-2700 -3600 800" rotation="0 0 0.707107 -0.707107" unit_id="107063"/>
@@ -10642,16 +10642,16 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_045" position="-4000 -5048.75 1275" rotation="-0 -0 0 -1" unit_id="107076"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3988 -3800 1175" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_120" position="-3990 -3800 1175" rotation="0 0 -0.707107 -0.707107" unit_id="107077"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_120" position="-3990 -3800 1175" rotation="0 0 -0.707107 -0.707107" unit_id="107077"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3988 -4000 1175" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_121" position="-3990 -4000 1175" rotation="0 0 -0.707107 -0.707107" unit_id="107078"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_121" position="-3990 -4000 1175" rotation="0 0 -0.707107 -0.707107" unit_id="107078"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3988 -5000 1175" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_122" position="-3990 -5000 1175" rotation="0 0 -0.707107 -0.707107" unit_id="107079"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_122" position="-3990 -5000 1175" rotation="0 0 -0.707107 -0.707107" unit_id="107079"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3988 -5200 1175" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_123" position="-3990 -5200 1175" rotation="0 0 -0.707107 -0.707107" unit_id="107080"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_123" position="-3990 -5200 1175" rotation="0 0 -0.707107 -0.707107" unit_id="107080"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x2_top" name_id="ind_ext_dock_bld_4x2_top_008" position="-4000 -3800 400" rotation="0 0 -1.49012e-007 -1" unit_id="107081"/>
@@ -10675,16 +10675,16 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night_open" name_id="ind_ext_dock_bld_window_solid_night_open_016" position="-4000 -4848.75 475" rotation="-0 -0 0 -1" unit_id="107087"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3960 -4000 375" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_124" position="-3990 -4000 375" rotation="0 0 -0.707107 -0.707107" unit_id="107088"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_124" position="-3990 -4000 375" rotation="0 0 -0.707107 -0.707107" unit_id="107088"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3960 -4200 375" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_125" position="-3990 -4200 375" rotation="0 0 -0.707107 -0.707107" unit_id="107089"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_125" position="-3990 -4200 375" rotation="0 0 -0.707107 -0.707107" unit_id="107089"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3960 -4800 375" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_126" position="-3990 -4800 375" rotation="0 0 -0.707107 -0.707107" unit_id="107091"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_126" position="-3990 -4800 375" rotation="0 0 -0.707107 -0.707107" unit_id="107091"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3960 -5000 375" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_127" position="-3990 -5000 375" rotation="0 0 -0.707107 -0.707107" unit_id="107092"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_127" position="-3990 -5000 375" rotation="0 0 -0.707107 -0.707107" unit_id="107092"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top" name_id="ind_ext_dock_bld_4x4_top_086" position="-4000 -3800 800" rotation="-0 -0 0 -1" unit_id="107093"/>
@@ -10708,10 +10708,10 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_047" position="-3351.25 -5600 475" rotation="0 0 -0.707107 -0.707107" unit_id="107100"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3200 -5589 375" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_128" position="-3200 -5590 375" rotation="0 0 1 -4.37114e-008" unit_id="107101"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_128" position="-3200 -5590 375" rotation="0 0 1 -4.37114e-008" unit_id="107101"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3400 -5589 375" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="200 -1.74846e-005 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_129" position="-3400 -5590 375" rotation="0 0 1 -4.37114e-008" unit_id="107102"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_129" position="-3400 -5590 375" rotation="0 0 1 -4.37114e-008" unit_id="107102"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window" name_id="ind_ext_dock_bld_4x4_top_window_047" position="-2600 -5600 400" rotation="0 0 -0.707107 -0.707107" unit_id="107104"/>
@@ -10726,10 +10726,10 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_049" position="-2551.25 -5600 875" rotation="0 0 -0.707107 -0.707107" unit_id="107110"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2400 -5555 875" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_132" position="-2400 -5555 875" rotation="0 0 1 -4.37114e-008" unit_id="107111"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_132" position="-2400 -5555 875" rotation="0 0 1 -4.37114e-008" unit_id="107111"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2600 -5555 875" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_133" position="-2600 -5555 875" rotation="0 0 1 -4.37114e-008" unit_id="107112"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_133" position="-2600 -5555 875" rotation="0 0 1 -4.37114e-008" unit_id="107112"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top" name_id="ind_ext_dock_bld_4x4_top_095" position="-3400 -5600 800" rotation="0 0 -0.707107 -0.707107" unit_id="107114"/>
@@ -10744,10 +10744,10 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_050" position="-3751.25 -5600 1275" rotation="0 0 -0.707107 -0.707107" unit_id="107117"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3600 -5590 1175" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_134" position="-3600 -5590 1175" rotation="0 0 1 -4.37114e-008" unit_id="107118"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_134" position="-3600 -5590 1175" rotation="0 0 1 -4.37114e-008" unit_id="107118"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3800 -5591 1175" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="200 -1.74846e-005 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_135" position="-3800 -5590 1175" rotation="0 0 1 -4.37114e-008" unit_id="107119"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_135" position="-3800 -5590 1175" rotation="0 0 1 -4.37114e-008" unit_id="107119"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top" name_id="ind_ext_dock_bld_4x4_top_098" position="-2800 -5600 1200" rotation="0 0 -0.707107 -0.707107" unit_id="107121"/>
@@ -18637,19 +18637,19 @@
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window" name_id="ind_ext_dock_bld_4x4_top_window_110" position="-1202 -9200 400" rotation="0 0 -0.707107 -0.707107" unit_id="102841"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1002 -9159 375" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_032" position="-1002 -9155 375" rotation="0 0 1 -4.37114e-008" unit_id="102842"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_032" position="-1002 -9155 375" rotation="0 0 1 -4.37114e-008" unit_id="102842"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1202 -9159 375" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_033" position="-1202 -9155 375" rotation="0 0 1 -4.37114e-008" unit_id="102843"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_033" position="-1202 -9155 375" rotation="0 0 1 -4.37114e-008" unit_id="102843"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_4x4_top_window" name_id="ind_ext_dock_bld_4x4_top_window_111" position="-802 -9200 400" rotation="0 0 -0.707107 -0.707107" unit_id="102848"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-602 -9159 375" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_034" position="-602 -9155 375" rotation="0 0 1 -4.37114e-008" unit_id="102849"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_034" position="-602 -9155 375" rotation="0 0 1 -4.37114e-008" unit_id="102849"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-802 -9159 375" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_035" position="-802 -9155 375" rotation="0 0 1 -4.37114e-008" unit_id="102851"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_035" position="-802 -9155 375" rotation="0 0 1 -4.37114e-008" unit_id="102851"/>
 		</table>
 		<table>
 			<unit_data continent="world" mesh_variation="" name="units/pd2_dlc_cage/props/ind_prop_cardealership_barrels/ind_prop_cardealership_barrel_closed" name_id="ind_prop_cardealership_barrel_closed_017" position="-104 -8182 403.006" rotation="0 0 -0.48481 -0.874619" unit_id="102873"/>
@@ -18877,10 +18877,10 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_029" position="-3200 -7751.25 875" rotation="0 0 1 0" unit_id="103043"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3245 -7600 875" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_054" position="-3245 -7600 875" rotation="0 0 0.707107 -0.707107" unit_id="103044"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_054" position="-3245 -7600 875" rotation="0 0 0.707107 -0.707107" unit_id="103044"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3245 -7800 875" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_055" position="-3245 -7800 875" rotation="0 0 0.707107 -0.707107" unit_id="103045"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_055" position="-3245 -7800 875" rotation="0 0 0.707107 -0.707107" unit_id="103045"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_2x2_indoor_metal_floor_ceiling_combo" name_id="ind_ext_dock_bld_2x2_indoor_metal_floor_ceiling_combo_522" position="-3400 -7425 1222" rotation="-0 -0 0 -1" unit_id="103046"/>
@@ -18937,7 +18937,7 @@
 			<unit_data continent="world" mesh_variation="" name="units/pd2_indiana/props/mus_prop_diamond_door/mus_prop_diamond_securitygate" name_id="mus_prop_diamond_securitygate_005" position="-2250 -5580 871" rotation="0 0 0.707107 -0.707107" unit_id="103065"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3225 -7443 871" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_indiana/props/mus_prop_diamond_door/mus_prop_diamond_securitygate" name_id="mus_prop_diamond_securitygate_006" position="-3220 -7443 871" rotation="0 0 0 -1" unit_id="103066"/>
+			<unit_data continent="world" mesh_variation="" name="units/pd2_indiana/props/mus_prop_diamond_door/mus_prop_diamond_securitygate" name_id="mus_prop_diamond_securitygate_006" position="-3220 -7443 871" rotation="0 0 0 -1" unit_id="103066"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_on_ai_graph="true" name="units/pd2_dlc_arena/equipment/gen_prop_door_metal_v2/gen_prop_door_metal_v2" name_id="gen_prop_door_metal_v2_008" position="-3225 -7900 797" rotation="0 0 0.707107 0.707107" unit_id="103067"/>
@@ -24289,7 +24289,7 @@
 			<unit_data continent="world" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_02_on" name_id="ind_ext_prop_lamp_02_on_010" position="-2300 -4451 245.861" rotation="-0.707107 -6.18172e-008 -6.18172e-008 -0.707107" unit_id="104429"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1640 -4904 -4" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_cloth" name_id="air_prop_runway_fence_cloth_v2_033" position="-1635 -4904 -4" rotation="0 0 0.707107 -0.707107" unit_id="104431"/>
+			<unit_data continent="world" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_cloth" name_id="air_prop_runway_fence_cloth_v2_033" position="-1635 -4904 -4" rotation="0 0 0.707107 -0.707107" unit_id="104431"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/ind_prop_warehouse_lamp_ceiling/ind_prop_warehouse_lamp_ceiling_b_orange" name_id="ind_prop_warehouse_lamp_ceiling_b_orange_019" position="-2350 -5200 674.605" rotation="-0 -0 0 -1" unit_id="101754"/>
@@ -26793,7 +26793,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_corner_17_32x32_il" name_id="hcm_bdrop_mid_corner_17_32x32_il_005" position="-2475 11067 -175" rotation="0 0 0.707107 -0.707107" unit_id="105378"/>
+			<unit_data continent="world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_corner_17_32x32_il" name_id="hcm_bdrop_mid_corner_17_32x32_il_005" position="-2475 11064 -175" rotation="0 0 0.707107 -0.707107" unit_id="105378"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_corner_17_32x32_il" name_id="hcm_bdrop_mid_corner_17_32x32_il_006" position="4745 11067 -175" rotation="0 0 0 -1" unit_id="105379"/>
@@ -29760,10 +29760,10 @@
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_037" position="550 -4398.75 475" rotation="0 0 0.707107 -0.707107" unit_id="106395"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2419 -5580 3.72529e-007" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_130" position="-2419 -5588 3.72529e-007" rotation="0 0 0 -1" unit_id="103070"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_130" position="-2419 -5588 3.72529e-007" rotation="0 0 0 -1" unit_id="103070"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2219 -5580 3.72529e-007" _prev_rot="0 0 0 -1" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_131" position="-2219 -5588 3.72529e-007" rotation="0 0 0 -1" unit_id="106396"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_131" position="-2219 -5588 3.72529e-007" rotation="0 0 0 -1" unit_id="106396"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/pd2_dlc_dark/props/drk_prop_murkywater_crate/drk_prop_murkywater_crate" name_id="drk_prop_murkywater_crate_019" position="-2313 -4335 4.61936e-005" rotation="0 0 0 -1" unit_id="106397"/>
@@ -29775,10 +29775,10 @@
 			<unit_data continent="world" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_768" position="-2400 -4425 3.72529e-007" rotation="0 0 0.707107 -0.707107" unit_id="103095"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1650 -5187 388" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_228" position="-1645 -5187 388" rotation="0 0 -0.707107 -0.707107" unit_id="100981"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_228" position="-1645 -5187 388" rotation="0 0 -0.707107 -0.707107" unit_id="100981"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1650 -4987 388" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_229" position="-1645 -4987 388" rotation="0 0 -0.707107 -0.707107" unit_id="103073"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_229" position="-1645 -4987 388" rotation="0 0 -0.707107 -0.707107" unit_id="103073"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_230" position="-753 -5408 411" rotation="0 0 -0.707107 0.707107" unit_id="106402"/>
@@ -30021,79 +30021,79 @@
 			<unit_data continent="world" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_1017" position="-186.186 -4693.62 399.632" rotation="0.5 0.5 0.5 0.5" unit_id="106566"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="425 -4447 425" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_277" position="425 -4407 425" rotation="0 0 0 -1" unit_id="106567"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_277" position="425 -4407 425" rotation="0 0 0 -1" unit_id="106567"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="625 -4447 425" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_278" position="625 -4407 425" rotation="0 0 0 -1" unit_id="106568"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_278" position="625 -4407 425" rotation="0 0 0 -1" unit_id="106568"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="0 -4440 -25" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_080" position="0 -4410 -25" rotation="0 0 0 -1" unit_id="106569"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_080" position="0 -4410 -25" rotation="0 0 0 -1" unit_id="106569"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="200 -4440 -25" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_081" position="200 -4410 -25" rotation="0 0 0 -1" unit_id="106570"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_081" position="200 -4410 -25" rotation="0 0 0 -1" unit_id="106570"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="0 -4412 775" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_280" position="0 -4410 775" rotation="0 0 0 -1" unit_id="106571"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_280" position="0 -4410 775" rotation="0 0 0 -1" unit_id="106571"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="200 -4412 775" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_281" position="200 -4410 775" rotation="0 0 0 -1" unit_id="106572"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_281" position="200 -4410 775" rotation="0 0 0 -1" unit_id="106572"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="793 -4892 425" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_282" position="790 -4892 425" rotation="0 0 -0.707107 -0.707107" unit_id="106573"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_282" position="790 -4892 425" rotation="0 0 -0.707107 -0.707107" unit_id="106573"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="793 -4692 425" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_283" position="790 -4692 425" rotation="0 0 -0.707107 -0.707107" unit_id="106574"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_283" position="790 -4692 425" rotation="0 0 -0.707107 -0.707107" unit_id="106574"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-783 -5408 411" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_292" position="-790 -5408 411" rotation="0 0 0.707107 -0.707107" unit_id="105937"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_292" position="-790 -5408 411" rotation="0 0 0.707107 -0.707107" unit_id="105937"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-791 -5608 411" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_293" position="-790 -5608 411" rotation="0 0 0.707107 -0.707107" unit_id="105938"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_293" position="-790 -5608 411" rotation="0 0 0.707107 -0.707107" unit_id="105938"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1625 -5187 388" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_294" position="-1610 -5187 388" rotation="0 0 -0.707107 -0.707107" unit_id="106579"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_294" position="-1610 -5187 388" rotation="0 0 -0.707107 -0.707107" unit_id="106579"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1625 -4987 388" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_295" position="-1610 -4987 388" rotation="0 0 -0.707107 -0.707107" unit_id="106580"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_295" position="-1610 -4987 388" rotation="0 0 -0.707107 -0.707107" unit_id="106580"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1630 -5060 330" _prev_rot="-0.5 0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v3" name_id="gen_prop_plywood_v3_006" position="-1630 -4800 330" rotation="-0.5 0.5 -0.5 -0.5" unit_id="106581"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v3" name_id="gen_prop_plywood_v3_006" position="-1630 -4800 330" rotation="-0.5 0.5 -0.5 -0.5" unit_id="106581"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1630 -5100 330" _prev_rot="-0.5 0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v3" name_id="gen_prop_plywood_v3_007" position="-1630 -5100 330" rotation="-0.5 0.5 -0.5 -0.5" unit_id="106582"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v3" name_id="gen_prop_plywood_v3_007" position="-1630 -5100 330" rotation="-0.5 0.5 -0.5 -0.5" unit_id="106582"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3950 -7600 375" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_056" position="-3955 -7600 375" rotation="0 0 -0.707107 -0.707107" unit_id="101928"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_056" position="-3955 -7600 375" rotation="0 0 -0.707107 -0.707107" unit_id="101928"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3950 -7400 375" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_057" position="-3955 -7400 375" rotation="0 0 -0.707107 -0.707107" unit_id="101929"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_057" position="-3955 -7400 375" rotation="0 0 -0.707107 -0.707107" unit_id="101929"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3950 -8600 375" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_060" position="-3955 -8600 375" rotation="0 0 -0.707107 -0.707107" unit_id="101936"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_060" position="-3955 -8600 375" rotation="0 0 -0.707107 -0.707107" unit_id="101936"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3950 -8800 375" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_061" position="-3955 -8800 375" rotation="0 0 -0.707107 -0.707107" unit_id="101937"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_061" position="-3955 -8800 375" rotation="0 0 -0.707107 -0.707107" unit_id="101937"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3950 -8800 -25" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_062" position="-3955 -8800 -25" rotation="0 0 -0.707107 -0.707107" unit_id="101940"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_062" position="-3955 -8800 -25" rotation="0 0 -0.707107 -0.707107" unit_id="101940"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-3960 -8600 -25" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_063" position="-3955 -8600 -25" rotation="0 0 -0.707107 -0.707107" unit_id="101941"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_063" position="-3955 -8600 -25" rotation="0 0 -0.707107 -0.707107" unit_id="101941"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2419 -5555 3.72529e-007" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_296" position="-2419 -5555 3.72529e-007" rotation="0 0 0 -1" unit_id="106585"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_296" position="-2419 -5555 3.72529e-007" rotation="0 0 0 -1" unit_id="106585"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2219 -5548 3.72529e-007" _prev_rot="0 0 0 -1" continent="world" local_pos="200 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_297" position="-2219 -5555 3.72529e-007" rotation="0 0 0 -1" unit_id="106586"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_297" position="-2219 -5555 3.72529e-007" rotation="0 0 0 -1" unit_id="106586"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="765 -4704 -4" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_cloth" name_id="air_prop_runway_fence_cloth_v2_034" position="765 -4704 -4" rotation="0 0 0.707107 -0.707107" unit_id="101944"/>
+			<unit_data continent="world" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_cloth" name_id="air_prop_runway_fence_cloth_v2_034" position="765 -4704 -4" rotation="0 0 0.707107 -0.707107" unit_id="101944"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="760 -4600 330" _prev_rot="-0.5 0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v3" name_id="gen_prop_plywood_v3_008" position="770 -4600 330" rotation="-0.5 0.5 -0.5 -0.5" unit_id="101945"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v3" name_id="gen_prop_plywood_v3_008" position="770 -4600 330" rotation="-0.5 0.5 -0.5 -0.5" unit_id="101945"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="760 -4900 330" _prev_rot="-0.5 0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v3" name_id="gen_prop_plywood_v3_009" position="770 -4900 330" rotation="-0.5 0.5 -0.5 -0.5" unit_id="106575"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v3" name_id="gen_prop_plywood_v3_009" position="770 -4900 330" rotation="-0.5 0.5 -0.5 -0.5" unit_id="106575"/>
 		</table>
 	</statics>
 	<values>
