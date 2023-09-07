@@ -181,8 +181,8 @@
 		<object name="g_plane_178" enabled="true"/>
 		<object name="g_plane_179" enabled="true"/>
 		<object name="g_plane_180" enabled="true"/>
-		<object name="g_plane_181" enabled="true"/>
-		<object name="g_plane_182" enabled="true"/>
+		<!--<object name="g_plane_181" enabled="true"/>
+		<object name="g_plane_182" enabled="true"/>-->
 		<object name="g_plane_183" enabled="true"/>
 		<object name="g_plane_184" enabled="true"/>
 		<object name="g_plane_185" enabled="true"/>
@@ -239,6 +239,12 @@
 		<object name="g_plane_236" enabled="true"/>
 		<object name="g_plane_237" enabled="true"/>
 		<object name="g_plane_238" enabled="true"/>
+		<object name="g_plane_239" enabled="true"/>
+		<object name="g_plane_240" enabled="true"/>
+		<object name="g_plane_241" enabled="true"/>
+		<object name="g_plane_242" enabled="true"/>
+		<object name="g_plane_243" enabled="true"/>
+		<object name="g_plane_244" enabled="true"/>
 	</graphics>
 	<occluders>
 		<occluder name="g_plane_001" />
@@ -421,8 +427,8 @@
 		<occluder name="g_plane_178" />
 		<occluder name="g_plane_179" />
 		<occluder name="g_plane_180" />
-		<occluder name="g_plane_181" />
-		<occluder name="g_plane_182" />
+		<!--<occluder name="g_plane_181" />
+		<occluder name="g_plane_182" />-->
 		<occluder name="g_plane_183" />
 		<occluder name="g_plane_184" />
 		<occluder name="g_plane_185" />
@@ -479,5 +485,11 @@
 		<occluder name="g_plane_236" />
 		<occluder name="g_plane_237" />
 		<occluder name="g_plane_238" />
+		<occluder name="g_plane_239" />
+		<occluder name="g_plane_240" />
+		<occluder name="g_plane_241" />
+		<occluder name="g_plane_242" />
+		<occluder name="g_plane_243" />
+		<occluder name="g_plane_244" />
 	</occluders>
 </dynamic_object>
