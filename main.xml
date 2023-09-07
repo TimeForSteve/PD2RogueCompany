@@ -40,39 +40,6 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.yaml" language="english"/>
 	</Localization>
-	<Sounds directory="assets/vo">
-		<sound id="RC_BriefingDialogue" path="RC_BriefingDialogue.ogg" subtitle_id="RC_BriefingDialogue"/>
-		<sound id="RC_BriefingEvent" path="RC_BriefingEvent.ogg" subtitle_id="RC_BriefingEvent"/>
-		<sound id="RC_Debrief" path="RC_Debrief.ogg" subtitle_id="RC_Debrief"/>
-		<sound id="RC_driver" path="RC_driver.ogg" subtitle_id="RC_driver"/>
-		<sound id="RC_Drones1" path="RC_Drones1.ogg" subtitle_id="RC_Drones1"/>
-		<sound id="RC_Drones2" path="RC_Drones2.ogg" subtitle_id="RC_Drones2"/>
-		<sound id="RC_GenSec1" path="RC_GenSec1.ogg" subtitle_id="RC_GenSec1"/>
-		<sound id="RC_GenSec2" path="RC_GenSec2.ogg" subtitle_id="RC_GenSec2"/>
-		<sound id="RC_Gold1" path="RC_Gold1.ogg" subtitle_id="RC_Gold1"/>
-		<sound id="RC_Gold2" path="RC_Gold2.ogg" subtitle_id="RC_Gold2"/>
-		<sound id="RC_GunTruck1" path="RC_GunTruck1.ogg" subtitle_id="RC_GunTruck1"/>
-		<sound id="RC_GunTruck2" path="RC_GunTruck2.ogg" subtitle_id="RC_GunTruck2"/>
-		<sound id="RC_Hideout1" path="RC_Hideout1.ogg" subtitle_id="RC_Hideout1"/>
-		<sound id="RC_Hideout2" path="RC_Hideout2.ogg" subtitle_id="RC_Hideout2"/>
-		<sound id="RC_KnH1" path="RC_KnH1.ogg" subtitle_id="RC_KnH1"/>
-		<sound id="RC_KnH2" path="RC_KnH2.ogg" subtitle_id="RC_KnH2"/>
-		<sound id="RC_Muscle1" path="RC_Muscle1.ogg" subtitle_id="RC_Muscle1"/>
-		<sound id="RC_Muscle2" path="RC_Muscle2.ogg" subtitle_id="RC_Muscle2"/>
-		<sound id="RC_obj1" path="RC_obj1.ogg" subtitle_id="RC_obj1"/>
-		<sound id="RC_obj2" path="RC_obj2.ogg" subtitle_id="RC_obj2"/>
-		<sound id="RC_obj3" path="RC_obj3.ogg" subtitle_id="RC_obj3"/>
-		<sound id="RC_obj4A" path="RC_obj4A.ogg" subtitle_id="RC_obj4A"/>
-		<sound id="RC_obj4B" path="RC_obj4B.ogg" subtitle_id="RC_obj4B"/>
-		<sound id="RC_obj5A" path="RC_obj5A.ogg" subtitle_id="RC_obj5A"/>
-		<sound id="RC_obj5B" path="RC_obj5B.ogg" subtitle_id="RC_obj5B"/>
-		<sound id="RC_obj7" path="RC_obj7.ogg" subtitle_id="RC_obj7"/>
-		<sound id="RC_obj8" path="RC_obj8.ogg" subtitle_id="RC_obj8"/>
-		<sound id="RC_Server1" path="RC_Server1.ogg" subtitle_id="RC_Server1"/>
-		<sound id="RC_Server2" path="RC_Server2.ogg" subtitle_id="RC_Server2"/>
-		<sound id="RC_WineCont1" path="RC_WineCont1.ogg" subtitle_id="RC_WineCont1"/>
-		<sound id="RC_WineCont2" path="RC_WineCont2.ogg" subtitle_id="RC_WineCont2"/>
-	</Sounds>
 	<contact assets_gui="guis/mission_briefing/preload_contact_bain" id="yaeger" name_id="contact_yaeger_name" package="packages/contact_bain"/>
 	<level ai_group_type="America" briefing_dialog="RC_BriefingDialogue" id="RogueCompany" intro_event="" max_bags="32" player_style="generic">
 		<add file="levels/RogueCompany/add.xml"/>
@@ -85,6 +52,36 @@
 			<value_node value=""/>
 		</outro_event>
 		<packages/>
+		<sounds directory="assets/vo" dont_store_float="true" unload="true">
+			<sound id="RC_BriefingDialogue" path="RC_BriefingDialogue.ogg" subtitle_id="RC_BriefingDialogue"/>
+			<sound id="RC_BriefingEvent" path="RC_BriefingEvent.ogg" subtitle_id="RC_BriefingEvent"/>
+			<sound id="RC_Debrief" path="RC_Debrief.ogg" subtitle_id="RC_Debrief"/>
+			<sound id="RC_Drones1" path="RC_Drones1.ogg" subtitle_id="RC_Drones1"/>
+			<sound id="RC_Drones2" path="RC_Drones2.ogg" subtitle_id="RC_Drones2"/>
+			<sound id="RC_GenSec1" path="RC_GenSec1.ogg" subtitle_id="RC_GenSec1"/>
+			<sound id="RC_GenSec2" path="RC_GenSec2.ogg" subtitle_id="RC_GenSec2"/>
+			<sound id="RC_Gold1" path="RC_Gold1.ogg" subtitle_id="RC_Gold1"/>
+			<sound id="RC_Gold2" path="RC_Gold2.ogg" subtitle_id="RC_Gold2"/>
+			<sound id="RC_GunTruck1" path="RC_GunTruck1.ogg" subtitle_id="RC_GunTruck1"/>
+			<sound id="RC_GunTruck2" path="RC_GunTruck2.ogg" subtitle_id="RC_GunTruck2"/>
+			<sound id="RC_KnH1" path="RC_KnH1.ogg" subtitle_id="RC_KnH1"/>
+			<sound id="RC_KnH2" path="RC_KnH2.ogg" subtitle_id="RC_KnH2"/>
+			<sound id="RC_Muscle1" path="RC_Muscle1.ogg" subtitle_id="RC_Muscle1"/>
+			<sound id="RC_Muscle2" path="RC_Muscle2.ogg" subtitle_id="RC_Muscle2"/>
+			<sound id="RC_obj1" path="RC_obj1.ogg" subtitle_id="RC_obj1"/>
+			<sound id="RC_obj2" path="RC_obj2.ogg" subtitle_id="RC_obj2"/>
+			<sound id="RC_obj3" path="RC_obj3.ogg" subtitle_id="RC_obj3"/>
+			<sound id="RC_obj4A" path="RC_obj4A.ogg" subtitle_id="RC_obj4A"/>
+			<sound id="RC_obj4B" path="RC_obj4B.ogg" subtitle_id="RC_obj4B"/>
+			<sound id="RC_obj5A" path="RC_obj5A.ogg" subtitle_id="RC_obj5A"/>
+			<sound id="RC_obj5B" path="RC_obj5B.ogg" subtitle_id="RC_obj5B"/>
+			<sound id="RC_obj7" path="RC_obj7.ogg" subtitle_id="RC_obj7"/>
+			<sound id="RC_obj8" path="RC_obj8.ogg" subtitle_id="RC_obj8"/>
+			<sound id="RC_Server1" path="RC_Server1.ogg" subtitle_id="RC_Server1"/>
+			<sound id="RC_Server2" path="RC_Server2.ogg" subtitle_id="RC_Server2"/>
+			<sound id="RC_WineCont1" path="RC_WineCont1.ogg" subtitle_id="RC_WineCont1"/>
+			<sound id="RC_WineCont2" path="RC_WineCont2.ogg" subtitle_id="RC_WineCont2"/>
+		</sounds>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
 				<options merge_mode="add" mode="add"/>
