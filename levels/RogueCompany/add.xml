@@ -26,10 +26,10 @@
 		<object path="units/payday2/characters/ene_gangster_armored/ene_gangster_armored"/>
 	</add>
 	<add path="units/pd2_mod_yrc/occluder/yrc_occluder" type="unit">
-		<material_config force="true" path="units/pd2_mod_yrc/occluder/yrc_occluder" unload="true"/>
-		<model force="true" path="units/pd2_mod_yrc/occluder/yrc_occluder" unload="true"/>
-		<object force="true" path="units/pd2_mod_yrc/occluder/yrc_occluder" unload="true"/>
-		<unit force="true" path="units/pd2_mod_yrc/occluder/yrc_occluder" unload="true"/>
+		<material_config path="units/pd2_mod_yrc/occluder/yrc_occluder"/>
+		<model path="units/pd2_mod_yrc/occluder/yrc_occluder"/>
+		<object path="units/pd2_mod_yrc/occluder/yrc_occluder"/>
+		<unit path="units/pd2_mod_yrc/occluder/yrc_occluder"/>
 	</add>
 	<add>
 		<material_config path="units/pd2_mod_kitteh/props/billboard_sign_katoil/billboard_sign_katoil"/>
@@ -3095,18 +3095,6 @@
 		<object path="units/payday2/characters/civ_acc_keycard_clipped/civ_acc_keycard_clipped"/>
 		<sequence_manager path="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard"/>
 	</add>
-	<add from_db="true" path="units/pd2_dlc_mex/architecture/ext/mex_ext_fence_door_grey_non_jamming" type="unit">
-		<unit path="units/pd2_dlc_mex/architecture/ext/mex_ext_fence_door_grey_non_jamming"/>
-		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_door_grey"/>
-		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_cage_grey"/>
-		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
-		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
-		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
-		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
-		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
-		<gui path="guis/timer_gui"/>
-		<sequence_manager path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_door"/>
-	</add>
 	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m1m_grey" type="unit">
 		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_cage_grey"/>
 		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_2m1m_grey"/>
@@ -3138,10 +3126,35 @@
 		<sequence_manager path="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar"/>
 		<unit path="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar"/>
 	</add>
+	<add from_db="true" path="units/pd2_dlc_mex/architecture/ext/mex_ext_fence_door_grey_non_jamming" type="unit">
+		<unit path="units/pd2_dlc_mex/architecture/ext/mex_ext_fence_door_grey_non_jamming"/>
+		<object path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_door_grey"/>
+		<material_config path="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_cage_grey"/>
+		<sequence_manager path="units/payday2/architecture/ind/ind_ext_level/ind_ext_fence_door"/>
+		<object path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<material_config path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<sequence_manager path="units/payday2/equipment/item_door_drill_small/item_door_drill_small"/>
+		<effect load="true" path="effects/payday2/environment/drill"/>
+		<effect load="true" path="effects/payday2/environment/parts/drill_sparks_particles"/>
+		<effect load="true" path="effects/payday2/environment/parts/drill_sparks"/>
+		<effect load="true" path="effects/payday2/environment/drill_jammed"/>
+		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
+		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
+		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<effect load="true" path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<effect load="true" path="effects/payday2/particles/explosions/shapecharger_explosion"/>
+		<effect load="true" path="effects/payday2/particles/explosions/smoke_explosion/smoke"/>
+		<effect load="true" path="effects/payday2/particles/explosions/smoke_explosion/fire_smoke_mid"/>
+		<effect load="true" path="effects/payday2/particles/explosions/sparks/sparks"/>
+		<effect load="true" path="effects/payday2/particles/explosions/smoke_explosion/dark_smoke_big"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+	</add>
 	<add from_db="true" path="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x2x2m" type="unit">
-		<material_config path="core/material_configs/hub_elements"/>
-		<object path="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x2x2m"/>
-		<sequence_manager path="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x2x2m"/>
 		<unit path="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x2x2m"/>
+		<object path="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x2x2m"/>
+		<material_config path="core/material_configs/hub_elements"/>
+		<sequence_manager path="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x2x2m"/>
 	</add>
 </table>

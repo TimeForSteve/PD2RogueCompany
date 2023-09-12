@@ -3362,7 +3362,7 @@
 			<unit_data continent="editor_only" mesh_variation="state_all_door_open" name="units/payday2/props/gen_prop_container/gen_prop_container" name_id="gen_prop_container_021" position="-964.164 -7953.06 0" rotation="0 0 0.358368 -0.93358" unit_id="200451"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" mesh_variation="open_door" name="units/payday2/vehicles/str_vehicle_truck_boxvan_eday/str_vehicle_truck_boxvan_eday" name_id="str_vehicle_truck_boxvan_eday_010" position="312.905 -4905.14 1.52588e-005" rotation="2.98023e-008 -2.98023e-008 -0.760406 -0.649449" unit_id="200452"/>
+			<unit_data continent="editor_only" mesh_variation="open_door" name="units/payday2/vehicles/str_vehicle_truck_boxvan_eday/str_vehicle_truck_boxvan_eday" name_id="str_vehicle_truck_boxvan_eday_010" position="312.905 -4905.14 0" rotation="0 -0 -0.760406 -0.649448" unit_id="200452"/>
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_1005" position="-2711.96 -7362.55 411.922" rotation="0 0 -0.0174526 -0.999848" unit_id="200454"/>

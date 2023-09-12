@@ -1,6 +1,0 @@
-<unit type="bry" slot="1">
-	<object file="units/pd2_dlc_berry/props/bry_prop_industrial_lift/bry_prop_industrial_lift" />
-	<extensions>
-		<extension name="unit_data" class="ScriptUnitData" />
-	</extensions>
-</unit>

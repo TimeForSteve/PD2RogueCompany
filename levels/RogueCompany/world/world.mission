@@ -279,7 +279,7 @@
 							<entry key="id" type="number" value="100409"/>
 						</entry>
 						<entry index="18" type="table">
-							<entry key="delay" type="number" value="6"/>
+							<entry key="delay" type="number" value="2"/>
 							<entry key="id" type="number" value="100608"/>
 						</entry>
 						<entry index="19" type="table">
@@ -319,7 +319,7 @@
 							<entry key="id" type="number" value="100519"/>
 						</entry>
 						<entry index="28" type="table">
-							<entry key="delay" type="number" value="0"/>
+							<entry key="delay" type="number" value="0.8"/>
 							<entry key="id" type="number" value="100694"/>
 						</entry>
 						<entry index="29" type="table">
@@ -15356,6 +15356,7 @@
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_executed_when_done" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="force_quit_current" type="boolean" value="true"/>
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="position" type="vector3" value="-1720.98 -886.834 4002.5"/>

@@ -1,6 +1,0 @@
-<dynamic_object>
-	<diesel materials="units/pd2_dlc_chill/props/chl_prop_garage_decals/chl_prop_garage_oilspill_a" orientation_object="rp_chl_prop_garage_oilspill_a" />
-	<graphics>
-		<object name="g_g" enabled="true" />
-	</graphics>
-</dynamic_object>

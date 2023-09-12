@@ -1,6 +1,0 @@
-<unit type="mex" slot="1">
-	<object file="units/pd2_dlc_mex/architecture/mex_warehouse_bldg_b/mex_warehouse_beam_01_8m" />
-	<extensions>
-		<extension name="unit_data" class="ScriptUnitData" />
-	</extensions>
-</unit>

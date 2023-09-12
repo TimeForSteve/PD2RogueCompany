@@ -1,7 +1,0 @@
-<materials version="3">
-    <material name="curtain" render_template="generic:DIFFUSE_TEXTURE:DOUBLE_SIDED:INSTANCED:NORMALMAP" version="2">
-        <diffuse_texture file="units/world/props/apartment/curtains/man_prop_int_curtain_low_df"/>
-        <bump_normal_texture file="units/world/props/apartment/curtains/man_prop_int_curtain_low_nm"/>
-        <variable value="0" type="scalar" name="specular_power"/>
-    </material>
-</materials>

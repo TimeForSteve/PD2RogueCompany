@@ -1,6 +1,0 @@
-<unit type="str" slot="1">
-	<object file="units/payday2/props/str_prop_street_sign_roof/str_prop_street_sign_roof_contest_02" />
-	<extensions>
-		<extension name="unit_data" class="ScriptUnitData" />
-	</extensions>
-</unit>

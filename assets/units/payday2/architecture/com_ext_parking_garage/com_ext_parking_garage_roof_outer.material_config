@@ -1,8 +1,0 @@
-<materials version="3">
-    <material name="mat_outer_roof" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:VERTEX_COLOR" version="2">
-        <diffuse_texture file="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_roof_outer_df"/>
-        <bump_normal_texture file="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_roof_outer_nm"/>
-    </material>
-	<material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
-</materials>
-  

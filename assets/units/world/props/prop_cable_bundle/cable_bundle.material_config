@@ -1,5 +1,0 @@
-<materials version="3">
-    <material name="bundle_material" render_template="generic:DIFFUSE_TEXTURE" version="2">
-        <diffuse_texture file="units/world/props/prop_cable_bundle/cable_bundle_df"/>
-    </material>
-</materials>

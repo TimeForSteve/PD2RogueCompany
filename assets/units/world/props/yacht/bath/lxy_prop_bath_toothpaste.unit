@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<unit type="deprecated" slot="1">
-  <object file="units/world/props/yacht/bath/lxy_prop_bath_toothpaste" />
-  <extensions>
-    <extension name="unit_data" class="ScriptUnitData" />
-  </extensions>
-</unit>

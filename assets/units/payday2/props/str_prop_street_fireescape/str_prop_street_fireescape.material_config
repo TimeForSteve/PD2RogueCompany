@@ -1,7 +1,0 @@
-<materials version="3">
-    <material version="2" decal_material="metal" name="mat_fireescape" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:EXTERNAL_ALPHA_REF">
-        <diffuse_texture file="units/payday2/props/str_prop_street_fireescape/str_prop_street_fireescape_df"/>
-        <variable value="0.043000001460314" type="scalar" name="alpha_ref"/>
-    </material>
-    <material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
-</materials>

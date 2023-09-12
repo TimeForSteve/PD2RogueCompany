@@ -1,9 +1,0 @@
-<materials version="3">
-    <material name="bridge_construction_tower" render_template="generic:DIFFUSE_TEXTURE:RL_CORE_ENVIRONMENT" version="2">
-        <diffuse_texture file="units/world/architecture/bridge/bridge_construction_tower_df"/>
-    </material>
-    <material name="bridge_construction_tower_transp" render_template="generic:ALPHA_MASKED:DIFFUSE_TEXTURE:EXTERNAL_ALPHA_REF:RL_CORE_ENVIRONMENT" version="2">
-        <diffuse_texture file="units/world/architecture/bridge/bridge_construction_tower_transp_df"/>
-        <variable value="0.075000002980232" type="scalar" name="alpha_ref"/>
-    </material>
-</materials>

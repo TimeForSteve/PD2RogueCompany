@@ -1,5 +1,0 @@
-<materials version="3">
-    <material name="mat_construction_lift_cs" render_template="generic:DIFFUSE_TEXTURE:RL_BIGPROPS" version="2">
-        <diffuse_texture file="units/pd2_dlc2/csgo_models/props_bank/construction_lift_cs_df"/>
-    </material>
-</materials>

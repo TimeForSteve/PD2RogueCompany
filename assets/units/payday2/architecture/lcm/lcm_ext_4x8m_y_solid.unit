@@ -1,9 +1,0 @@
-<unit type="lcm" slot="1" >
-    <object file="units/payday2/architecture/lcm/lcm_ext_4x8m_y_solid" />
-    <extensions>
-        <extension class="ScriptUnitData" name="unit_data" />
-    </extensions>
-</unit>
-
-
-
