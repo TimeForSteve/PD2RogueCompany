@@ -30083,6 +30083,9 @@
 		<table>
 			<unit_data continent="world" mesh_variation="" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_open_008" position="-800 -4648.75 75" rotation="-0 0 -0 -1" unit_id="105493"/>
 		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_mod_yrc/props/yrc_prop_display_monitor/yrc_prop_display_monitor" name_id="yrc_prop_display_monitor_001" position="277.501 -4723.27 5.268" rotation="0.0800672 -0.0794181 0.699747 -0.705434" unit_id="102808"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

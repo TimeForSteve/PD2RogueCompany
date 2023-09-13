@@ -16,6 +16,14 @@
 		<unit path="units/graff/katlogistics"/>
 	</add>
 	<add unload_on_restart="true">
+		<sequence_manager path="units/pd2_mod_yrc/props/yrc_prop_display_monitor/yrc_prop_display_monitor"/>
+		<material_config path="units/pd2_mod_yrc/props/yrc_prop_display_monitor/yrc_prop_display_monitor"/>
+		<model path="units/pd2_mod_yrc/props/yrc_prop_display_monitor/yrc_prop_display_monitor"/>
+		<object path="units/pd2_mod_yrc/props/yrc_prop_display_monitor/yrc_prop_display_monitor"/>
+		<texture path="units/pd2_mod_yrc/props/yrc_prop_display_monitor/yrc_prop_display_monitor_il"/>
+		<unit path="units/pd2_mod_yrc/props/yrc_prop_display_monitor/yrc_prop_display_monitor"/>
+	</add>
+	<add unload_on_restart="true">
 		<unit load="true" path="units/payday2/characters/ene_gangster_armored/ene_gangster_armored"/>
 		<unit load="true" path="units/payday2/characters/ene_gangster_armored/ene_gangster_armored_husk"/>
 		<material_config path="units/payday2/characters/ene_gangster_armored/ene_gangster_armored"/>
