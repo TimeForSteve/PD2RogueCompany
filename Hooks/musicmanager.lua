@@ -1,9 +1,3 @@
-local jukebox_default_tracks_ori = MusicManager.jukebox_default_tracks
-
-function MusicManager:jukebox_default_tracks()
-    local default_options = jukebox_default_tracks_ori(self)
-
-    default_options.heist_RogueCompany_name = "fk"
-
-    return default_options
-end
+Hooks:PostHook(MusicManager, "jukebox_default_tracks", "RogueCompany_default_track", function(self)
+    self:track_attachment_add("heist_RogueCompany_name", "track_fk")
+end)

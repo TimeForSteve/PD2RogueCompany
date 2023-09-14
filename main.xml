@@ -28,7 +28,7 @@
 		<texture force="true" path="guis/achievements/rc_15kills"/>
 		<texture force="true" path="guis/achievements/rc_6mins"/>
 	</AddFiles>
-	<HeistMusic directory="sounds" id="fk" volume="0.7">
+	<HeistMusic directory="sounds" id="track_fk" volume="0.7">
 		<event name="setup" source="stealth.ogg" start_source="stealth_intro.ogg"/>
 		<event name="anticipation" source="anticipation.ogg" start_source="anticipation_intro.ogg"/>
 		<event name="assault" source="assault.ogg" start_source="assault_intro.ogg"/>

@@ -6,8 +6,8 @@ heist_RogueCompanyNarr_name: "Rogue Company"
 heist_RogueCompany_brief: "Hello my new friends! I am sure we'll get along just fine. I'll cut straight to the point. The Jackals are backstabbing assholes that left me to die on my last job with them. They took something valuable from me: part of my hacking equipment. It's all packed up in a silver briefcase and I managed to track it down to one of their industrial blocks. I need that briefcase back if I want to do some more mischief. While you are there, why not take some of their loot: Weapons, Coke, Cash, you name it! I'll make sure to make every additional bag worth your time. Cops are already in the area, blocking off streets and preparing for an ambush themselves. I'd suggest you dress accordingly."
 heist_RogueCompanyNarr_brief: "You guys have quite the resume. Think you can help me get revenge on my former colleagues in the Jackal street gang? Their industrial block contains loads of valuables, and you get to keep all of it. You in?"
 #Judebox
-menu_jukebox_fk: "Finders keepers"
-menu_jukebox_screen_fk: "Finders keepers"
+menu_jukebox_track_fk: "Finders keepers"
+menu_jukebox_screen_track_fk: "Finders keepers"
 #Objectives
 RC_obj_1: "Enter the block"
 RC_obj_1_desc: "Move inside the industrial block to get this show rolling!"

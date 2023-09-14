@@ -30086,6 +30086,21 @@
 		<table>
 			<unit_data continent="world" name="units/pd2_mod_yrc/props/yrc_prop_display_monitor/yrc_prop_display_monitor" name_id="yrc_prop_display_monitor_001" position="277.501 -4723.27 5.268" rotation="0.0800672 -0.0794181 0.699747 -0.705434" unit_id="102808"/>
 		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_f" name_id="ind_ext_4x8m_groundfloor_f_036" position="2425 -9200 0" rotation="0 0 1.49012e-007 -1" unit_id="102809"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_e" name_id="ind_ext_4x8m_groundfloor_e_048" position="2425 -9200 400" rotation="0 0 1.053e-007 -1" unit_id="105646"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_4x8m_groundfloor_a" name_id="ind_ext_4x8m_groundfloor_a_063" position="2425 -9200 800" rotation="0 0 1.49012e-007 -1" unit_id="105647"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_roof_4x8m_d" name_id="ind_ext_roof_4x8m_d_026" position="2425 -9200 1200" rotation="0 0 1.49012e-007 -1" unit_id="106576"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/payday2/architecture/ind/ind_ext_roof_4x8m_d" name_id="ind_ext_roof_4x8m_d_027" position="2175 -9200 1575" rotation="0 0 1.49012e-007 -1" unit_id="106577"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
