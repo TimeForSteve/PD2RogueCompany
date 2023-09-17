@@ -16605,7 +16605,7 @@
 			<unit_data continent="world" name="units/pd2_dlc2/csgo_models/props_fairgrounds/traffic_barrel" name_id="traffic_barrel_003" position="1097 -7741 4.61936e-005" rotation="0 0 -0.707107 -0.707107" unit_id="100930"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_276" position="936 -6826.85 -4.5962" rotation="-5.7742e-008 -0.0610481 0.998135 -7.078e-008" unit_id="100452"/>
+			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_276" position="943 -6841.78 -6.00732" rotation="-5.95761e-008 -0.0348991 0.999391 -6.92452e-008" unit_id="100452"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/payday2/props/ind_prop_mill_pallet_stacks/ind_prop_mill_pallet_stacks_high_covered" name_id="ind_prop_mill_pallet_stacks_high_covered_005" position="1106 -6950 0" rotation="0 0 0.0958458 -0.995396" unit_id="100931"/>
