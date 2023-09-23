@@ -40,6 +40,9 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.yaml" language="english"/>
 	</Localization>
+	<Sounds directory="assets/vo" unload="true">
+		<sound id="RC_BriefingEvent" path="RC_BriefingEvent.ogg" subtitle_id="RC_BriefingEvent"/>
+	</Sounds>
 	<contact assets_gui="guis/mission_briefing/preload_contact_bain" id="yaeger" name_id="contact_yaeger_name" package="packages/contact_bain"/>
 	<level ai_group_type="America" briefing_dialog="RC_BriefingDialogue" id="RogueCompany" intro_event="" max_bags="32" player_style="generic">
 		<add file="levels/RogueCompany/add.xml"/>
@@ -54,7 +57,6 @@
 		<packages/>
 		<sounds directory="assets/vo" dont_store_float="true" unload="true">
 			<sound id="RC_BriefingDialogue" path="RC_BriefingDialogue.ogg" subtitle_id="RC_BriefingDialogue"/>
-			<sound id="RC_BriefingEvent" path="RC_BriefingEvent.ogg" subtitle_id="RC_BriefingEvent"/>
 			<sound id="RC_Debrief" path="RC_Debrief.ogg" subtitle_id="RC_Debrief"/>
 			<sound id="RC_Drones1" path="RC_Drones1.ogg" subtitle_id="RC_Drones1"/>
 			<sound id="RC_Drones2" path="RC_Drones2.ogg" subtitle_id="RC_Drones2"/>
